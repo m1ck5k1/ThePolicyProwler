@@ -1,3 +1,42 @@
+---
+audit_id: AUD-260222-OBBBA-MECHANICS
+date: "260222"
+subject: "OBBBA H.R.1 — 1116-page source scan, midnight riders, Vote-a-Rama arithmetic leak"
+bill: "H.R. 1 / Public Law 119-21 (OBBBA)"
+severity: CRITICAL
+status: MALICIOUS CODE INJECTED
+key_figures:
+  - {label: "Bill Length", value: "1,116 pages"}
+  - {label: "May House Deficit Projection", value: "$2.4T"}
+  - {label: "July CBO Dynamic Estimate", value: "$3.4T"}
+  - {label: "Interest Premium Projection", value: "$4.1T"}
+  - {label: "Senate Delta Leak", value: "$1.0T"}
+  - {label: "RHTP Bribe", value: "$50B"}
+  - {label: "Medicaid Cuts (10yr)", value: "$137B"}
+actors:
+  - "218 House Republicans"
+  - "Senate (Vote-a-Rama)"
+  - "Special interest (Alaska maritime)"
+affected_programs:
+  - Medicaid
+  - "Rural Health Transformation Fund"
+  - "Federal tax code (Sec. 2.2.14 — whaling)"
+  - "Federal tax code (silencer repeal)"
+vote_counts:
+  house: "218-214 (July 3, 2025)"
+  senate: "Reconciliation / Vote-a-Rama"
+related_audits:
+  - AUD-260222-OBBBA-ANCESTRY
+  - AUD-260222-TERMINAL-OBBBA
+  - AUD-260222-OBBBA-LOBBYIST-ROI
+tags:
+  - OBBBA
+  - mechanics
+  - midnight-riders
+  - vote-a-rama
+  - medicaid
+  - arithmetic-leak
+---
 # ️ BUG REPORT: OBBBA MECHANICS & THE LEGISLATIVE HEIST
 **Audit ID:** AUD-260222-OBBBA-MECHANICS
 **Subject:** Public Law 119-21 (H.R. 1) - "One Big Beautiful Bill Act"

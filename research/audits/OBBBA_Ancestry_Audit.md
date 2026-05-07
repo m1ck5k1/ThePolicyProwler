@@ -1,3 +1,40 @@
+---
+audit_id: AUD-260222-OBBBA-ANCESTRY
+date: "260222"
+subject: "OBBBA H.R.1 — $1T delta leak and midnight riders origin trace"
+bill: "H.R. 1 / Public Law 119-21 (OBBBA)"
+severity: CRITICAL
+status: MALICIOUS CODE INJECTED
+key_figures:
+  - {label: "May House Deficit Target", value: "$2.4T"}
+  - {label: "July CBO Dynamic Estimate", value: "$3.4T"}
+  - {label: "Delta Leak (Senate Vote-a-Rama)", value: "$1.0T"}
+  - {label: "RHTP Liquidity Bribe", value: "$50B"}
+  - {label: "Whaling Deduction Increase", value: "$10K to $50K"}
+actors:
+  - "Senate (Vote-a-Rama)"
+  - "Alaska Native maritime lobbyists"
+  - "Pivot 5"
+affected_programs:
+  - "Rural Health Transformation Fund"
+  - Medicaid
+  - "Federal tax code (Sec. 2.2.14 — whaling)"
+  - "Federal tax code (silencer repeal)"
+vote_counts:
+  house: "218-214 (July 3, 2025)"
+  senate: "Reconciliation / Vote-a-Rama"
+related_audits:
+  - AUD-260222-OBBBA-MECHANICS
+  - AUD-260222-TERMINAL-OBBBA
+  - AUD-260222-OBBBA-LOBBYIST-ROI
+tags:
+  - OBBBA
+  - midnight-riders
+  - arithmetic-leak
+  - senate-vote-a-rama
+  - delta-1T
+  - whaling-deduction
+---
 # ️ BUG REPORT: OBBBA ANCESTRY & THE $1T DELTA LEAK
 **Audit ID:** AUD-260222-OBBBA-ANCESTRY
 **Subject:** Public Law 119-21 (H.R. 1) - "One Big Beautiful Bill Act"

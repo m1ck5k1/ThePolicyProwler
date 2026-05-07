@@ -1,3 +1,49 @@
+---
+audit_id: AUD-260222-TERMINAL-OBBBA
+date: "260222"
+subject: "OBBBA H.R.1 — full multi-vector terminal autopsy"
+bill: "H.R. 1 / Public Law 119-21 (OBBBA)"
+severity: TERMINAL
+status: INSOLVENT
+key_figures:
+  - {label: "Net Interest FY2026", value: "$1.025T"}
+  - {label: "Defense Outlays FY2026", value: "$0.885T"}
+  - {label: "Interest-Defense Gap", value: "$140B"}
+  - {label: "OBBBA Interest Premium (annual)", value: "$39B"}
+  - {label: "TGA Daily Outflow", value: "-$11.4B/day"}
+  - {label: "Daily Debt Interest Accrual", value: "$2.81B/day"}
+  - {label: "DHS Shutdown Daily Savings", value: "$250M/day"}
+  - {label: "Shutdown Burn Ratio", value: "11.24x"}
+  - {label: "RHTP Bribe", value: "$50B"}
+  - {label: "Medicaid Cuts (10yr)", value: "$137B"}
+actors:
+  - "Pivot 5 (Vance/OH, Jenkins/IA, Davies/NE, Croft/KS, Finch/MO)"
+  - "Agri-Med Alliance"
+  - "Rural Hospital Consortium"
+  - "Heartland Health PAC"
+affected_programs:
+  - Medicaid
+  - DHS
+  - "Rural Health Transformation Fund"
+  - "Treasury General Account (TGA)"
+vote_counts:
+  house: "218-214 (July 3, 2025)"
+  senate: "Reconciliation / Vote-a-Rama"
+related_audits:
+  - AUD-260222-OBBBA-ANCESTRY
+  - AUD-260222-OBBBA-MECHANICS
+  - AUD-260222-LIQUIDITY-BURN
+  - AUD-260222-CBO-CROSSOVER
+  - AUD-260222-OBBBA-LOBBYIST-ROI
+tags:
+  - OBBBA
+  - terminal
+  - insolvency
+  - interest-defense-crossover
+  - TGA
+  - midnight-riders
+  - pivot-5
+---
 # ️ TERMINAL BUG REPORT: OBBBA & THE COLLAPSE OF THE FISCAL KERNEL
 **Audit ID:** AUD-260222-TERMINAL-OBBBA
 **Subject:** The "Crime Scene" Autopsy of Public Law 119-21 (H.R. 1)

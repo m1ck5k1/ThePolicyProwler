@@ -1,3 +1,39 @@
+---
+audit_id: AUD-260222-HUMAN-IMPACT
+date: "260222"
+subject: "Ground truth in Pivot 5 districts — clinic closures, Medicaid collapse"
+bill: "H.R. 1 / Public Law 119-21 (OBBBA)"
+severity: CRITICAL
+status: SEVERE SYSTEMIC FAILURE
+key_figures:
+  - {label: "Ohio Medicaid Cuts (10yr)", value: "$33B"}
+  - {label: "Ohio RHTP Disbursement (FY2026)", value: "$202M"}
+  - {label: "Iowa RHTP Disbursement", value: "$209M"}
+  - {label: "Iowa Healthcare Spending Loss (10yr)", value: "$2B"}
+  - {label: "Midwest Medicaid Purge (projected)", value: "1M people"}
+actors:
+  - "Rep. T. Vance (R-OH)"
+  - "Rep. S. Jenkins (R-IA)"
+  - "MercyOne Ottumwa"
+  - "Planned Parenthood (OH closures)"
+affected_programs:
+  - Medicaid
+  - "Rural Health Transformation Fund"
+  - "Rural hospital network (OH, IA, NE, KS, MO)"
+vote_counts:
+  house: "218-214 (July 3, 2025)"
+related_audits:
+  - AUD-260222-OBBBA-LOBBYIST-ROI
+  - AUD-260222-TERMINAL-OBBBA
+tags:
+  - medicaid
+  - ground-truth
+  - pivot-5
+  - clinic-closures
+  - Ohio
+  - Iowa
+  - human-impact
+---
 # AUDIT LOG: 260222_Human_Impact_Scan
 **SUBJECT:** Ground Truth - The "Pivot 5" Districts (OH, IA, NE, KS, MO)
 **STATUS:** SEVERE SYSTEMIC FAILURE DETECTED

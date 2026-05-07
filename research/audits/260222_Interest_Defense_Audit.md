@@ -1,3 +1,37 @@
+---
+audit_id: AUD-260222-CBO-CROSSOVER
+date: "260222"
+subject: "Net Interest ($1.025T) surpasses Defense Outlays ($0.885T) for first time"
+bill: null
+severity: CRITICAL
+status: SOLVENCY THRESHOLD BREACHED
+key_figures:
+  - {label: "Net Interest FY2026", value: "$1.025T"}
+  - {label: "Defense Outlays FY2026", value: "$0.885T"}
+  - {label: "Crossover Gap", value: "$140B"}
+  - {label: "OBBBA Interest Premium (annual)", value: "$39B"}
+  - {label: "OBBBA Debt Expansion", value: "$0.7T"}
+  - {label: "Daily Debt Interest Accrual", value: "$2.81B/day"}
+  - {label: "DHS Shutdown Daily Savings", value: "$250M/day"}
+actors:
+  - "CBO"
+  - "Treasury"
+affected_programs:
+  - "Net Interest (federal budget)"
+  - "Defense Outlays"
+  - DHS
+vote_counts: null
+related_audits:
+  - AUD-260222-TERMINAL-OBBBA
+  - AUD-260222-LIQUIDITY-BURN
+tags:
+  - net-interest
+  - defense
+  - crossover
+  - insolvency
+  - OBBBA
+  - CBO
+---
 # ️ BUG REPORT: THE ARITHMETIC OF INSOLVENCY
 **Audit ID:** AUD-260222-CBO-CROSSOVER
 **Severity:** CRITICAL / SYSTEM FAILURE

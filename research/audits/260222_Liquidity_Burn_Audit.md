@@ -1,3 +1,36 @@
+---
+audit_id: AUD-260222-LIQUIDITY-BURN
+date: "260222"
+subject: "TGA burn rate vs. DHS shutdown smokescreen (Feb 17-21, 2026)"
+bill: null
+severity: CRITICAL
+status: INSOLVENCY ACCELERATING
+key_figures:
+  - {label: "TGA Net Daily Outflow", value: "-$11.4B/day"}
+  - {label: "Daily Debt Interest Accrual", value: "$2.81B/day"}
+  - {label: "DHS Shutdown Daily Savings", value: "$250M/day"}
+  - {label: "Shutdown Efficiency Ratio", value: "11.24x (interest vs. savings)"}
+  - {label: "RHTP Monthly Outlay", value: "$833M/month"}
+  - {label: "RHTP Daily Leak", value: "$27.4M/day"}
+actors:
+  - "Treasury (TGA)"
+  - "DHS (shutdown)"
+affected_programs:
+  - "Treasury General Account (TGA)"
+  - DHS
+  - "Rural Health Transformation Fund"
+vote_counts: null
+related_audits:
+  - AUD-260222-CBO-CROSSOVER
+  - AUD-260222-TERMINAL-OBBBA
+tags:
+  - TGA
+  - DHS-shutdown
+  - burn-rate
+  - liquidity
+  - smokescreen
+  - insolvency
+---
 # ️ BUG REPORT: THE TREASURY LIQUIDITY 'BURN RATE'
 **Audit ID:** AUD-260222-LIQUIDITY-BURN
 **Subject:** TGA Cash Outflow vs. The DHS Shutdown Smokescreen

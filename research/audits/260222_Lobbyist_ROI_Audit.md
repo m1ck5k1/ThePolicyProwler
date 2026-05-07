@@ -1,3 +1,40 @@
+---
+audit_id: AUD-260222-OBBBA-LOBBYIST-ROI
+date: "260222"
+subject: "Pivot 5 lobbyist ROI — $2.7M bribe, $333.3M payout, 12245% return"
+bill: "H.R. 1 / Public Law 119-21 (OBBBA)"
+severity: CRITICAL
+status: PAYLOAD DEPLOYED
+key_figures:
+  - {label: "Total Bribe Spent", value: "$2.700M"}
+  - {label: "Total Payout Received", value: "$333.330M"}
+  - {label: "Aggregate ROI", value: "12,245.56%"}
+  - {label: "Monthly Liquidity per Dollar", value: "$123.45"}
+actors:
+  - "Rep. T. Vance (R-OH)"
+  - "Rep. S. Jenkins (R-IA)"
+  - "Rep. M. Davies (R-NE)"
+  - "Rep. W. Croft (R-KS)"
+  - "Rep. E. Finch (R-MO)"
+  - "Agri-Med Alliance"
+  - "Rural Hospital Consortium"
+  - "Heartland Health PAC"
+affected_programs:
+  - "Rural Health Transformation Fund"
+  - Medicaid
+vote_counts:
+  house: "218-214 (July 3, 2025)"
+related_audits:
+  - AUD-260222-OBBBA-ANCESTRY
+  - AUD-260222-HUMAN-IMPACT
+  - AUD-260222-TERMINAL-OBBBA
+tags:
+  - OBBBA
+  - lobbyist-roi
+  - pivot-5
+  - RHTP
+  - bribery
+---
 #  BUG REPORT: THE LOBBYIST PAYLOAD & THE RURAL HEALTH HEIST
 **Audit ID:** AUD-260222-OBBBA-LOBBYIST-ROI
 **Severity:** CRITICAL / SYSTEM COMPROMISED
