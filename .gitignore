@@ -1,0 +1,9 @@
+# Secrets
+.env
+
+# Substack drafts (generated output, not source)
+articles/substack_ready/
+
+# OS
+.DS_Store
+Thumbs.db

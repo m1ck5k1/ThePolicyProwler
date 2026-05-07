@@ -12,12 +12,26 @@ Example:
 
 Requirements:
     pip install pyaml requests
-    export AIRTABLE_API_KEY=your_personal_access_token
+    Add AIRTABLE_API_KEY=<token> to a .env file in the project root
+    (or export AIRTABLE_API_KEY=<token> in your shell)
 """
 
 import os
 import sys
 import json
+from pathlib import Path
+
+
+def load_dotenv():
+    """Load .env from project root if present, without requiring python-dotenv."""
+    env_path = Path(__file__).resolve().parent.parent / ".env"
+    if env_path.exists():
+        with open(env_path) as f:
+            for line in f:
+                line = line.strip()
+                if line and not line.startswith("#") and "=" in line:
+                    k, _, v = line.partition("=")
+                    os.environ.setdefault(k.strip(), v.strip())
 import re
 import requests
 
@@ -152,10 +166,12 @@ def main():
     if not os.path.exists(audit_path):
         sys.exit(f"File not found: {audit_path}")
 
+    load_dotenv()
     api_key = os.environ.get("AIRTABLE_API_KEY")
     if not api_key:
-        sys.exit("Error: AIRTABLE_API_KEY environment variable not set.\n"
-                 "Get a Personal Access Token from airtable.com/create/tokens")
+        sys.exit("Error: AIRTABLE_API_KEY not found.\n"
+                 "Add it to .env in the project root:\n"
+                 "  echo 'AIRTABLE_API_KEY=your_token' > .env")
 
     fm = extract_frontmatter(audit_path)
     record = build_record(fm, audit_path)
