@@ -147,7 +147,7 @@ def push_to_airtable(record: dict, api_key: str) -> str:
         "Authorization": f"Bearer {api_key}",
         "Content-Type": "application/json",
     }
-    payload = {"records": [{"fields": record}]}
+    payload = {"records": [{"fields": record}], "typecast": True}
     resp = requests.post(API_URL, headers=headers, data=json.dumps(payload))
 
     if resp.status_code not in (200, 201):

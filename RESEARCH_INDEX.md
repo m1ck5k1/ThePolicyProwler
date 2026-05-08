@@ -19,6 +19,10 @@ Format: `| Audit ID / Filename | Subject | Severity | Status | Date |`
 
 ---
 
+| AUD-260507-SILVER-ACT | 260507_SILVER_Act_Audit.md | SILVER Act H.R.8007 — vault market exploit using systemic risk framing; Fulcher/ID, OBBBA connection | HIGH | COMPROMISED |
+
+---
+
 ## Published Articles (`articles/published/`)
 
 | File | Subject | Angle | Date |
