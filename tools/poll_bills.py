@@ -225,18 +225,21 @@ def triage_bills(candidates: list[dict], dry_run: bool = False) -> list[dict]:
         try:
             response = client.messages.create(
                 model="claude-haiku-4-5-20251001",
-                max_tokens=256,
-                system=[
-                    {
-                        "type": "text",
-                        "text": SYSTEM_PROMPT,
-                        "cache_control": {"type": "ephemeral"},  # cache stable system prompt
-                    }
-                ],
+                max_tokens=512,
+                system=SYSTEM_PROMPT,
                 messages=[{"role": "user", "content": user_msg}],
             )
 
-            raw = response.content[0].text.strip()
+            # Extract text from whichever content block carries it
+            raw = next(
+                (b.text.strip() for b in response.content if hasattr(b, "text") and b.text),
+                "",
+            )
+            if not raw:
+                raise ValueError(f"empty response — stop_reason={response.stop_reason}, blocks={[type(b).__name__ for b in response.content]}")
+
+            # Strip accidental markdown fences (```json ... ```)
+            raw = re.sub(r"^```(?:json)?\s*|\s*```$", "", raw, flags=re.DOTALL).strip()
             parsed = json.loads(raw)
 
             results.append({
@@ -254,7 +257,7 @@ def triage_bills(candidates: list[dict], dry_run: bool = False) -> list[dict]:
                 file=sys.stderr,
             )
 
-        except (json.JSONDecodeError, KeyError, anthropic.APIError) as exc:
+        except (json.JSONDecodeError, KeyError, ValueError, anthropic.APIError) as exc:
             print(f"[warn] triage failed for {bill_id}: {exc}", file=sys.stderr)
             results.append({
                 "bill_id": bill_id,
