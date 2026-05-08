@@ -1,0 +1,15 @@
+[
+  {
+    "bill_id": "119hr8375",
+    "score": 4,
+    "reason": "Medicare Advantage (MA) is a $300B+ private insurance market carved out of Medicare. Any 'improvement' bill targeting MA typically contains regulatory capture vectors\u2014exemptions from rate-setting, benefit restrictions, or prior-auth rollbacks that benefit insurers at enrollee/CMS cost. Without summary text, title alone signals high audit priority given MA's history as regulatory arbitrage space.",
+    "vectors": [
+      "Regulatory capture: MA insurers lobby aggressively for carve-outs from Medicare's cost controls",
+      "Fiscal bleed: MA overpayments to private plans vs. traditional Medicare baseline create recurring CMS loss vectors",
+      "Market-access exploit: bills framed as 'improvement' often restrict CMS's ability to enforce network adequacy or deny profit-maximizing benefit cuts",
+      "Entitlement erosion: coverage restrictions disguised as 'flexibility' or 'innovation' language"
+    ],
+    "title": "Medicare Advantage Improvement Act of 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8375"
+  }
+]
