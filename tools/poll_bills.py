@@ -99,35 +99,55 @@ def keyword_match(title: str, summary: str | None) -> bool:
 
 
 # ── Congress.gov polling ──────────────────────────────────────────────────────
+# Per the official client (LibraryOfCongress/api.congress.gov):
+#   - API key goes in the x-api-key header, not a query param
+#   - Congress is a path segment: /v3/bill/119, not ?congress=119
+#   - Paginate via pagination.next until exhausted
 
-def fetch_recent_bills(hours: int) -> list[dict]:
-    """Return bills updated within the last `hours` hours."""
+def _cdg_session() -> requests.Session:
+    """Build a requests Session pre-configured for Congress.gov."""
     if not CONGRESS_API_KEY:
         sys.exit("Error: CONGRESS_API_KEY not set. Add it to .env:\n  CONGRESS_API_KEY=your_key")
+    s = requests.Session()
+    s.headers.update({"x-api-key": CONGRESS_API_KEY})
+    s.params = {"format": "json"}  # type: ignore[assignment]
+    return s
 
+
+def fetch_recent_bills(hours: int) -> list[dict]:
+    """Return all bills updated within the last `hours` hours, following pagination."""
     cutoff = datetime.now(timezone.utc) - timedelta(hours=hours)
     from_dt = cutoff.strftime("%Y-%m-%dT%H:%M:%SZ")
 
-    params = {
-        "api_key":     CONGRESS_API_KEY,
-        "congress":    ACTIVE_CONGRESS,
-        "sort":        "updateDate+desc",
-        "limit":       DEFAULT_LIMIT,
+    session = _cdg_session()
+    url = f"{CONGRESS_API_BASE}/bill/{ACTIVE_CONGRESS}"
+    params: dict = {
+        "sort":         "updateDate desc",
+        "limit":        DEFAULT_LIMIT,
         "fromDateTime": from_dt,
-        "format":      "json",
     }
 
-    url = f"{CONGRESS_API_BASE}/bill"
-    resp = requests.get(url, params=params, timeout=30)
+    all_bills: list[dict] = []
+    page = 1
 
-    if resp.status_code != 200:
-        sys.exit(f"Congress.gov API error {resp.status_code}: {resp.text[:500]}")
+    while url:
+        resp = session.get(url, params=params, timeout=30)
+        if resp.status_code != 200:
+            sys.exit(f"Congress.gov API error {resp.status_code}: {resp.text[:500]}")
 
-    data = resp.json()
-    bills = data.get("bills", [])
+        data = resp.json()
+        bills = data.get("bills", [])
+        all_bills.extend(bills)
+        print(f"[poll] page {page}: {len(bills)} bills", file=sys.stderr)
 
-    print(f"[poll] {len(bills)} bills updated since {from_dt}", file=sys.stderr)
-    return bills
+        # Follow pagination.next if present; clear params (next URL is fully qualified)
+        next_url = data.get("pagination", {}).get("next")
+        url = next_url
+        params = {}
+        page += 1
+
+    print(f"[poll] {len(all_bills)} total bills updated since {from_dt}", file=sys.stderr)
+    return all_bills
 
 
 def normalize_bill_id(bill: dict) -> str:
