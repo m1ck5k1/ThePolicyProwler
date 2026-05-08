@@ -1,13 +1,26 @@
 [
   {
+    "bill_id": "119s4384",
+    "score": 4,
+    "reason": "Medicare Advantage represents a $300B+ annual managed-care carve-out where private insurers operate under regulatory safe harbors while cherry-picking risk. This title signals potential expansion of MA's exemptions from traditional Medicare oversight, or network adequacy/pricing constraints that protect incumbent plans.",
+    "vectors": [
+      "regulatory_capture: MA plans operate under 'framing' as alternatives while accessing public dollars with minimal utilization/access enforcement",
+      "fiscal_bleed: MA overpayment to plans (CMS actuarial assessments show 3-5% above fee-for-service) compounds via volume expansion",
+      "market_access_exploit: 'improvement' language often codes for reduced network adequacy mandates or relaxed star-rating audit standards favoring large incumbents",
+      "geographic_tell: likely targets rural/dual-eligible populations where MA penetration masks benefit erosion"
+    ],
+    "title": "Medicare Advantage Improvement Act of 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/s-bill/4384"
+  },
+  {
     "bill_id": "119hr8375",
     "score": 4,
-    "reason": "Medicare Advantage is a primary vector for regulatory capture and fiscal bleed. MA plans operate under risk-bearing contracts with built-in arbitrage opportunities; titled 'improvement' acts historically contain coding/payment expansions, exemptions from quality thresholds, or redirect CMS enforcement priority. Without summary text, the title alone signals high-probability carve-out architecture.",
+    "reason": "Medicare Advantage represents a $200B+ annual market with deep regulatory capture history. MA plans have systematized prior-authorization abuse and network-narrowing to extract margin; bills titled 'improvement' often codify insurer protections rather than beneficiary safeguards. High probability of carve-outs disguised as efficiency language.",
     "vectors": [
-      "regulatory_capture: MA plan exemptions or safe harbors",
-      "fiscal_bleed: Medicare trust fund payment expansions to insurers",
-      "market_access_exploit: coding/billing methodology changes favoring MA over traditional Medicare",
-      "entitlement_erosion: potential shift of risk or cost to beneficiaries"
+      "regulatory_capture",
+      "entitlement_erosion",
+      "market_access_exploit",
+      "fiscal_bleed"
     ],
     "title": "Medicare Advantage Improvement Act of 2026",
     "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8375"
