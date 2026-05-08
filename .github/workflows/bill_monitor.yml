@@ -1,0 +1,142 @@
+name: Bill Monitor
+
+on:
+  schedule:
+    # Run daily at 07:00 UTC (03:00 ET / midnight PT) — after Congress.gov nightly refresh
+    - cron: "0 7 * * *"
+  workflow_dispatch:
+    inputs:
+      hours:
+        description: "Look-back window in hours"
+        required: false
+        default: "26"
+      min_score:
+        description: "Minimum Prowler score to ingest (1-5)"
+        required: false
+        default: "4"
+      dry_run:
+        description: "Dry run (keyword filter only, no Claude calls, no commits)"
+        type: boolean
+        required: false
+        default: false
+
+jobs:
+  monitor:
+    name: Poll & Triage Bills
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # needed to commit ingested bills
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install anthropic requests
+
+      - name: Poll Congress.gov & triage
+        id: poll
+        env:
+          CONGRESS_API_KEY: ${{ secrets.CONGRESS_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          HOURS="${{ github.event.inputs.hours || '26' }}"
+          MIN_SCORE="${{ github.event.inputs.min_score || '4' }}"
+          DRY_FLAG=""
+          if [[ "${{ github.event.inputs.dry_run }}" == "true" ]]; then
+            DRY_FLAG="--dry-run"
+          fi
+
+          python3 tools/poll_bills.py \
+            --hours "$HOURS" \
+            --min-score "$MIN_SCORE" \
+            $DRY_FLAG \
+            > /tmp/triage_results.json
+
+          echo "Results:"
+          cat /tmp/triage_results.json
+
+          # Count qualifying bills
+          COUNT=$(python3 -c "import json,sys; d=json.load(open('/tmp/triage_results.json')); print(len(d))")
+          echo "count=$COUNT" >> "$GITHUB_OUTPUT"
+
+      - name: Ingest qualifying bills
+        if: steps.poll.outputs.count != '0' && github.event.inputs.dry_run != 'true'
+        env:
+          CONGRESS_API_KEY: ${{ secrets.CONGRESS_API_KEY }}
+        run: |
+          python3 - << 'PYEOF'
+          import json, subprocess, sys
+
+          results = json.load(open("/tmp/triage_results.json"))
+          if not results:
+              print("No bills to ingest.")
+              sys.exit(0)
+
+          ingested = []
+          for bill in results:
+              bill_id = bill["bill_id"]
+              score   = bill["score"]
+              title   = bill["title"][:80]
+              print(f"\nIngesting {bill_id} (score={score}): {title}")
+
+              proc = subprocess.run(
+                  ["bash", "tools/ingest_bill.sh", "--id", bill_id],
+                  capture_output=True, text=True
+              )
+              if proc.returncode == 0:
+                  print(proc.stdout)
+                  ingested.append(bill_id)
+              else:
+                  print(f"  WARN: ingest failed for {bill_id}: {proc.stderr[:200]}", file=sys.stderr)
+
+          # Write summary for commit message
+          with open("/tmp/ingested_bills.txt", "w") as f:
+              f.write("\n".join(ingested))
+
+          print(f"\nIngested: {ingested}")
+          PYEOF
+
+      - name: Write triage log
+        if: steps.poll.outputs.count != '0'
+        run: |
+          DATESTAMP=$(date +%y%m%d)
+          LOG_DIR="data/triage_logs"
+          mkdir -p "$LOG_DIR"
+          cp /tmp/triage_results.json "$LOG_DIR/${DATESTAMP}_triage.json"
+
+      - name: Commit ingested bills + triage log
+        if: steps.poll.outputs.count != '0' && github.event.inputs.dry_run != 'true'
+        run: |
+          git config user.name  "Policy Prowler Bot"
+          git config user.email "bot@thepolicyprowler.com"
+
+          git add data/bills/ data/triage_logs/
+          git diff --staged --quiet && echo "Nothing to commit" && exit 0
+
+          DATESTAMP=$(date +%y%m%d)
+          BILLS=$(cat /tmp/ingested_bills.txt 2>/dev/null | tr '\n' ' ' || echo "unknown")
+          git commit -m "chore(monitor): auto-ingest bills $BILLS [$DATESTAMP]"
+          git push
+
+      - name: Summarize (always)
+        if: always()
+        run: |
+          COUNT="${{ steps.poll.outputs.count || '0' }}"
+          echo "### Bill Monitor Summary" >> "$GITHUB_STEP_SUMMARY"
+          echo "" >> "$GITHUB_STEP_SUMMARY"
+          echo "**Date:** $(date -u '+%Y-%m-%d %H:%M UTC')" >> "$GITHUB_STEP_SUMMARY"
+          echo "**Bills at threshold:** $COUNT" >> "$GITHUB_STEP_SUMMARY"
+          echo "" >> "$GITHUB_STEP_SUMMARY"
+          if [[ -f /tmp/triage_results.json ]]; then
+            echo '```json' >> "$GITHUB_STEP_SUMMARY"
+            cat /tmp/triage_results.json >> "$GITHUB_STEP_SUMMARY"
+            echo '```' >> "$GITHUB_STEP_SUMMARY"
+          fi

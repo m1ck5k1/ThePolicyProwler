@@ -4,6 +4,10 @@
 # Substack drafts (generated output, not source)
 articles/substack_ready/
 
+# Python
+__pycache__/
+*.pyc
+
 # OS
 .DS_Store
 Thumbs.db
