@@ -1,0 +1,28 @@
+[
+  {
+    "bill_id": "119hr1",
+    "score": 5,
+    "reason": "Reconciliation bill under H. Con. Res. 14 is a legislative vehicle for majoritarian budget changes without filibuster\u2014classic fiscal bleed and entitlement erosion vector. Title II language historically conceals rider payloads targeting Medicaid, SNAP, tax expenditures, or deficit mechanics.",
+    "vectors": [
+      "Fiscal bleed via reconciliation payload (potential debt-limit gimmickry)",
+      "Entitlement erosion (Medicaid/SNAP/CHIP cuts in riders)",
+      "Tax expenditure carve-outs protecting specific sectors",
+      "Regulatory capture via technical amendments buried in reconciliation text"
+    ],
+    "title": "An act to provide for reconciliation pursuant to title II of H. Con. Res. 14.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/1"
+  },
+  {
+    "bill_id": "119hr5454",
+    "score": 4,
+    "reason": "Medicare Advantage payment acceleration creates fiscal bleed (front-loading CMS outlays) and likely regulatory capture (preferential treatment for MA plans over traditional Medicare). Prompt-pay mechanics typically mask actuarial transfers between program lines.",
+    "vectors": [
+      "Fiscal bleed: accelerated Medicare Advantage payment schedules increase near-term deficit pressure",
+      "Regulatory capture: structural preference for private MA plans vs. traditional Medicare",
+      "Entitlement erosion: payment acceleration may force traditional Medicare rebalancing",
+      "Hidden subsidy: 'prompt pay' language obscures cost-shifting to CMS trust fund"
+    ],
+    "title": "Medicare Advantage Prompt Pay Act",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/5454"
+  }
+]
