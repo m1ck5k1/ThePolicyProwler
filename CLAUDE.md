@@ -43,14 +43,30 @@ Audit IDs follow the pattern: `AUD-YYMMDD-SUBJECT` (embedded in front-matter of 
 
 ## Institutional Memory (Airtable)
 Access via the Airtable MCP tools available in this Claude Code session.
-- **Base:** The Policy Prowler — Institutional Memory
+- **Base:** The Policy Prowler — Institutional Memory (shared with TheVaultWatcher)
 - **Base ID:** `appA8bFOOAw72AZ24`
-- **Audits table ID:** `tbl92R4P97QrUZvFE`
-- **Bills table ID:** `tbl4eVGyE4Kc1ZqRt`
+- **Audits table ID:** `tbl92R4P97QrUZvFE` — PolicyProwler forensic audits
+- **Bills table ID:** `tbl4eVGyE4Kc1ZqRt` — tracked legislation
+- **VaultWatcher_Alerts table ID:** `tblxnMKuEGpAsB3m3` — VaultWatcher threshold breach alerts (read-only from this desk)
+- **convergence_events table ID:** `tblSf6ZOr0qHTbuD0` — joint intelligence log; either desk can write
 
 To sync a completed audit: run `tools/sync_audit.py <audit_file_path>`.
 To sync manually: use `mcp__claude_ai_Airtable__create_records_for_table` with baseId
 `appA8bFOOAw72AZ24`, tableId `tbl92R4P97QrUZvFE`, and fields mapped from the audit's YAML front-matter.
+
+### Cross-Desk Convergence Protocol
+When a PolicyProwler audit involves silver market mechanics, CFTC exemptions, COMEX delivery rules,
+Treasury precious metal rulemaking, or sanctions affecting SGE settlement:
+1. Check `VaultWatcher_Alerts` for active alerts in the same date window
+2. If a matching market signal exists, create a `convergence_events` record:
+   - `event_id`: `CVG-YYMMDD-SUBJECT`
+   - `policy_signal`: link to the PolicyProwler Audit record
+   - `market_signal`: link to the VaultWatcher_Alerts record
+   - `bug_type`: the exploit vector (Midnight Rider, Delivery Exemption, etc.)
+   - `severity`: derived from the worse of the two signals
+   - `lead_desk`: whichever desk has the stronger primary evidence
+   - `status`: Monitoring (initial); escalate to Investigating when both signals confirmed
+3. The `Audits` table auto-shows linked convergence events via the back-link field `fldBYESGlKg7LQ2xx`
 
 Note: The IDs in the original GEMINI.md (`76526270-...`, `2f9416d1-...`) were NotebookLM
 source IDs, not Airtable. They are no longer relevant.
