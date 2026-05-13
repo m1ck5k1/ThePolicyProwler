@@ -1,0 +1,40 @@
+[
+  {
+    "bill_id": "119hr4745",
+    "score": 5,
+    "reason": "Title alone signals entitlement erosion vector \u2014 'bump' typically indicates threshold adjustments that reduce eligibility or benefits. Without summary provided, the linguistic framing ('bump' rather than 'increase' or 'expansion') suggests fiscal damage dressed in neutral language. Requires immediate kernel audit.",
+    "vectors": [
+      "Entitlement erosion: Medicaid eligibility or benefit threshold manipulation",
+      "Fiscal bleed: potential deficit reduction through coverage contraction",
+      "Regulatory capture: threshold adjustment may exempt specific populations or carve protected groups"
+    ],
+    "title": "Medicaid Bump Act",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/4745"
+  },
+  {
+    "bill_id": "119hr8375",
+    "score": 4,
+    "reason": "Medicare Advantage bills are high-risk regulatory capture zones where private insurers extract public funds via risk-scoring arbitrage and network adequacy exemptions. Without summary text, the title alone signals a likely carve-out or payment-methodology expansion favoring MA plans over traditional Medicare.",
+    "vectors": [
+      "regulatory_capture: MA insurers historically lobby for encounter-data opacity and risk-adjustment favorable definitions",
+      "fiscal_bleed: MA overpayments relative to FFS Medicare create structural deficit pressure; 'improvement' language often masks payment increases",
+      "market_access: bills titled 'improvement' frequently expand MA enrollment incentives or reduce CMS enforcement triggers",
+      "entitlement_erosion: MA expansion can hollow traditional Medicare actuarials by skimming healthier beneficiaries"
+    ],
+    "title": "Medicare Advantage Improvement Act of 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8375"
+  },
+  {
+    "bill_id": "119s4384",
+    "score": 4,
+    "reason": "Medicare Advantage is a primary vector for regulatory capture and fiscal bleed; bills titled as 'improvement' typically contain carve-outs, payment floor locks, or risk-adjustment gaming that protect MA insurers while shifting cost to traditional Medicare or beneficiaries. Without summary text, the title alone signals high-priority audit target.",
+    "vectors": [
+      "regulatory_capture: MA insurer safe harbors",
+      "fiscal_bleed: payment mechanics that protect private plans",
+      "entitlement_erosion: potential traditional Medicare cost-shift",
+      "market_access_exploit: MA enrollment/benefit design locks"
+    ],
+    "title": "Medicare Advantage Improvement Act of 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/s-bill/4384"
+  }
+]
