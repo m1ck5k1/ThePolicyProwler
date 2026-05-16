@@ -1,0 +1,27 @@
+[
+  {
+    "bill_id": "119hr3079",
+    "score": 4,
+    "reason": "Title signals entitlement restructuring with 'empowerment' framing\u2014classic regulatory capture language masking potential Medicaid eligibility narrowing, work requirements, or devolution to states (known vector for benefit erosion). No summary provided elevates uncertainty flag.",
+    "vectors": [
+      "entitlement_erosion",
+      "regulatory_capture_via_devolution",
+      "fiscal_bleed_through_eligibility_tightening",
+      "state_carve_out_exemptions"
+    ],
+    "title": "Medicaid Empowerment Act of 2025",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/3079"
+  },
+  {
+    "bill_id": "119hr8622",
+    "score": 4,
+    "reason": "Performance-based reimbursement mechanics in Medicare often contain hidden carve-outs and exemptions for high-volume providers. 'Data-driven' framing typically masks regulatory capture\u2014specific specialties or practice models coded favorably while others face payment cliffs.",
+    "vectors": [
+      "regulatory_capture: performance metrics designed to advantage consolidated practices or specific specialties",
+      "fiscal_bleed: payment redirection via algorithmically opaque benchmarking could drain or redirect Medicare flows",
+      "market_access_exploit: risk that data methodology advantages positioned providers (EMR vendors, large DSOs) while excluding independent practitioners"
+    ],
+    "title": "Medicare Physician Data-driven Performance Payment System Act of 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8622"
+  }
+]
