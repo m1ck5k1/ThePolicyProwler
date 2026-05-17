@@ -1,0 +1,28 @@
+[
+  {
+    "bill_id": "119hr8857",
+    "score": 4,
+    "reason": "Regulatory carve-out targeting Drug Price Negotiation Program (established under IRA). Engineered cyclic peptides exemption creates safe harbor for specific pharmaceutical chemistry class\u2014classic capture pattern where technical classification language shields high-value drugs from negotiation leverage.",
+    "vectors": [
+      "Regulatory capture: carve-out exempting drug class from price negotiation mandate",
+      "Pharmaceutical lobby ROI: protects cyclic peptide manufacturers (likely positioned insiders) from pricing pressure",
+      "IRA implementation sabotage: undermines core fiscal mechanism of Inflation Reduction Act by narrowing negotiation scope",
+      "Technical obfuscation: uses chemistry nomenclature to obscure anti-competitive intent"
+    ],
+    "title": "To amend title XI of the Social Security Act to adjust which engineered cyclic peptides are qualifying single source drugs for purposes of the Drug Price Negotiation Program.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8857"
+  },
+  {
+    "bill_id": "119hr7844",
+    "score": 4,
+    "reason": "Fiscal bleed vector: allows intra-DHS fund transfers during appropriations lapses, creating discretionary reallocation authority without Congressional oversight. 'Other purposes' clause signals potential scope creep into emergency/supplemental mechanics.",
+    "vectors": [
+      "Fiscal bleed: appropriations lapse exploit enables unvetted fund movement between DHS accounts",
+      "Executive discretion expansion: Secretary gains transfer authority bypassing line-item appropriations controls",
+      "Vague mandate: 'other purposes' language permits scope creep beyond stated lapse mechanism",
+      "DHS smokescreen potential: could obscure supplemental-style spending during shutdowns"
+    ],
+    "title": "To provide the Secretary of Homeland Security with the authority to transfer funds between accounts under the Department of Homeland Security during a lapse in appropriations, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/7844"
+  }
+]
