@@ -1,0 +1,15 @@
+[
+  {
+    "bill_id": "119hr8662",
+    "score": 4,
+    "reason": "Medicaid expansion bill with potential entitlement erosion vectors and hidden cost-shifting mechanics. LIHTC carve-out suggests tax-code arbitrage favoring positioned real estate actors.",
+    "vectors": [
+      "entitlement_expansion_or_erosion",
+      "tax_credit_safe_harbor",
+      "medicaid_cost_shift_risk",
+      "real_estate_rent_extraction_potential"
+    ],
+    "title": "To provide assisted living assistance through Medicaid and low-income housing tax credit.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8662"
+  }
+]
