@@ -1,0 +1,15 @@
+[
+  {
+    "bill_id": "119hr8872",
+    "score": 4,
+    "reason": "Targets TANF (Temporary Assistance for Needy Families)\u2014a block-grant entitlement\u2014with language emphasizing 'program integrity' and 'improper payments,' classic pretext vectors for benefit restriction. The phrase 'strengthen guardrails' signals potential state-level discretion expansion that historically enables benefit erosion and geographic targeting of poverty assistance.",
+    "vectors": [
+      "entitlement_erosion: TANF restructuring under 'integrity' framing",
+      "regulatory_capture: block-grant mechanism empowers states to define 'improper' payments absent federal baseline",
+      "geographic_tells: 'low-income families' + state-level expenditure goals enable benefit concentration/exclusion by jurisdiction",
+      "fiscal_ambiguity: 'for other purposes' language suggests hidden payload in bill text"
+    ],
+    "title": "To amend part A of title IV of the Social Security Act to target funds to low-income families, strengthen program integrity guardrails for State expenditure of funds, require measurement of improper payments, and establish goals for eliminating fraud and improper payments under the program of block grants to States for temporary assistance for needy families, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8872"
+  }
+]
