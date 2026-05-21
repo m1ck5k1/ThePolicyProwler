@@ -1,0 +1,53 @@
+[
+  {
+    "bill_id": "119hr5454",
+    "score": 4,
+    "reason": "Medicare Advantage payment acceleration likely masks regulatory capture and fiscal bleed. MA plans have proven track record of gaming payment mechanics; 'prompt pay' language signals forced acceleration of TGA flows to private insurers at Medicare's expense.",
+    "vectors": [
+      "Regulatory capture: MA carve-out favoring private plans over traditional Medicare",
+      "Fiscal bleed: accelerated payment schedule increases near-term deficit/TGA draw",
+      "Market-access exploit: forced timing advantage for MA vs. fee-for-service reimbursement cycle"
+    ],
+    "title": "Medicare Advantage Prompt Pay Act",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/5454"
+  },
+  {
+    "bill_id": "119s4384",
+    "score": 4,
+    "reason": "Medicare Advantage represents a $300B+ annual private-market extraction from traditional Medicare. 'Improvement' framing typically masks regulatory carve-outs or payment-floor raises that entrench MA insurers' competitive moat while shifting risk onto beneficiaries or FFS pools.",
+    "vectors": [
+      "regulatory capture: MA-specific exemptions or safe harbors",
+      "fiscal bleed: hidden MA payment increases disguised as 'quality' or 'innovation' riders",
+      "market-access exploit: provisions that mandate MA enrollment or restrict FFS alternatives",
+      "entitlement erosion: cost-shifting to beneficiaries via higher cost-sharing or narrowed networks"
+    ],
+    "title": "Medicare Advantage Improvement Act of 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/s-bill/4384"
+  },
+  {
+    "bill_id": "119hr8375",
+    "score": 4,
+    "reason": "Medicare Advantage represents a $300B+ annual vector for regulatory capture and market-access exploitation. MA plans operate under CMS risk-adjustment formulas and star-rating mechanics that create incentives for upcoding, cherry-picking, and lobbied carve-outs. Without summary text, the bill title's 'improvement' framing is classic UI/Kernel separation\u2014likely contains hidden payment floor guarantees, exemptions from value-based penalties, or star-rating adjustments that benefit MA insurers at FFS-Medicare's fiscal expense.",
+    "vectors": [
+      "regulatory capture: CMS payment mechanics and star-rating exemptions",
+      "fiscal bleed: potential MA payment floor or benchmark adjustments expanding deficit",
+      "market-access exploit: forced enrollment or plan-choice architecture favoring MA over traditional Medicare",
+      "entitlement erosion: hidden benefit reductions or cost-shift to beneficiaries"
+    ],
+    "title": "Medicare Advantage Improvement Act of 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8375"
+  },
+  {
+    "bill_id": "119hr8380",
+    "score": 4,
+    "reason": "Direct modification of Congressional Budget Act procedural machinery creates potential fiscal control vectors. 'For other purposes' language in budget-process bills historically masks debt-limit mechanics, rescission fast-tracks, or appropriations carve-outs that bypass normal committee scrutiny.",
+    "vectors": [
+      "Budget process manipulation \u2014 potential fast-track or expedited passage mechanisms for specific riders",
+      "Appropriations carve-out architecture \u2014 unclear procedures could enable directed spending for positioned actors",
+      "Debt-limit mechanics \u2014 budget act amendments often contain hidden leverage points for fiscal brinksmanship",
+      "Vague 'other purposes' clause \u2014 standard cover for legislative payloads unrelated to stated procedural reform"
+    ],
+    "title": "To amend the Congressional Budget and Impoundment Control Act of 1974 to establish certain procedures for consideration of annual appropriation bills, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8380"
+  }
+]
