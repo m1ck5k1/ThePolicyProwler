@@ -1,0 +1,15 @@
+[
+  {
+    "bill_id": "119s4583",
+    "score": 4,
+    "reason": "Classic regulatory capture vector: carves out opt-out pathway from Medicare rate controls for positioned providers while preserving beneficiary nominal coverage\u2014creates two-tier system where affluent patients access premium providers outside rate discipline, shifting adverse selection burden to remaining FFS pool. Erodes Medicare's monopsony pricing power.",
+    "vectors": [
+      "Regulatory capture: exempts specific provider class from rate governance",
+      "Market-access exploit: stratifies Medicare into public-rate and private-contract tiers",
+      "Adverse selection gaming: enables cherry-picking of low-risk/high-margin cases",
+      "Fiscal bleed: reduces effective negotiating leverage, downward pressure on traditional FFS reimbursement"
+    ],
+    "title": "A bill to amend title XVIII of the Social Security Act to establish a Medicare payment option for patients and eligible professionals to freely contract, without penalty, for Medicare fee-for-service items and services, while allowing Medicare benificiaries to use their Medicare benefits.",
+    "url": "https://www.congress.gov/bill/119th-congress/s-bill/4583"
+  }
+]
