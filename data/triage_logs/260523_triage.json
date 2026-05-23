@@ -1,0 +1,80 @@
+[
+  {
+    "bill_id": "119s4583",
+    "score": 4,
+    "reason": "High-signal regulatory capture play: carves out exemption from Medicare pricing controls for 'eligible professionals' via 'free contracting' mechanics, potentially creating two-tier market access while maintaining benefit facade. Classic market-access exploit wrapped in patient-choice language.",
+    "vectors": [
+      "regulatory_capture: exemption from Medicare fee schedules for positioned provider class",
+      "market_access_exploit: tiered pricing structure disguised as 'free contract' option",
+      "fiscal_bleed: potential cost-shift to beneficiaries if 'freely contract' rates exceed negotiated FFS rates",
+      "geographic_tell: 'eligible professionals' undefined\u2014likely targets high-income specialty practices in specific markets"
+    ],
+    "title": "A bill to amend title XVIII of the Social Security Act to establish a Medicare payment option for patients and eligible professionals to freely contract, without penalty, for Medicare fee-for-service items and services, while allowing Medicare beneficiaries to use their Medicare benefits.",
+    "url": "https://www.congress.gov/bill/119th-congress/s-bill/4583"
+  },
+  {
+    "bill_id": "119s4632",
+    "score": 4,
+    "reason": "This bill restructures appropriations failure mechanics and debt-limit workarounds\u2014classic fiscal bleed vector. 'Continuing appropriations' language + 'procedures and consequences' framing suggests automatic spending mechanisms that could bypass normal congressional brake points or reset baseline expectations upward during lapses.",
+    "vectors": [
+      "Fiscal bleed: automatic continuing appropriations may lock in elevated spending levels or create ratchet effects",
+      "Debt-limit mechanic: restructuring lapse procedures could obscure or defer fiscal accountability moments",
+      "Regulatory capture: 'consequences' language may establish safe harbors for agencies or contractors during shutdown periods",
+      "Hidden baseline shift: normalizing continuing appropriations may permanently raise baseline assumptions without explicit votes"
+    ],
+    "title": "A bill to provide for a period of continuing appropriations in the event of a lapse in appropriations under the normal appropriations process, to establish procedures and consequences in the event of a failure to enact appropriations, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/s-bill/4632"
+  },
+  {
+    "bill_id": "119s4641",
+    "score": 4,
+    "reason": "Regulatory carve-out that redefines Medicare coverage thresholds without appropriations offset. Shifts observation-services classification to unlock SNF access, creating fiscal bleed via lower-cost observation billing while expanding entitlement liability. Classic capture: benefits specific provider networks positioned to game observation-to-SNF pipeline.",
+    "vectors": [
+      "Entitlement erosion: Medicare SNF coverage expansion via threshold manipulation",
+      "Regulatory capture: carve-out benefiting observation-service-heavy hospital chains",
+      "Fiscal bleed: undefined cost impact of reclassification; no offset language likely",
+      "Market-access exploit: locks SNF market access behind observation-services provider positioning"
+    ],
+    "title": "A bill to amend title XVIII of the Social Security Act to count a period of receipt of outpatient observation services in a hospital toward satisfying the 3-day inpatient hospital requirement for coverage of skilled nursing facility services under Medicare.",
+    "url": "https://www.congress.gov/bill/119th-congress/s-bill/4641"
+  },
+  {
+    "bill_id": "119s4621",
+    "score": 4,
+    "reason": "Market-access exploit vector: bill mandates new depositories for precious metals under systemic-risk language, creating competitive pressure on incumbent vault operators and potential capture of depository licensing/oversight. 'For other purposes' flag suggests buried riders.",
+    "vectors": [
+      "market-access exploit: forced diversification of precious metals storage infrastructure benefits positioned new entrants",
+      "regulatory capture: depository licensing/oversight likely carved into specific exemptions or safe harbors",
+      "systemic risk smokescreen: uses macro stability framing to justify micromarket restructuring",
+      "geographic tells: 'geographical diversity' language suggests legislative preference for specific regional actors"
+    ],
+    "title": "A bill to amend the Commodity Exchange Act to reduce systemic risk while increasing geographical diversity and competition with respect to depositories for the storage of precious metals, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/s-bill/4621"
+  },
+  {
+    "bill_id": "119hr793",
+    "score": 4,
+    "reason": "Title signals entitlement erosion targeting SNAP. 'Fairness' framing is classic regulatory capture language masking benefit restrictions or eligibility tightening. Requires immediate kernel audit to identify fiscal bleed vector and beneficiary carve-outs.",
+    "vectors": [
+      "entitlement_erosion",
+      "fairness_framing_smokescreen",
+      "eligibility_restriction_likely",
+      "deficit_transfer_mechanism"
+    ],
+    "title": "SNAP Benefits Fairness Act of 2025",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/793"
+  },
+  {
+    "bill_id": "119hr5454",
+    "score": 4,
+    "reason": "Medicare Advantage payment acceleration scheme likely contains regulatory capture vectors benefiting private insurers at CMS expense. 'Prompt Pay' language flags potential fiscal bleed via accelerated TGA flows to MA plans and possible safe-harbor carve-outs from standard payment audits.",
+    "vectors": [
+      "Regulatory capture: accelerated payment schedules exempt private MA plans from standard audit/recovery mechanisms",
+      "Fiscal bleed: expanded Medicare Advantage payouts via reimbursement timing arbitrage",
+      "Market-access exploit: structural advantage to private insurers over traditional Medicare cost controls",
+      "Entitlement erosion: indirect cost-shift mechanism masquerading as payment 'efficiency'"
+    ],
+    "title": "Medicare Advantage Prompt Pay Act",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/5454"
+  }
+]
