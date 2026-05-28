@@ -1,0 +1,15 @@
+[
+  {
+    "bill_id": "119hr8595",
+    "score": 4,
+    "reason": "Defense/DHS supplemental appropriations bills are Prowler priority smokescreens. Without a summary, the kernel is opaque\u2014exactly the forensic red flag. Title suggests national security framing may obscure fiscal redirects, emergency carve-outs, or DHS/State Department budget mechanics that bypass normal deficit scrutiny.",
+    "vectors": [
+      "Defense/DHS smokescreen: emergency supplemental language historically obscures fiscal damage",
+      "Appropriations opacity: no summary provided suggests potential kernel obfuscation",
+      "Regulatory capture risk: State Department carve-outs and exemptions common in foreign aid riders",
+      "TGA flow redirection: supplemental appropriations frequently game debt-limit mechanics"
+    ],
+    "title": "National Security, Department of State, and Related Programs Appropriations Act, 2027",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8595"
+  }
+]
