@@ -1,0 +1,15 @@
+[
+  {
+    "bill_id": "119s2614",
+    "score": 4,
+    "reason": "Title signals entitlement-defense posture, but lacks summary\u2014classic setup for riders or reconciliation payloads. 'Protecting' language often masks benefit-formula changes, COLA suspensions, or means-testing carve-outs that shift costs to lower-income tranches while preserving high-earner thresholds.",
+    "vectors": [
+      "Entitlement erosion via reconciliation rider",
+      "Means-testing or benefit-formula restructuring",
+      "COLA or COL adjustment mechanics exploit",
+      "Fiscal bleed disguised as solvency measure"
+    ],
+    "title": "Protecting and Preserving Social Security Act",
+    "url": "https://www.congress.gov/bill/119th-congress/s-bill/2614"
+  }
+]
