@@ -1,0 +1,28 @@
+[
+  {
+    "bill_id": "119hr8495",
+    "score": 4,
+    "reason": "Appropriations bills are high-signal Prowler targets: they are primary vectors for fiscal bleed, rider insertion, and agency-level regulatory capture. Without summary details, the absence of transparency itself warrants investigation\u2014appropriations acts routinely embed carve-outs and exemptions that obscure their commercial payload.",
+    "vectors": [
+      "Fiscal bleed: appropriations mechanics enable debt-limit gaming and TGA flow redirection",
+      "Regulatory capture: financial services agencies (OCC, SEC, CFPB, FRB) are common targets for safe-harbor riders and exemption language",
+      "Hidden riders: general government appropriations frequently contain non-germane legislative payloads",
+      "Agency budget hostage-taking: appropriations conditionality used to defund enforcement actions"
+    ],
+    "title": "Financial Services and General Government Appropriations Act, 2027",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8495"
+  },
+  {
+    "bill_id": "119hr9060",
+    "score": 4,
+    "reason": "RIC income classification hack targeting precious metals funds. Classic regulatory capture vector: redefines 'qualifying income' to protect specific financial product structures from excise taxation, artificially preserves tax-advantaged status for positioned fund managers.",
+    "vectors": [
+      "regulatory_capture",
+      "tax_code_carve_out",
+      "financial_product_subsidy",
+      "distributional_inequity"
+    ],
+    "title": "To amend the Internal Revenue Code of 1986 to provide that income received by a regulated investment company from precious metals shall be treated as qualifying income.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9060"
+  }
+]
