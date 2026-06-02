@@ -1,0 +1,15 @@
+[
+  {
+    "bill_id": "119s4621",
+    "score": 5,
+    "reason": "SILVER Act is a canonical Prowler case study: vault-mandate language ostensibly addressing systemic risk while forcing open controlled precious metals markets for positioned insiders. Clear market-access exploit wrapped in regulatory authority framing.",
+    "vectors": [
+      "market-access exploit",
+      "regulatory capture",
+      "forced market opening for specific commodity actors",
+      "systemic risk framing as cover for deregulation"
+    ],
+    "title": "SILVER Act",
+    "url": "https://www.congress.gov/bill/119th-congress/s-bill/4621"
+  }
+]
