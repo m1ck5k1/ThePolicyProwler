@@ -1,0 +1,28 @@
+[
+  {
+    "bill_id": "119hr9089",
+    "score": 4,
+    "reason": "Bill establishes commission to audit Medicare/Social Security\u2014classic precursor to entitlement reform. 'For other purposes' language + commission structure signals potential Trojan horse for benefit cuts, means-testing, or age/eligibility shifts buried in final recommendations.",
+    "vectors": [
+      "Entitlement erosion: Medicare/Social Security framework audit may stage benefit reductions",
+      "Regulatory capture: Commission composition/charter could be stacked to favor deficit-hawk or insurance-industry recommendations",
+      "Fiscal bleed: 'Sustaining' framing obscures whether commission will recommend revenue increases vs. benefit cuts\u2014asymmetric language suggests latter",
+      "Hidden riders: 'For other purposes' placeholder requires full text review for unrelated appropriations or carve-outs"
+    ],
+    "title": "To establish the Commission on Sustaining Medicare and Social Security, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9089"
+  },
+  {
+    "bill_id": "119hr9107",
+    "score": 4,
+    "reason": "Eliminates network adequacy requirements under ACA\u2014classic regulatory capture vector disguised as patient choice. Forces insurers into open-access model that benefits high-volume/low-margin providers while dismantling negotiating leverage that kept premiums contained.",
+    "vectors": [
+      "Regulatory carve-out: removes network standards, hollows enforcement mechanism",
+      "Market-access exploit: opens captive negotiation chains; benefits national/corporate providers over regional systems",
+      "Cost-shift mechanics: unbounded access inflates utilization; costs shift to premiums or cost-sharing",
+      "Insurance architecture sabotage: destabilizes risk pools by inverting adverse selection incentives"
+    ],
+    "title": "To amend the Patient Protection and Affordable Care Act to provide that qualified health plans are not required to use a provider network.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9107"
+  }
+]
