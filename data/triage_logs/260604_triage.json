@@ -1,0 +1,79 @@
+[
+  {
+    "bill_id": "119hr5718",
+    "score": 5,
+    "reason": "Title signals entitlement erosion mechanics (SNAP cuts or clawback language). 'Back' framing suggests fiscal recovery narrative masking benefit reduction. Requires immediate kernel audit for reconciliation rider placement, work requirement escalation, or asset-test tightening.",
+    "vectors": [
+      "entitlement_erosion",
+      "deficit_reduction_theater",
+      "means_test_expansion",
+      "reconciliation_rider_risk"
+    ],
+    "title": "SNAP Back Act of 2025",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/5718"
+  },
+  {
+    "bill_id": "119hres1333",
+    "score": 4,
+    "reason": "Multiple entitlement vectors bundled in procedural rule: TANF restructuring with 'program integrity' language (common capture pattern), FAFSA identity-fraud system (surveillance expansion), child care block grant enforcement (spending control), and agriculture appropriations omnibus. Bundle structure obscures individual bill scrutiny.",
+    "vectors": [
+      "entitlement_erosion: TANF block grant restructuring with 'improper payment' measurement targets\u2014classic mechanism for benefit-access reduction without explicit cut language",
+      "regulatory_capture: child care block grant withholding conditions likely benefit state-favored providers while penalizing compliance-overhead-vulnerable small operators",
+      "surveillance_mandate: FAFSA identity-fraud detection system expands edu-finance surveillance infrastructure; vendor lock-in risk and data-sharing scope unclear",
+      "omnibus_obscuration: procedure rule bundles four distinct bills to limit amendment and floor debate\u2014classic legislative smoke-screen for stealth provisions"
+    ],
+    "title": "Providing for consideration of the bill (H.R. 8646) making appropriations for Agriculture, Rural Development, Food and Drug Administration, and Related Agencies programs for the fiscal year ending September 30, 2027, and for other purposes; providing for consideration of the bill (H.R. 7726) to amend the Child Care and Development Block Grant Act of 1990 to withhold funds from noncompliant States under such Act; providing for consideration of the bill (H.R. 7892) to amend the Higher Education Act of 1965 to require to the Secretary of Education to use an identity fraud detection system to review each FAFSA to determine whether the FAFSA presents a reasonable suspicion of identity fraud; and providing for consideration of the bill (H.R. 8872) to amend part A of title IV of the Social Security Act to target funds to low-income families, strengthen program integrity guardrails for State expenditure of funds, require measurement of improper payments, and establish goals for eliminating fraud and improper payments under the program of block grants to States for temporary assistance for needy families, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/1333"
+  },
+  {
+    "bill_id": "119hr5860",
+    "score": 4,
+    "reason": "Title signals entitlement mechanics manipulation ('SNAP BACK' suggests recapture/clawback language). Without summary text, high uncertainty\u2014but 'SNAP' acronym paired with fiscal-action framing indicates likely SNAP benefit restructuring or payment-recovery scheme. Requires immediate full text audit.",
+    "vectors": [
+      "Entitlement erosion: potential SNAP benefit reduction or clawback mechanism",
+      "Fiscal bleed: possible redirection of existing SNAP obligations or TGA recovery scheme",
+      "Hidden payload: acronym obfuscation typical of regulatory capture bills"
+    ],
+    "title": "SNAP BACK Act.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/5860"
+  },
+  {
+    "bill_id": "119hr7145",
+    "score": 4,
+    "reason": "Title XIX (Medicaid) definitional amendment with 'related purposes' language is classic entitlement-carve-out vectoring. Statutory definition of 'essential health system' likely creates exemption pathway for state cost-shifting or benefit exclusion without triggering federal match requirements.",
+    "vectors": [
+      "entitlement_erosion: Medicaid definition expansion that could restrict benefit scope or state liability",
+      "regulatory_capture: 'essential health system' framing may exempt specific provider networks or delivery models from coverage mandates",
+      "fiscal_bleed: definitional arbitrage to reduce federal Medicaid matching obligations",
+      "vague_scope: 'related purposes' rider flag \u2014 indicates buried provisions beyond title summary"
+    ],
+    "title": "To amend title XIX of the Social Security Act to establish a definition of essential health system in statute and for other related purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/7145"
+  },
+  {
+    "bill_id": "119hr9107",
+    "score": 4,
+    "reason": "Eliminates network requirements for ACA plans\u2014classic market-access exploit forcing insurers to accept all providers regardless of cost control, creating adverse selection and moral hazard vectors while obscuring fiscal impact through 'consumer choice' framing. Likely positioned to benefit telehealth/direct-pay operators or reduce insurer negotiating leverage.",
+    "vectors": [
+      "Market-access exploit: removes network exclusivity, forces broad provider acceptance",
+      "Regulatory capture: carve-out eliminates cost-containment mechanism favoring specific provider classes",
+      "Fiscal bleed: eliminates medical loss ratio discipline through open-network mandate",
+      "Hidden beneficiary: telehealth, DTC, or non-traditional provider leverage play"
+    ],
+    "title": "To amend the Patient Protection and Affordable Care Act to provide that qualified health plans are not required to use a provider network.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9107"
+  },
+  {
+    "bill_id": "119hr9089",
+    "score": 4,
+    "reason": "Creates a commission to examine Medicare and Social Security\u2014structural entitlements representing ~$2.7T annual federal spend. Commission framing often precedes benefit cuts, eligibility narrowing, or privatization pilots. 'And for other purposes' language flags potential legislative vehicles for reconciliation-style erosion.",
+    "vectors": [
+      "entitlement_erosion: commission as pretext for benefit restructuring or means-testing",
+      "fiscal_architecture: potential cover for deficit-reduction schemes targeting largest mandatory spending categories",
+      "regulatory_capture: private equity/insurance industry positioning for market-access into pension/health systems",
+      "legislative_vehicle: vague mandate enables riders targeting Social Security COLA, Medicare cost-sharing, or provider reimbursement"
+    ],
+    "title": "To establish the Commission on Sustaining Medicare and Social Security, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9089"
+  }
+]
