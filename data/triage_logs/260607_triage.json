@@ -1,0 +1,15 @@
+[
+  {
+    "bill_id": "119hr7147",
+    "score": 4,
+    "reason": "Continuing appropriations vehicle with DHS authority\u2014classic smokescreen vector for buried riders, exemptions, and fiscal redirects. Title alone signals high-risk appropriations mechanics (CR language, discretionary spending authority, DHS scope). Kernel audit critical.",
+    "vectors": [
+      "Defense/DHS smokescreen: CR mechanics enable buried policy riders and exemptions",
+      "Fiscal bleed: Continuing appropriations often contain debt-limit workarounds or TGA redirects",
+      "Regulatory capture: DHS scope permits broad carve-outs for federal contractors or border-tech vendors",
+      "Missing summary: Absence of provided details increases exploit surface\u2014flag for full text audit"
+    ],
+    "title": "Homeland Security and Further Additional Continuing Appropriations Act, 2026.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/7147"
+  }
+]
