@@ -1,0 +1,53 @@
+[
+  {
+    "bill_id": "119hres1345",
+    "score": 4,
+    "reason": "Multi-bill rule bundling fraud/integrity functions with reconciliation mechanics and payment-pause authority. High Prowler signal: reconciliation rider (S.2) obscured within procedural rule; payment segmentation authority (H.R. 8464) could enable selective benefit withholding; permanent IG for 'Fraud, Accountability, Recovery' framing suggests regulatory architecture shift. Requires kernel audit on reconciliation payload and payment-control expansion scope.",
+    "vectors": [
+      "Reconciliation smokescreen: S.2 bundled in procedural rule, obscuring fiscal riders and entitlement targets",
+      "Payment-pause mechanism: H.R. 8464 authorizes Treasury segmentation\u2014potential vector for SNAP/Medicaid/SSDI payment delays",
+      "Regulatory capture signal: new permanent IG positioned as fraud-fighter but could institutionalize eligibility verification barriers",
+      "Fiscal governance shift: data-sharing authorities and payment control consolidation in Treasury\u2014centralized withholding infrastructure"
+    ],
+    "title": "Providing for consideration of the bill (H.R. 8312) to establish fraud prevention and program integrity functions and data sharing authorities within the Department of Treasury and a permanent governmentwide Inspector General for Fraud, Accountability, and Recovery, and for other purposes; providing for consideration of the bill (H.R. 8464) to amend title 31, United States Code, to authorize pausing and segmenting payments, and for other purposes; providing for consideration of the resolution (H. Res. 1335) condemning actors seeking to defraud the United States Government, and expressing the sense of the House of Representatives that governmentwide fraud and improper payment prevention reforms will meaningfully improve the financial prosperity of the United States, and that Federal program eligibility should be verified before payment; and providing for consideration of the bill (S. 2) to provide for reconciliation pursuant to title II of S. Con. Res. 33.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/1345"
+  },
+  {
+    "bill_id": "119hr8375",
+    "score": 4,
+    "reason": "Medicare Advantage (MA) is a $300B+ annual market dominated by UnitedHealth, Humana, and Cigna. Any 'improvement' bill without summary language visible likely contains either regulatory carve-outs favoring MA insurers over Traditional Medicare, payment rate adjustments that shift fiscal burden to beneficiaries/FFS, or market-access provisions that entrench MA dominance. The absence of summary is itself a red flag\u2014legislative obfuscation pattern.",
+    "vectors": [
+      "Regulatory capture: MA insurer safe harbors or exemptions from cost-control requirements",
+      "Fiscal bleed: MA payment methodology changes that increase federal outlays or shift costs to Traditional Medicare",
+      "Market-access exploit: provisions that make MA enrollment stickier or penalize FFS choice",
+      "Entitlement erosion: beneficiary cost-sharing increases masked as 'improvement'"
+    ],
+    "title": "Medicare Advantage Improvement Act of 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8375"
+  },
+  {
+    "bill_id": "119hr9187",
+    "score": 4,
+    "reason": "Creates investigative infrastructure around Social Security\u2014a prime vector for entitlement erosion rhetoric. 'Commission' framing historically precedes benefit cuts, eligibility tightening, or privatization pilots. The 'solvency' language masks fiscal policy choices as actuarial inevitabilities.",
+    "vectors": [
+      "entitlement_erosion: Social Security restructuring pathway",
+      "regulatory_capture: commission composition likely skewed toward deficit-hawk economists",
+      "fiscal_bleed: creates political cover for benefit reductions or payroll tax cap increases"
+    ],
+    "title": "To establish the Commission on Long-Term Social Security Solvency, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9187"
+  },
+  {
+    "bill_id": "119hr8112",
+    "score": 4,
+    "reason": "Title signals entitlement defense but absent summary creates opacity\u2014classic misdirection vector. 'Preserving' language often masks eligibility narrowing, means-testing creep, or benefit-formula changes hidden in technical provisions. Requires immediate kernel audit.",
+    "vectors": [
+      "entitlement erosion via eligibility/means-test carve-outs",
+      "reconciliation rider risk (benefits language may obscure fiscal cuts)",
+      "regulatory capture (insurance/provider carve-outs common in these bills)",
+      "deficit-neutral framing that moves costs off-budget"
+    ],
+    "title": "Preserving Social Security and Medicare for Citizens Act of 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8112"
+  }
+]
