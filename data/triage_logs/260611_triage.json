@@ -1,0 +1,133 @@
+[
+  {
+    "bill_id": "119hr7147",
+    "score": 5,
+    "reason": "DHS supplemental appropriations bill with vague title suggests potential emergency-framing fiscal bleed and defense/DHS smokescreen mechanics. 'Further Additional' language indicates sequential CR stacking\u2014classic vector for burying carve-outs, regulatory exemptions, and off-budget spending.",
+    "vectors": [
+      "Defense/DHS smokescreen: emergency supplemental framing",
+      "Fiscal bleed: sequential CR mechanics enable hidden riders",
+      "Regulatory capture: appropriations bills embed exemptions in funding language",
+      "Market-access exploit: DHS procurement carve-outs for positioned contractors"
+    ],
+    "title": "Homeland Security and Further Additional Continuing Appropriations Act, 2026.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/7147"
+  },
+  {
+    "bill_id": "119hr7148",
+    "score": 5,
+    "reason": "Consolidated appropriations bills are primary fiscal-bleed vectors and traditional hosts for regulatory capture riders, entitlement erosions, and defense smokescreens. Without summary text, the kernel is invisible\u2014classic Prowler signal. Requires immediate full audit of all riders, carve-outs, and TGA redirects.",
+    "vectors": [
+      "fiscal_bleed: omnibus structure masks line-item damage across agencies",
+      "regulatory_capture: traditional host for exemptions and safe harbors bundled with routine funding",
+      "entitlement_erosion: reconciliation mechanics often embedded in consolidated bills",
+      "defense_smokescreen: supplemental authorities and emergency provisions obscured in larger package",
+      "geographic_tells: earmarks and directed funding to specific constituencies without naming beneficiaries"
+    ],
+    "title": "Consolidated Appropriations Act, 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/7148"
+  },
+  {
+    "bill_id": "119hr1",
+    "score": 5,
+    "reason": "Reconciliation bill with no summary provided\u2014classic opacity signal. Title II authority suggests major fiscal/entitlement payload. Requires immediate kernel audit to identify hidden carve-outs, regulatory captures, or deficit-game mechanics buried in reconciliation language.",
+    "vectors": [
+      "reconciliation_opacity",
+      "entitlement_erosion_risk",
+      "fiscal_bleed_mechanism",
+      "regulatory_capture_vector",
+      "missing_summary_red_flag"
+    ],
+    "title": "An act to provide for reconciliation pursuant to title II of H. Con. Res. 14.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/1"
+  },
+  {
+    "bill_id": "119hres1345",
+    "score": 4,
+    "reason": "This rule bundles four legislative vehicles including H.R. 8312 (new Treasury fraud authority + permanent Inspector General) and H.R. 8464 (payment pause/segmentation powers). The packaging flags potential regulatory capture: new centralized fraud authorities can become enforcement tools weaponized against specific sectors or claimants, while payment-pause mechanics create fiscal float opportunities and leverage over benefit recipients. S. Con. Res. 33 reconciliation reference suggests entitlement erosion riders buried in process.",
+    "vectors": [
+      "Regulatory capture: new permanent IG position and Treasury fraud authorities could entrench bureaucratic control over payment systems and discretionary enforcement",
+      "Fiscal bleed: payment pause/segmentation authority creates cash-flow manipulation vectors and potential TGA optimization schemes",
+      "Entitlement erosion: reconciliation packaging suggests hidden SNAP/Medicaid/CHIP cuts or eligibility verification mandates that shift verification burden to claimants",
+      "Procedural smokescreen: rule bundles multiple bills to obscure individual fiscal impacts and compress review time"
+    ],
+    "title": "Providing for consideration of the bill (H.R. 8312) to establish fraud prevention and program integrity functions and data sharing authorities within the Department of Treasury and a permanent governmentwide Inspector General for Fraud, Accountability, and Recovery, and for other purposes; providing for consideration of the bill (H.R. 8464) to amend title 31, United States Code, to authorize pausing and segmenting payments, and for other purposes; providing for consideration of the resolution (H. Res. 1335) condemning actors seeking to defraud the United States Government, and expressing the sense of the House of Representatives that governmentwide fraud and improper payment prevention reforms will meaningfully improve the financial prosperity of the United States, and that Federal program eligibility should be verified before payment; and providing for consideration of the bill (S. 2) to provide for reconciliation pursuant to title II of S. Con. Res. 33.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/1345"
+  },
+  {
+    "bill_id": "119hr8391",
+    "score": 4,
+    "reason": "Medicaid/Medicare benefit expansion framed as health coverage\u2014likely contains hidden fiscal mechanics, provider carve-outs, or state cost-shift vectors. 'Certain food and nutrition services' language is deliberately vague, suggesting selective access tiers or private contractor preferencing.",
+    "vectors": [
+      "Entitlement expansion with undefined cost controls",
+      "Selective benefit language suggesting regulatory capture opportunities",
+      "Potential state Medicaid matching-fund mechanic exploitation",
+      "Private nutrition/food contractor access carve-out risk"
+    ],
+    "title": "To amend titles XVIII and XIX of the Social Security Act to require coverage of certain food and nutrition services under the Medicare and Medicaid programs.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8391"
+  },
+  {
+    "bill_id": "119hr7006",
+    "score": 4,
+    "reason": "Omnibus appropriations vehicle covering Financial Services, State Department, and National Security\u2014classic vector for buried riders, carve-outs, and DHS/defense smokescreens. Absence of summary is itself a red flag; requires kernel audit for regulatory capture and fiscal redirects.",
+    "vectors": [
+      "Appropriations omnibus: high rider density, limited transparency",
+      "Financial Services subheading: potential regulatory exemptions or banking carve-outs",
+      "National Security framing: emergency spending mechanics that obscure fiscal baseline",
+      "State Department inclusion: possible diplomatic-contingency language enabling off-budget flows",
+      "FY2026 timing: debt-limit negotiation season\u2014likely contains TGA mechanics"
+    ],
+    "title": "Financial Services and General Government and National Security, Department of State, and Related Programs Appropriations Act, 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/7006"
+  },
+  {
+    "bill_id": "119hres1014",
+    "score": 4,
+    "reason": "Consolidated appropriations rule for FY2026 with dual bills (H.R. 7147-7148) signals potential fiscal engineering across multiple vehicles. Rule resolutions for omnibus spending are classic vectors for buried carve-outs, regulatory exemptions, and entitlement riders that escape line-item scrutiny.",
+    "vectors": [
+      "Dual-bill appropriations structure enables distributed payload obfuscation",
+      "Reconciliation rider risk: entitlement cuts, Medicaid/SNAP erosion likely buried in 'further consolidated' language",
+      "Regulatory capture opportunity: spending bills routinely contain safe harbors for agency carve-outs and market-access exemptions",
+      "Rule consideration process designed to limit amendment exposure\u2014suggests contested payload"
+    ],
+    "title": "Providing for consideration of the bill (H.R. 7148) making further consolidated appropriations for the fiscal year ending September 30, 2026, and for other purposes; providing for consideration of the bill (H.R. 7147) making further consolidated appropriations for the fiscal year ending September 30, 2026, and for other purposes; and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/1014"
+  },
+  {
+    "bill_id": "119hr6951",
+    "score": 4,
+    "reason": "Title signals potential entitlement erosion reversal OR capture of Medicaid estate-recovery rules. Without summary, the linguistic pivot ('Stop Unfair') suggests either consumer protection or a carve-out that narrows state clawback authority\u2014both require kernel audit to distinguish.",
+    "vectors": [
+      "Entitlement erosion: Medicaid estate recovery mechanics and state fiscal impact",
+      "Regulatory capture: potential exemption or safe harbor for specific beneficiary class",
+      "Fiscal bleed: state-level TGA flow reallocation if recovery scope is narrowed"
+    ],
+    "title": "Stop Unfair Medicaid Recoveries Act",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/6951"
+  },
+  {
+    "bill_id": "119hr3271",
+    "score": 4,
+    "reason": "Title signals entitlement restructuring with 'Fair Share' framing\u2014classic obfuscation for benefit cuts or revenue-side gaming. Requires immediate kernel audit to determine if this is payroll tax regressivity exploit, means-testing trojan, or deficit-reduction rider.",
+    "vectors": [
+      "Entitlement erosion: Medicare/Social Security restructuring language",
+      "Fiscal mechanics: likely contains deficit/solvency rhetoric masking wealth-indexed cuts",
+      "Regulatory capture: 'fair share' framing often precedes insurance-industry carve-outs or means-test thresholds favoring high-income brackets"
+    ],
+    "title": "Medicare and Social Security Fair Share Act",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/3271"
+  },
+  {
+    "bill_id": "119hres1224",
+    "score": 4,
+    "reason": "Multi-vehicle rule bundling routine legislation with budget resolution (S. Con. Res. 33) covering fiscal years 2026-2035. The 10-year budget window paired with agricultural reform (H.R. 7567, through 2031) signals potential entitlement/farm subsidy restructuring. Ethanol waiver language (H.R. 1346) indicates industry carve-out mechanics. Bundling obscures individual bill scrutiny\u2014classic Prowler exploit vector.",
+    "vectors": [
+      "Fiscal bleed: 10-year budget resolution embedded in omnibus rule; agricultural programs through 2031 suggest long-term subsidy/entitlement reshaping",
+      "Regulatory capture: Ethanol Reid Vapor Pressure waiver\u2014industry-specific safe harbor wrapped in technical language",
+      "Procedural obscuration: Multi-bill rule bundles unrelated legislation, limiting amendment/oversight surface",
+      "Entitlement signal: Agricultural reform scope warrants kernel audit for SNAP/crop-commodity payment restructuring"
+    ],
+    "title": "Providing for consideration of the bill (H.R. 7567) to provide for the reform and continuation of agricultural and other programs of the Department of Agriculture through fiscal year 2031, and for other purposes; providing for consideration of the bill (H.R. 2616) to require public elementary and middle schools that receive funds under the Elementary and Secondary Education Act of 1965 to obtain parental consent before changing a minor\u2019s gender markers, pronouns, or preferred name on any school form or sex-based accommodations, including locker rooms or bathrooms; providing for consideration of the concurrent resolution (S. Con. Res. 33) setting forth the congressional budget for the United States Government for fiscal year 2026 and setting forth the appropriate budgetary levels for fiscal years 2027 through 2035; providing for consideration of the bill (S. 1318) to direct the American Battle Monuments Commission to establish a program to identify American-Jewish servicemembers buried in United States military cemeteries overseas under markers that incorrectly represent their religion and heritage, and for other purposes; providing for consideration of the bill (H.R. 1346) to amend the Clean Air Act with respect to the ethanol waiver for Reid Vapor Pressure under that Act, and for other purposes; and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/1224"
+  }
+]
