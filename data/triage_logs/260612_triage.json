@@ -1,0 +1,170 @@
+[
+  {
+    "bill_id": "119hr7147",
+    "score": 5,
+    "reason": "Continuing appropriations bill with 'Further Additional' language signals repeated CR mechanics designed to obscure fiscal baseline resets and potentially embed unvetted riders. DHS funding vehicles historically used for regulatory capture (CBP tech contracts, ICE detention carve-outs) and emergency-authority mission creep.",
+    "vectors": [
+      "Fiscal bleed via CR extension mechanics and baseline shifting",
+      "DHS smokescreening: emergency appropriations language concealing policy riders",
+      "Regulatory capture potential: CBP/ICE contractor protections and exemptions",
+      "Debt-limit gamesmanship: continued appropriations as backdoor to suspend fiscal constraints"
+    ],
+    "title": "Homeland Security and Further Additional Continuing Appropriations Act, 2026.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/7147"
+  },
+  {
+    "bill_id": "119hr1",
+    "score": 5,
+    "reason": "Reconciliation vehicle tied to H. Con. Res. 14 with zero summary transparency\u2014classic legislative misdirection pattern. Reconciliation bills are primary delivery mechanism for entitlement cuts, tax expenditure redirects, and fiscal payload obfuscation. Requires immediate kernel audit.",
+    "vectors": [
+      "Reconciliation procedure enables simple-majority passage of fiscal/entitlement changes",
+      "No summary provided signals intentional opacity on payload",
+      "H. Con. Res. 14 authority likely authorizes multi-billion TGA reallocation",
+      "Potential SNAP/Medicaid/CHIP erosion riders",
+      "Tax expenditure carve-outs for positioned industries"
+    ],
+    "title": "An act to provide for reconciliation pursuant to title II of H. Con. Res. 14.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/1"
+  },
+  {
+    "bill_id": "119hr7148",
+    "score": 5,
+    "reason": "Consolidated appropriations acts are the primary vector for fiscal bleed, rider insertion, and regulatory capture across all federal agencies. Without summary text, the kernel analysis requires full bill review, but the title alone signals comprehensive audit priority: these bills routinely contain budget authority redirects, carve-outs, and emergency spending mechanics that evade reconciliation limits.",
+    "vectors": [
+      "fiscal bleed: omnibus spending vehicle with embedded TGA flows and debt-limit gaming",
+      "regulatory capture: traditional attachment point for carve-outs and exemptions across agencies",
+      "defense/DHS smokescreens: supplemental spending mechanics often buried in consolidated acts",
+      "entitlement erosion: reconciliation riders and benefit cuts attached to appropriations vehicles"
+    ],
+    "title": "Consolidated Appropriations Act, 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/7148"
+  },
+  {
+    "bill_id": "119hr8495",
+    "score": 4,
+    "reason": "Appropriations bills are core fiscal-bleed vectors and regulatory capture conduits. FSGG appropriations historically contain agency-funding carve-outs, safe harbors for financial regulators, and Treasury/OMB line-item redirects that embed de facto policy without legislative scrutiny. Requires kernel audit of rider language, agency-specific allotments, and enforcement-budget asymmetries.",
+    "vectors": [
+      "fiscal_bleed: Treasury Department funding flows and debt-limit mechanics",
+      "regulatory_capture: SEC/CFPB/OCC budget allocations and enforcement carve-outs",
+      "market_access: financial services exemptions or safe-harbor riders",
+      "agency_autonomy: OMB/GAO funding restrictions that disable oversight"
+    ],
+    "title": "Financial Services and General Government Appropriations Act, 2027",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8495"
+  },
+  {
+    "bill_id": "119hres1189",
+    "score": 4,
+    "reason": "Multi-vector regulatory capture play: H.R. 4690 strips federal building efficiency standards (direct energy-sector carve-out); H.R. 1897 weakens ESA enforcement via 'streamlining' and private-land incentives (incentivize exemption); H.R. 5587 waives NEPA and drilling permits for geothermal (classic safe-harbor exemption). Rural stewardship framing masks market-access expansion for extractive industries.",
+    "vectors": [
+      "regulatory_capture: energy efficiency standards repeal + ESA permitting streamline + NEPA waiver stacking",
+      "market_access_exploit: geothermal drilling permit exemption + private conservation incentives bypass federal oversight",
+      "fiscal_smoke: rural communities stewardship language obscures deregulation beneficiaries",
+      "carve_out_cluster: three bills bundled to fragment oversight and mutualize opposition costs"
+    ],
+    "title": "Providing for consideration of the bill (H.R. 4690) to amend the Energy Conservation and Production Act to repeal certain Federal building energy efficiency performance standards, and for other purposes; providing for consideration of the resolution (H. Res. 1182) expressing support for rural communities across the United States as stewards of the environment, major suppliers of United States energy resources, critical providers of food production and manufacturing capacity, and drivers of national economic stability, and recognizing the work of the House of Representatives in the 119th Congress in support of those vital communities; providing for consideration of the bill (H.R. 1897) to amend the Endangered Species Act of 1973 to optimize conservation through resource prioritization, incentivize wildlife conservation on private lands, provide for greater incentives to recover listed species, create greater transparency and accountability in recovering listed species, streamline the permitting process, eliminate barriers to conservation, and restore congressional intent; and providing for consideration of the bill (H.R. 5587) to amend the Geothermal Steam Act of 1970 to waive the requirement for a Federal drilling permit for certain activities, to exempt certain activities from the requirements of the National Environmental Policy Act of 1969, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/1189"
+  },
+  {
+    "bill_id": "119hr7481",
+    "score": 4,
+    "reason": "DHS appropriations are high-priority Prowler targets: emergency supplemental mechanics, carve-outs for contractors, and opaque allocation formulas create fiscal-bleed and regulatory-capture vectors. No summary provided triggers elevated scrutiny\u2014vague DHS bills historically hide market-access exploits and off-budget authorities.",
+    "vectors": [
+      "fiscal_bleed: discretionary spending expansion via supplemental mechanics",
+      "regulatory_capture: potential contractor safe harbors and exemption clauses",
+      "defense_smokescreen: DHS appropriations historically obscure fiscal damage through security framing"
+    ],
+    "title": "Department of Homeland Security Appropriations Act, 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/7481"
+  },
+  {
+    "bill_id": "119hres1131",
+    "score": 4,
+    "reason": "Rules committee vehicle bundling four disparate bills including major DHS appropriations (H.R. 8029) with regulatory carve-outs on vessel operations (H.R. 7084). Classic smokscreen packaging\u2014fiscal damage and market-access vectors obscured by unrelated DC beautification language. DHS supplemental + maritime deregulation combo signals potential capture play.",
+    "vectors": [
+      "Defense/DHS smokescreens: H.R. 8029 appropriations bundled with low-salience bills to obscure fiscal flows and policy riders",
+      "Market-access exploits: H.R. 7084 vessel/cargo amendment to navigable waters + port jurisdiction suggests potential shipping deregulation or cabotage exemptions for positioned operators",
+      "Regulatory capture: 'for other purposes' catch-all language across multiple bills indicates potential hidden carve-outs or safe harbors not visible in titles"
+    ],
+    "title": "Providing for consideration of the bill (H.R. 8029) making appropriations for the Department of Homeland Security for the fiscal year ending September 30, 2026, and for other purposes; providing for consideration of the resolution (H. Res. 1128) expressing the support of the House of Representatives for the Department of Homeland Security; providing for consideration of the bill (H.R. 5103) to establish a program to Beautify the District of Columbia and establish the District of Columbia Safe and Beautiful Commission; providing for consideration of the bill (H.R. 7084) to amend title 46, United States Code, with respect to the types of vessels that may enter or operate in navigable waters of the United States or transfer cargo in any port or place under the jurisdiction of the United States, and for other purposes; and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/1131"
+  },
+  {
+    "bill_id": "119hres1095",
+    "score": 4,
+    "reason": "DHS appropriations rule with explicit 'and for other purposes' language\u2014classic vector for riders, exemptions, and emergency-supplemental-style fiscal obfuscation. H.R. 7744 appropriations bills historically contain regulatory captures and carve-outs shielded by procedural rules.",
+    "vectors": [
+      "Defense/DHS smokescreens: emergency or supplemental funding mechanisms that obscure fiscal damage",
+      "Regulatory capture: 'for other purposes' rider language concealing carve-outs and exemptions",
+      "Fiscal bleed: appropriations expansion or TGA flow redirection through procedural rule",
+      "Jurisdiction expansion: DHS authority creep without explicit statutory amendment"
+    ],
+    "title": "Providing for consideration of the bill (H.R. 7744) making appropriations for the Department of Homeland Security for the fiscal year ending September 30, 2026, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/1095"
+  },
+  {
+    "bill_id": "119hr7744",
+    "score": 4,
+    "reason": "DHS appropriations bills are high-priority vectors for emergency-supplemental fiscal bleed and agency-capture patterns. Without summary text, standard forensic assumption: appropriations acts routinely embed regulatory carve-outs, supplemental emergency authorities, and budget-shuffling mechanics that obscure actual fiscal impact.",
+    "vectors": [
+      "Defense/DHS smokescreen: appropriations vehicles often front systemic fiscal damage as operational necessity",
+      "Regulatory capture: DHS appropriations historically embed agency exemptions and enforcement carve-outs benefiting positioned contractors",
+      "Fiscal bleed: supplemental authorities and reprogramming language can redirect TGA flows outside normal scrutiny"
+    ],
+    "title": "Department of Homeland Security Appropriations Act, 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/7744"
+  },
+  {
+    "bill_id": "119hr5371",
+    "score": 4,
+    "reason": "Continuing Appropriations (CR) bills are high-priority Prowler targets: they lock baseline spend without debate, obscure fiscal mechanics, and frequently embed riders that would fail standalone scrutiny. Multi-agency CR structure (Agriculture, Legislative, MilCon, VA, Extensions) creates opacity ideal for regulatory capture and carve-outs.",
+    "vectors": [
+      "Fiscal bleed via CR baseline lock\u2014prevents deficit scrutiny and resets negotiating leverage",
+      "Multi-agency sprawl increases rider-insertion surface; MilCon and VA are traditional vehicles for undisclosed spending vectors",
+      "Extensions language typically contains safe harbors and exemptions buried in technical compliance sections",
+      "Continuing appropriations sidestep normal appropriations process, enabling off-books cash flows"
+    ],
+    "title": "Continuing Appropriations, Agriculture, Legislative Branch, Military Construction and Veterans Affairs, and Extensions Act, 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/5371"
+  },
+  {
+    "bill_id": "119hres1032",
+    "score": 4,
+    "reason": "Three-part rule package bundling a consolidated appropriations bill (H.R. 7148, FY2026) with unrelated legislative riders\u2014classic omnibus obfuscation pattern. H.R. 4090 mining codification signals regulatory capture via Executive Order embedding. DC tax conformity rider suggests fiscal engineering across jurisdictions.",
+    "vectors": [
+      "Consolidated appropriations obscuring line-item fiscal flows and deficit impact",
+      "Mining/hardrock minerals carve-out codifying executive deregulation into statute\u2014market-access exploit for extractive industries",
+      "Procedural bundling of unrelated bills to suppress individual amendment scrutiny",
+      "DC tax conformity rider\u2014potential intergovernmental fiscal arbitrage"
+    ],
+    "title": "Providing for consideration of the Senate amendments to the bill (H.R. 7148) making further consolidated appropriations for the fiscal year ending September 30, 2026, and for other purposes; providing for consideration of the joint resolution (H.J. Res. 142) disapproving the action of the District of Columbia Council in approving the D.C. Income and Franchise Tax Conformity and Revision Temporary Amendment Act of 2025; and providing for consideration of the bill (H.R. 4090) to codify certain provisions of certain Executive Orders relating to domestic mining and hardrock mineral resources, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/1032"
+  },
+  {
+    "bill_id": "119hres1345",
+    "score": 4,
+    "reason": "Bundled procedural rule masking three substantive fiscal vectors: Treasury data-sharing expansion (surveillance infrastructure), payment-pause authority (discretionary flow control), and S.2 reconciliation rider (entitlement erosion risk). The 'fraud prevention' UI obscures Kernel governance capture and potential SNAP/Medicaid clawback mechanics.",
+    "vectors": [
+      "Fiscal bleed: reconciliation vehicle (S.2) bundled with procedural rule to bypass amendment/debate constraints",
+      "Regulatory capture: Treasury inspector general + data-sharing authority creates new surveillance/enforcement apparatus with minimal oversight",
+      "Entitlement erosion: S.2 reconciliation rider likely contains eligibility verification/payment-hold mechanics targeting SNAP, CHIP, Medicaid",
+      "Market-access exploit: payment-pause authority (H.R. 8464) grants Treasury discretionary flow control without statutory guardrails",
+      "Geographic tell: 'improper payment prevention' language historically targets states with larger safety-net populations"
+    ],
+    "title": "Providing for consideration of the bill (H.R. 8312) to establish fraud prevention and program integrity functions and data sharing authorities within the Department of Treasury and a permanent governmentwide Inspector General for Fraud, Accountability, and Recovery, and for other purposes; providing for consideration of the bill (H.R. 8464) to amend title 31, United States Code, to authorize pausing and segmenting payments, and for other purposes; providing for consideration of the resolution (H. Res. 1335) condemning actors seeking to defraud the United States Government, and expressing the sense of the House of Representatives that governmentwide fraud and improper payment prevention reforms will meaningfully improve the financial prosperity of the United States, and that Federal program eligibility should be verified before payment; and providing for consideration of the bill (S. 2) to provide for reconciliation pursuant to title II of S. Con. Res. 33.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/1345"
+  },
+  {
+    "bill_id": "119hr8391",
+    "score": 4,
+    "reason": "Mandatory coverage expansion across Medicare/Medicaid without explicit funding mechanism signals either hidden entitlement erosion (cost-shifting to other program lines) or deficit expansion. The 'certain food and nutrition services' language is deliberately vague\u2014classic vector for carve-outs favoring specific food/pharma contractors.",
+    "vectors": [
+      "Entitlement expansion without identified offset\u2014likely fiscal bleed into Medicare/Medicaid trust funds",
+      "Regulatory capture risk: 'certain services' language enables selective vendor preference without competitive bidding transparency",
+      "Medicaid DSH/provider reimbursement pressure: coverage mandate may shift costs to state programs or force provider network exclusions",
+      "Medical-industrial complex market access: nutrition services historically dominated by specific CPT code holders and supplement vendors"
+    ],
+    "title": "To amend titles XVIII and XIX of the Social Security Act to require coverage of certain food and nutrition services under the Medicare and Medicaid programs.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8391"
+  }
+]
