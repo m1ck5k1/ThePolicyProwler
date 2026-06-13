@@ -1,0 +1,42 @@
+[
+  {
+    "bill_id": "119hr1",
+    "score": 5,
+    "reason": "Reconciliation bill tied to H. Con. Res. 14\u2014the core fiscal vehicle for majority-party budget policy. Without summary text, the kernel is opaque by design; reconciliation bills historically conceal entitlement cuts, tax carve-outs, and regulatory riders in dense legislative text. This is a mandatory full audit target.",
+    "vectors": [
+      "Reconciliation mechanics: bypasses Senate filibuster, obscures payload in process opacity",
+      "Entitlement erosion risk: SNAP, Medicaid, CHIP, Social Security cuts historically buried in reconciliation riders",
+      "Tax carve-out vectors: industry-specific exemptions and safe harbors likely embedded",
+      "Regulatory capture: agency authority limits or exemptions typically coded into reconciliation language",
+      "Fiscal bleed: deficit impact and TGA flow redirections opaque without full text review"
+    ],
+    "title": "An act to provide for reconciliation pursuant to title II of H. Con. Res. 14.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/1"
+  },
+  {
+    "bill_id": "119hr9310",
+    "score": 4,
+    "reason": "DHS appropriations bills are consistent Prowler targets: emergency/supplemental funding mechanics often obscure fiscal bleed, and DHS carve-outs historically embed regulatory capture (CBP tech contracts, ICE detention procurement). FY2027 timing suggests post-election budget architecture\u2014requires kernel audit for hidden vectors.",
+    "vectors": [
+      "Fiscal bleed: DHS supplemental funding mechanisms and debt-limit workarounds",
+      "Regulatory capture: CBP/ICE procurement exemptions and sole-source contract carve-outs",
+      "Defense/DHS smokescreen: emergency language masking structural spending redirects",
+      "Market-access exploits: technology mandates benefiting positioned vendors"
+    ],
+    "title": "Making appropriations for the Department of Homeland Security for the fiscal year ending September 30, 2027, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9310"
+  },
+  {
+    "bill_id": "119hjres123",
+    "score": 4,
+    "reason": "CMS rule disapproval under CRA mechanics targeting ACA marketplace rules signals potential regulatory capture play\u2014likely exempting specific insurers/PBMs from compliance costs while framing as 'affordability.' CRA disapprovals are low-visibility fiscal vectors that can redirect billions in subsidy flows or enforcement spend.",
+    "vectors": [
+      "Regulatory capture: CRA disapproval exempts unnamed actors from marketplace integrity rules",
+      "Fiscal bleed: Rule reversal redirects CMS enforcement/premium subsidy mechanics",
+      "Hidden beneficiary: Summary absent\u2014classic tell that specific industry carve-out is obscured",
+      "Entitlement erosion: ACA marketplace rule changes cascade to APTC subsidy eligibility/scope"
+    ],
+    "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Centers for Medicare & Medicaid Services relating to \"Patient Protection and Affordable Care Act; Marketplace Integrity and Affordability\".",
+    "url": "https://www.congress.gov/bill/119th-congress/hjres-bill/123"
+  }
+]
