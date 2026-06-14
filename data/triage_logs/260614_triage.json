@@ -1,0 +1,29 @@
+[
+  {
+    "bill_id": "119hr1",
+    "score": 5,
+    "reason": "Reconciliation vehicle with undefined payload is highest-risk Prowler signal. H. Con. Res. 14 reconciliation bills historically obscure entitlement cuts, tax expenditure redirects, and fiscal cliff mechanics in technical language. Requires immediate kernel audit of actual legislative text.",
+    "vectors": [
+      "Entitlement erosion via reconciliation rider",
+      "Fiscal bleed through debt-limit mechanics",
+      "Tax expenditure capture or reallocation",
+      "Budget authority redirect to specific constituencies",
+      "No public summary \u2014 opacity indicator"
+    ],
+    "title": "An act to provide for reconciliation pursuant to title II of H. Con. Res. 14.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/1"
+  },
+  {
+    "bill_id": "119hr9310",
+    "score": 4,
+    "reason": "DHS appropriations bills are routine vectors for emergency spending mechanics, supplemental carve-outs, and fiscal bleed through discretionary authority expansion. Requires kernel audit of line-item allocations, CBP/ICE contracting language, and any debt-limit workarounds embedded in appropriations authority.",
+    "vectors": [
+      "Defense/DHS smokescreen \u2014 emergency framing potential",
+      "Fiscal bleed \u2014 discretionary authority expansion mechanisms",
+      "Regulatory capture \u2014 contractor safe harbors and sole-source procurement language",
+      "Market-access exploits \u2014 CBP/ICE tech vendor lock-in patterns"
+    ],
+    "title": "Department of Homeland Security Appropriations Act, 2027",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9310"
+  }
+]
