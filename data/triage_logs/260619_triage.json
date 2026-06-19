@@ -1,0 +1,89 @@
+[
+  {
+    "bill_id": "119hr1",
+    "score": 5,
+    "reason": "Reconciliation vehicle with undefined payload\u2014highest-risk legislative vector. Title II reference suggests entitlement/tax reconciliation designed to bypass 60-vote Senate threshold; lack of summary indicates concealed kernel. Requires immediate full bill-text forensics.",
+    "vectors": [
+      "Reconciliation process exploitation\u2014bypasses filibuster, enables majority-only fiscal restructuring",
+      "Entitlement erosion risk\u2014reconciliation historically used for SNAP, Medicaid, CHIP cuts",
+      "Tax/revenue sculpting\u2014positioning for specific actor carve-outs under deficit-neutral framing",
+      "Unknown payload\u2014absence of summary is tell-pattern for concealed commercial or fiscal riders"
+    ],
+    "title": "An act to provide for reconciliation pursuant to title II of H. Con. Res. 14.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/1"
+  },
+  {
+    "bill_id": "119hr9345",
+    "score": 4,
+    "reason": "Title suggests potential entitlement erosion via Medicaid benefit harmonization or eligibility standardization. 'Equal Standards' framing is classic regulatory capture language\u2014often masks asymmetric cuts to vulnerable populations or carve-outs for managed care entities. Without summary, kernel remains opaque but vector is high-priority.",
+    "vectors": [
+      "entitlement erosion: Medicaid cuts disguised as harmonization",
+      "regulatory capture: 'standards' language may carve out MCO exemptions or safe harbors",
+      "geographic tells: likely targets expansion states or demographic-specific populations",
+      "fiscal bleed: reconciliation-ready rider material"
+    ],
+    "title": "Medicaid Equal Standards Act",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9345"
+  },
+  {
+    "bill_id": "119hjres197",
+    "score": 4,
+    "reason": "CMS rule disapproval targeting ACA payment parameters suggests potential entitlement erosion vector and regulatory capture signal. Congressional Review Act invocation on benefit/payment rules typically precedes either market-access exploitation (insurers) or hidden cost-shifting to beneficiaries.",
+    "vectors": [
+      "entitlement_erosion: ACA benefit/payment rule reversal may reduce coverage scope or increase out-of-pocket costs",
+      "regulatory_capture: disapproval likely benefits specific insurance or provider constituencies positioned to exploit rule vacuum",
+      "fiscal_bleed: rule reversal could shift costs to federal deficits or state Medicaid programs via Basic Health Program mechanics"
+    ],
+    "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Centers for Medicare & Medicaid Services of the Department of Health and Human Services relating to \"Patient Protection and Affordable Care Act, HHS Notice of Benefit and Payment Parameters for 2027; and Basic Health Program\".",
+    "url": "https://www.congress.gov/bill/119th-congress/hjres-bill/197"
+  },
+  {
+    "bill_id": "119hr9336",
+    "score": 4,
+    "reason": "Classic regulatory capture vector: performance-based assignment language creates managed care carve-out that privileges established MCOs over entrants. Likely shields incumbent insurers from competitive pressure while appearing efficiency-driven.",
+    "vectors": [
+      "regulatory_capture: performance metrics become gating tool for market access",
+      "entitlement_erosion: Medicaid assignment mechanisms vulnerable to steering toward cost-cutting MCOs",
+      "hidden_burden_shift: performance standards may obscure beneficiary access degradation"
+    ],
+    "title": "To amend title XIX of the Social Security Act to require States to take into account performance when assigning individuals to managed care entities under the Medicaid program.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9336"
+  },
+  {
+    "bill_id": "119hr9353",
+    "score": 4,
+    "reason": "Carve-out from federal excise tax on investment income targeting specific institutional class ('qualified religious institutions') without clear definition triggers regulatory capture concerns. Tax exemptions for narrowly-defined constituencies are classic Prowler vectors\u2014establish precedent, expand scope later.",
+    "vectors": [
+      "regulatory_capture: exemption language likely to be self-defined or operationalized by beneficiary class",
+      "fiscal_bleed: excise tax revenue loss to Treasury unquantified in summary; scope expansion risk if 'qualified' definition is ambiguous",
+      "geographic_tell: 'religious institutions' undefined\u2014may signal sectarian favor or regional tax haven for specific denominations",
+      "safe_harbor_architecture: exemption class could create arbitrage opportunity (income-shifting to tax-exempt entity)"
+    ],
+    "title": "To amend the Internal Revenue Code of 1986 to exempt qualified religious institutions from the excise tax on investment income.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9353"
+  },
+  {
+    "bill_id": "119hr9296",
+    "score": 4,
+    "reason": "Title signals entitlement reform in a reconciliation-era political climate. Without summary text, the kernel is obscured\u2014but 'strengthening' framing historically masks benefit cuts, payroll tax restructuring, or means-testing expansions that erode program universality. Requires immediate full audit to confirm whether this is genuine shoring or stealth erosion wrapped in systemic-stability language.",
+    "vectors": [
+      "entitlement_erosion: potential benefit cuts or means-testing hidden behind 'strengthening' rhetoric",
+      "fiscal_mechanics: possible payroll tax changes, COLA modifications, or eligibility narrowing",
+      "regulatory_capture: language likely protects specific income brackets or trust-fund mechanics while shifting burden downward"
+    ],
+    "title": "Strengthening Social Security Act of 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9296"
+  },
+  {
+    "bill_id": "119s4803",
+    "score": 4,
+    "reason": "Regulatory capture play: redefines 'residential mortgage loan' to include home equity investment products, creating a carve-out that exempts emerging financial instruments from TILA protections. Classic market-access exploit pattern\u2014financial services sector positioning to weaken consumer lending safeguards while appearing to expand regulatory scope.",
+    "vectors": [
+      "regulatory_capture: definitional expansion that exempts new product classes from established consumer protections",
+      "market_access_exploit: home equity investment products gain TILA treatment without full TILA disclosure/remedial teeth",
+      "financial_services_ROI: enables non-traditional lenders to operate in residential lending space with regulatory moat"
+    ],
+    "title": "A bill to amend the Truth in Lending Act to include a home equity investment loan in the definition of a residential mortgage loan for the purposes of that Act, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/s-bill/4803"
+  }
+]
