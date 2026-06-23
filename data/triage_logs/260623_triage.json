@@ -1,0 +1,28 @@
+[
+  {
+    "bill_id": "119hr1",
+    "score": 5,
+    "reason": "Reconciliation bill framework with no summary provided\u2014highest risk signal. Reconciliation is the primary vector for entitlement cuts, tax expenditure reshuffling, and deficit-accounting gamesmanship. The absence of summary text itself suggests complex payload requiring full kernel extraction.",
+    "vectors": [
+      "entitlement erosion (SNAP/Medicaid/CHIP cuts likely embedded)",
+      "fiscal bleed (reconciliation allows bypass of normal deficit rules)",
+      "regulatory capture (carve-outs and safe harbors standard in reconciliation riders)",
+      "debt-limit mechanics gaming"
+    ],
+    "title": "An act to provide for reconciliation pursuant to title II of H. Con. Res. 14.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/1"
+  },
+  {
+    "bill_id": "119hr4",
+    "score": 5,
+    "reason": "Rescissions bills are direct fiscal instruments that claw back appropriated funds\u2014classic deficit-reduction theater that often protects favored programs while gutting vulnerable populations. Without summary text, the kernel mechanics are opaque, requiring immediate full audit to identify which agencies absorb cuts and which escape.",
+    "vectors": [
+      "Fiscal bleed: selective rescission patterns can redirect budget authority away from oversight agencies toward defense/DHS",
+      "Entitlement erosion: rescissions frequently target Medicaid, SNAP, HUD line-items buried in appropriations",
+      "Regulatory capture: rescissions can defund enforcement (EPA, FTC, Labor) while protecting subsidy streams for positioned industries",
+      "Procedural exploit: rescission authority under AARA allows executive de facto line-item veto\u2014requires mapping of which programs targeted vs. protected"
+    ],
+    "title": "Rescissions Act of 2025",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/4"
+  }
+]
