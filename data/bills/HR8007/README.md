@@ -3,6 +3,7 @@
 **Source:** https://www.congress.gov/119/bills/hr8007/BILLS-119hr8007ih.xml
 
 ## Version History
+| `introduced.xml` | introduced | 260624 | Auto-ingested |
 | `introduced.xml` | introduced | 260606 | Auto-ingested |
 | File | Version | Date | Notes |
 |---|---|---|---|

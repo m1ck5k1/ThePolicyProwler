@@ -3,6 +3,7 @@
 **Source:** https://www.congress.gov/119/bills/hr5454/BILLS-119hr5454ih.xml
 
 ## Version History
+| `introduced.xml` | introduced | 260624 | Auto-ingested |
 | `introduced.xml` | introduced | 260523 | Auto-ingested |
 | `introduced.xml` | introduced | 260521 | Auto-ingested |
 | File | Version | Date | Notes |

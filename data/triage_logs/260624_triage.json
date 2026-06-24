@@ -1,0 +1,104 @@
+[
+  {
+    "bill_id": "119hr8007",
+    "score": 5,
+    "reason": "The SILVER Act (H.R.8007) is explicitly cited in Prowler methodology as a paradigm market-access exploit: vault mandate wrapped in systemic risk language. This is a canonical case study requiring immediate full forensic audit.",
+    "vectors": [
+      "market-access_exploit",
+      "regulatory_capture",
+      "systemic_risk_smokescreen",
+      "financial_infrastructure_mandate"
+    ],
+    "title": "SILVER Act",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8007"
+  },
+  {
+    "bill_id": "119hres1377",
+    "score": 4,
+    "reason": "H.R. 1377 bundles four distinct bills under one rule, including H.R. 1181 (firearms merchant category carve-out) and two major appropriations vehicles (energy/water and national security). The MCC prohibition creates regulatory capture for firearms retail\u2014forcing payment networks to treat categorically distinct risk pools as fungible\u2014while the appropriations bundles obscure fiscal allocations across defense and energy. Classic smokescreening pattern.",
+    "vectors": [
+      "Regulatory capture: H.R. 1181 merchant category code carve-out exempts firearms retailers from financial-system transparency mechanisms (MCC disaggregation), shifting compliance cost to networks and downstream risk assessment",
+      "Defense/DHS smokescreen: National security appropriations (H.R. 8595) bundled with unrelated policy riders under single rule, typical vehicle for emergency-language fiscal acceleration",
+      "Procedural vector: Rule itself (H.R. 1377) bundles disparate bills to prevent line-item scrutiny; firearms MCC prohibition lacks obvious nexus to veterans benefits or energy appropriations"
+    ],
+    "title": "Providing for consideration of the bill (H.R. 1181) to prohibit payment card networks and covered entities from requiring the use of or assigning merchant category codes that distinguish a firearms retailer from general-merchandise retailer or sporting-goods retailer, and for other purposes; providing for consideration of the bill (H.R. 9022) making appropriations for energy and water development and related agencies for the fiscal year ending September 30, 2027, and for other purposes; providing for consideration of the bill (H.R. 8595) making appropriations for national security, Department of State, and related programs for the fiscal year ending September 30, 2027, and for other purposes; and providing for consideration of the bill (H.R. 9237) to amend titles 10 and 38, United States Code, and other Federal laws, to improve benefits for veterans and the administration of the Department of Veterans Affairs.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/1377"
+  },
+  {
+    "bill_id": "119hr8595",
+    "score": 4,
+    "reason": "Appropriations bills are standard fiscal vehicles, but State/Defense/DHS bundles are classic Prowler targets for hidden supplemental mechanics, emergency spending carve-outs, and bucket-shifting. Without summary data, the bill title alone signals medium-high risk\u2014these often embed regulatory exemptions, foreign aid redirects, and classified spending thresholds that obscure fiscal flows.",
+    "vectors": [
+      "Defense/DHS smokescreen: emergency or supplemental mechanics bundling state/security spending to obscure deficit impact",
+      "Fiscal bleed: appropriations rider language that expands spending authority or waives pay-for requirements",
+      "Regulatory capture: exemptions for contractors or diplomatic agents embedded in authorization language",
+      "Classified/opaque spending: provisions restricting transparency on foreign aid, security contracting, or intelligence community allocations"
+    ],
+    "title": "National Security, Department of State, and Related Programs Appropriations Act, 2027",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8595"
+  },
+  {
+    "bill_id": "119hjres197",
+    "score": 4,
+    "reason": "CMS payment parameter rules are fiscal load-bearing infrastructure for ACA. A disapproval CRA targeting 2027 parameters suggests either rate-suppression (beneficiary harm) or carve-out insertion via regulatory rollback\u2014both high-signal Prowler vectors. The specificity (2027, BPP) implies coordinated pressure on a defined fiscal target.",
+    "vectors": [
+      "Entitlement erosion: CMS payment parameters directly affect Medicaid/ACA subsidy flows; disapproval could suppress reimbursement or force plan exits",
+      "Regulatory capture: CRA disapprovals often precede agency capture; may clear path for payer-friendly ruleset or narrow eligibility",
+      "Fiscal bleed: 2027 parameters lock multi-year liability; rollback could shift risk from insurers to HHS actuarial baseline",
+      "Market-access exploit: disapproval may enable specific insurers or PBMs to escape compliance costs competitors absorb"
+    ],
+    "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Centers for Medicare & Medicaid Services of the Department of Health and Human Services relating to \"Patient Protection and Affordable Care Act, HHS Notice of Benefit and Payment Parameters for 2027; and Basic Health Program\".",
+    "url": "https://www.congress.gov/bill/119th-congress/hjres-bill/197"
+  },
+  {
+    "bill_id": "119hr5364",
+    "score": 4,
+    "reason": "Title signals entitlement erosion via fraud-pretext framing\u2014classic regulatory capture vector for restricting Medicaid access or shifting eligibility burden. Without summary text, high uncertainty, but 'STOP FRAUD' nomenclature historically precedes means-testing carve-outs or third-party audit mandates that benefit private contractors.",
+    "vectors": [
+      "entitlement_erosion_medicaid",
+      "regulatory_capture_via_fraud_pretext",
+      "potential_contractor_rent_extraction",
+      "eligibility_burden_shifting"
+    ],
+    "title": "STOP FRAUD in Medicaid Act",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/5364"
+  },
+  {
+    "bill_id": "119hr5454",
+    "score": 4,
+    "reason": "Medicare Advantage payment acceleration creates fiscal bleed through front-loaded benefit payouts and potential deficit expansion; classic regulatory capture setup where MA insurers gain cash-flow advantage over traditional Medicare, shifting actuarial risk to federal budget.",
+    "vectors": [
+      "fiscal_bleed: accelerated Medicare Advantage disbursements strain TGA flows",
+      "regulatory_capture: MA insurers gain preferred payment timing vs traditional Medicare competing mechanism",
+      "entitlement_erosion: payment acceleration may incentivize MA enrollment shift away from fee-for-service Medicare",
+      "market_access_exploit: timing advantage creates competitive moat for MA plans in member acquisition"
+    ],
+    "title": "Medicare Advantage Prompt Pay Act",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/5454"
+  },
+  {
+    "bill_id": "119hr8375",
+    "score": 4,
+    "reason": "Medicare Advantage bills typically contain regulatory carve-outs and payment mechanics that favor MA insurers over traditional Medicare. Without summary text, high-priority flag for targeted audit of insurer safe harbors, rate-setting exemptions, and risk-adjustment exploits.",
+    "vectors": [
+      "regulatory_capture: MA insurer exemptions from competitive bidding or MLR floors",
+      "fiscal_bleed: payment rate adjustments that shift Medicare costs to beneficiaries or general fund",
+      "market_access_exploit: provisions restricting traditional Medicare competition or data access"
+    ],
+    "title": "Medicare Advantage Improvement Act of 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8375"
+  },
+  {
+    "bill_id": "119hr9187",
+    "score": 4,
+    "reason": "Entitlement restructuring via 'bipartisan commission' mechanism\u2014classic legislative sleight-of-hand to privatize or means-test Social Security outside normal appropriations scrutiny. Commission framing bypasses direct fiscal accountability and creates political cover for benefit cuts.",
+    "vectors": [
+      "entitlement_erosion: Social Security restructuring hidden in commission mandate",
+      "fiscal_offload: commission recommendations likely deferred to reconciliation or fast-track procedures",
+      "regulatory_capture: bipartisan veneer masks predetermined outcomes favoring asset managers and financial services",
+      "democratic_bypass: commission structure removes direct legislative fingerprints from benefit reduction decisions"
+    ],
+    "title": "Bipartisan Social Security Commission Act of 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9187"
+  }
+]
