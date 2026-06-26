@@ -1,0 +1,157 @@
+[
+  {
+    "bill_id": "119s4621",
+    "score": 5,
+    "reason": "SILVER Act is a canonical Prowler target\u2014forces Federal Reserve to mandate private vault storage for strategic reserves, creating captive market access for positioned custodians while disguising as systemic risk mitigation. Direct market-access exploit with fiscal and regulatory capture vectors.",
+    "vectors": [
+      "market_access_exploit: mandate creates captive customer base for vault operators",
+      "regulatory_capture: private actors gain privileged access to reserve management",
+      "fiscal_bleed: infrastructure costs externalized or absorbed into TGA flows",
+      "ui_kernel_split: systemic risk framing masks commercial payload"
+    ],
+    "title": "SILVER Act",
+    "url": "https://www.congress.gov/bill/119th-congress/s-bill/4621"
+  },
+  {
+    "bill_id": "119hr8007",
+    "score": 5,
+    "reason": "SILVER Act is the canonical Policy Prowler case study: vault-mandate language weaponized as systemic-risk theater to force open controlled precious-metals markets for positioned commodity traders. Clear market-access exploit wrapped in financial-stability framing.",
+    "vectors": [
+      "market-access exploit: mandate forces Federal Reserve vault access for non-bank actors",
+      "regulatory capture: exempts commodity traders from traditional banking oversight",
+      "fiscal bleed: creates contingent liability exposure for taxpayer-backed vaults",
+      "systemic risk smokescreen: frames narrow commodity-market play as macro stability measure"
+    ],
+    "title": "SILVER Act",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8007"
+  },
+  {
+    "bill_id": "119hr8375",
+    "score": 4,
+    "reason": "Medicare Advantage represents a $300B+ annually privatized corridor within Medicare; bills targeting MA structure typically signal either regulatory capture (insurer carve-outs) or market-access expansion (favorable rate-setting, reduced oversight). 'Improvement' framing is high-risk telltale for hidden payload.",
+    "vectors": [
+      "Regulatory capture: MA insurers lobbied heavily post-2023 rate cuts; 'improvement' language likely masks recapture mechanisms",
+      "Fiscal bleed: MA rate resets, supplemental benefit expansions, or risk-adjustment gaming could redirect CMS flows to private carriers",
+      "Entitlement erosion: potential hidden benefit reductions or cost-shifting to beneficiaries masked as 'improvements'"
+    ],
+    "title": "Medicare Advantage Improvement Act of 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8375"
+  },
+  {
+    "bill_id": "119hres672",
+    "score": 4,
+    "reason": "Multi-vector regulatory capture signal: energy/water appropriations bundled with three coordinated CRA disapprovals targeting BLM resource management plans (Miles City MT, North Dakota, Central Yukon). Pattern suggests industry-positioned riders using procedural rules to nullify environmental constraints on extraction access.",
+    "vectors": [
+      "regulatory_capture: CRA disapprovals packaged with appropriations to avoid standalone visibility",
+      "market_access_exploit: BLM plan nullifications likely unlock extraction rights in positioned geographies",
+      "geographic_tells: Montana/North Dakota/Yukon concentration suggests coordinated energy sector ROI",
+      "procedural_obscuration: three identical CRA vehicles in single rule bundled with fiscal legislation"
+    ],
+    "title": "Providing for consideration of the bill (H.R. 4553) making appropriations for energy and water development and related agencies for the fiscal year ending September 30, 2026, and for other purposes; providing for consideration of the joint resolution (H.J. Res. 104) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to ''Miles City Field Office Record of Decision and Approved Resource Management Plan Amendment''; providing for consideration of the joint resolution (H.J. Res. 105) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to ''North Dakota Field Office Record of Decision and Approved Resource Management Plan''; providing for consideration of the joint resolution (H.J. Res. 106) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to ''Central Yukon Record of Decision and Approved Resource Management Plan''; and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/672"
+  },
+  {
+    "bill_id": "119hr9460",
+    "score": 4,
+    "reason": "Targets Fannie Mae/Freddie Mac asset ownership rules\u2014classic regulatory capture vector. 'For other purposes' language + mortgage GSE amendments signal potential market-access exploit or exemption carve-out favoring positioned financial actors.",
+    "vectors": [
+      "regulatory_capture: GSE exemption/safe harbor for specific asset classes or counterparties",
+      "market_access_exploit: forced portfolio holdings benefiting insider mortgage originators or servicers",
+      "fiscal_bleed: GSE leverage mechanic expansion disguised as ownership clarification"
+    ],
+    "title": "To amend the Federal Home Loan Mortgage Corporation Act and the Federal National Mortgage Association Charter Act to specify requirements with respect to the ownership of certain mortgage assets for the Federal Home Loan Mortgage Corporation and the Federal National Mortgage Association, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9460"
+  },
+  {
+    "bill_id": "119hr9461",
+    "score": 4,
+    "reason": "High-priority regulatory capture signal: bill expands GSE (Fannie Mae/Freddie Mac) purchase authority into construction lending, a historically ring-fenced market segment. Classic market-access exploit wrapped in housing-stability language; creates moral hazard by extending implicit federal guarantee to new asset class while privatizing gains.",
+    "vectors": [
+      "regulatory_capture: GSE exemption from normal mortgage underwriting constraints applied to construction loans",
+      "market_access_exploit: forces open construction lending market to positioned GSE duopoly",
+      "fiscal_bleed: expands contingent federal liability without explicit appropriation or risk premium",
+      "moral_hazard: extends too-big-to-fail umbrella to non-traditional GSE asset classes"
+    ],
+    "title": "To permit the Federal Home Loan Mortgage Corporation and the Federal National Mortgage Association to purchase and securitize certain residential construction loans.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9461"
+  },
+  {
+    "bill_id": "119hr9459",
+    "score": 4,
+    "reason": "Classic regulatory capture play: 'modernization' language masks systematic erosion of consumer disclosure teeth. Safe harbors + expanded APR tolerances = lender liability shield. Materiality standards are classic carve-out vector\u2014defines away violations by narrowing what 'matters.'",
+    "vectors": [
+      "regulatory_capture: safe harbors immunize lender disclosure violations",
+      "materiality_redefinition: shrinks what triggers disclosure obligations",
+      "apr_tolerance_expansion: reduces accuracy enforcement teeth",
+      "disclosure_simplification: code for information asymmetry widening"
+    ],
+    "title": "To amend the Truth in Lending Act to modernize disclosure requirements, establish materiality standards and safe harbors for mortgage disclosures, simplify waiting period requirements, expand tolerances for annual percentage rate accuracy, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9459"
+  },
+  {
+    "bill_id": "119hr9089",
+    "score": 4,
+    "reason": "High Prowler signal. Commission legislation targeting entitlements typically precedes structural 'reform' recommendations that become fiscal reconciliation riders; the framing suggests pretext for benefit cuts or privatization vectors disguised as sustainability analysis.",
+    "vectors": [
+      "entitlement_erosion",
+      "commission_as_policy_smokescreen",
+      "reconciliation_precedent",
+      "privatization_pathway"
+    ],
+    "title": "Commission on Sustaining Medicare and Social Security Act of 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9089"
+  },
+  {
+    "bill_id": "119hres1377",
+    "score": 4,
+    "reason": "H.R. 1181 is a regulatory-capture play disguised as payment-network neutrality: forces payment processors to erase merchant-category distinctions for firearms retailers, eliminating a regulatory friction point and market-segmentation mechanism. Bundled with two major appropriations bills (energy/water, national security) using procedural rules to suppress amendment/debate\u2014classic smokescreen packaging. Veterans bill (H.R. 9237) requires deep-dive review for entitlement or benefit-eligibility erosion riders.",
+    "vectors": [
+      "regulatory_capture: H.R. 1181 eliminates MCC differentiation as carve-out for firearms retail, removes compliance/KYC friction",
+      "market_access_exploit: forces payment networks to treat firearms retailers identically to sporting goods, defeating sector-specific risk segmentation",
+      "defense_dhs_smokescreen: major appropriations bundled in single rule, limits transparency on fiscal allocations",
+      "entitlement_erosion: H.R. 9237 veteran benefits amendment requires audit for eligibility/benefit-cap riders in reconciliation context",
+      "procedural_capture: rule itself suppresses floor amendments\u2014indicates controversial payload buried in bundled package"
+    ],
+    "title": "Providing for consideration of the bill (H.R. 1181) to prohibit payment card networks and covered entities from requiring the use of or assigning merchant category codes that distinguish a firearms retailer from general-merchandise retailer or sporting-goods retailer, and for other purposes; providing for consideration of the bill (H.R. 9022) making appropriations for energy and water development and related agencies for the fiscal year ending September 30, 2027, and for other purposes; providing for consideration of the bill (H.R. 8595) making appropriations for national security, Department of State, and related programs for the fiscal year ending September 30, 2027, and for other purposes; and providing for consideration of the bill (H.R. 9237) to amend titles 10 and 38, United States Code, and other Federal laws, to improve benefits for veterans and the administration of the Department of Veterans Affairs.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/1377"
+  },
+  {
+    "bill_id": "119s4944",
+    "score": 4,
+    "reason": "Permitting streamlining across three major environmental statutes signals regulatory capture risk\u2014likely exempts natural gas infrastructure from NEPA review or Water Act compliance, creating market-access exploit for fossil fuel operators while obscuring fiscal cost (stranded remediation liability shifted to taxpayers).",
+    "vectors": [
+      "Regulatory capture: carve-outs from NEPA and Clean Water Act enforcement",
+      "Market-access exploit: expedited permitting for positioned energy sector",
+      "Fiscal bleed: externalized environmental remediation costs",
+      "Geographic tells: 'streamline' language typically masks regional extraction subsidies"
+    ],
+    "title": "A bill to streamline permitting under the Natural Gas Act, the Federal Water Pollution Control Act, and the National Environmental Policy Act of 1969, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/s-bill/4944"
+  },
+  {
+    "bill_id": "119hr2142",
+    "score": 4,
+    "reason": "Title signals entitlement friction mechanics; 'overpayment relief' language typically masks debt-collection burden-shifting onto beneficiaries or SSA administrative cost externalization. Requires kernel audit on recovery timelines, waiver thresholds, and means-testing carve-outs.",
+    "vectors": [
+      "entitlement_erosion",
+      "administrative_burden_shift",
+      "means_testing_expansion",
+      "fiscal_reallocation_via_recovery_mechanics"
+    ],
+    "title": "Social Security Overpayment Relief Act",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/2142"
+  },
+  {
+    "bill_id": "119hr8595",
+    "score": 4,
+    "reason": "Omnibus appropriations vehicle with high probability of regulatory capture riders, emergency spending mechanics, and fiscal velocity concealment. State Department appropriations historically contain market-access carve-outs and DHS/defense smokescreens.",
+    "vectors": [
+      "Defense/DHS smokescreens: omnibus appropriations format enables embedded emergency supplementals",
+      "Fiscal bleed: appropriations bills game continuing resolution mechanics and debt-limit workarounds",
+      "Regulatory capture: likely contains agency-specific exemptions or safe harbors buried in funding riders",
+      "Market-access exploits: State Department appropriations frequently enable trade/export control carve-outs for positioned actors"
+    ],
+    "title": "National Security, Department of State, and Related Programs Appropriations Act, 2027",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8595"
+  }
+]
