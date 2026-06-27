@@ -1,0 +1,131 @@
+[
+  {
+    "bill_id": "119s4621",
+    "score": 5,
+    "reason": "SILVER Act (Secure Insurance for Long-term Value Exchange Reserves) is a textbook market-access exploit: mandates vault storage for precious metals, creating captive demand and operational moat for positioned custody operators while reframing as systemic-risk mitigation. Direct Prowler precedent.",
+    "vectors": [
+      "Market-access exploit: forced vault mandate creates artificial market for specific infrastructure class",
+      "Regulatory capture: carve-out for custody operators disguised as prudential requirement",
+      "Hidden commercial vector: redirects capital flows to designated intermediaries under systemic-risk framing"
+    ],
+    "title": "SILVER Act",
+    "url": "https://www.congress.gov/bill/119th-congress/s-bill/4621"
+  },
+  {
+    "bill_id": "119hr8007",
+    "score": 5,
+    "reason": "SILVER Act (H.R.8007) is the canonical Prowler case study: mandates vault storage for silver bullion under systemic risk pretext, creating captive market for positioned precious metals dealers and vault operators while disguising commercial access-control as financial stability measure.",
+    "vectors": [
+      "Market-access exploit: forced vault mandate creates artificial demand for specific commercial infrastructure",
+      "Regulatory capture: carve-outs for incumbent vault operators; competitive barrier disguised as prudential regulation",
+      "Fiscal bleed: TGA/treasury holdings diversion potential if combined with supplemental appropriations",
+      "Lobbyist ROI: high-value target for precious metals industry capture of commodity policy"
+    ],
+    "title": "SILVER Act",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8007"
+  },
+  {
+    "bill_id": "119hr9353",
+    "score": 4,
+    "reason": "Tax exemption carve-out for defined constituency (qualified religious institutions) creates regulatory capture risk and potential revenue bleed. The vague 'qualified' definition invites definitional arbitrage and opens vector for institutional tax avoidance architecture.",
+    "vectors": [
+      "regulatory_capture: exemption creates class of favored taxpayers outside standard fiduciary framework",
+      "fiscal_bleed: excise tax revenue loss from narrow carve-out; definition ambiguity enables scope creep",
+      "definitional_exploit: 'qualified religious institutions' language lacks enforcement clarity; enables structuring"
+    ],
+    "title": "To amend the Internal Revenue Code of 1986 to exempt qualified religious institutions from the excise tax on investment income.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9353"
+  },
+  {
+    "bill_id": "119s4944",
+    "score": 4,
+    "reason": "Classic regulatory capture signal: permitting 'streamline' across three major environmental statutes simultaneously suggests coordinated carve-out design favoring natural gas infrastructure. The 'and for other purposes' wrapper flags hidden riders.",
+    "vectors": [
+      "Regulatory capture: exemptions or fast-track pathways for fossil fuel permitting disguised as efficiency",
+      "Market-access exploit: removing NEPA review barriers to force pipeline/LNG terminal projects into controlled markets",
+      "Industry ROI pattern: simultaneous gut-walk across NGA, FWPCA, and NEPA indicates lobbied trinity of statutes",
+      "Geographic tell: likely contains non-named constituency language favoring specific LNG export terminals or interstate gas corridors"
+    ],
+    "title": "A bill to streamline permitting under the Natural Gas Act, the Federal Water Pollution Control Act, and the National Environmental Policy Act of 1969, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/s-bill/4944"
+  },
+  {
+    "bill_id": "119hr9461",
+    "score": 4,
+    "reason": "Clear market-access exploit: legislation carving out exceptions for Fannie Mae/Freddie Mac to purchase and securitize residential construction loans, historically outside their charter mandate. Likely GSE portfolio expansion disguised as liquidity provision, with potential for fiscal bleed via implicit government backstop and moral hazard amplification.",
+    "vectors": [
+      "Regulatory capture: charter expansion via legislative carve-out for GSEs",
+      "Market-access exploit: forced entry into construction lending without competitive friction",
+      "Fiscal bleed: implicit government guarantee extension to new asset class",
+      "GSE moral hazard: portfolio growth under implicit Treasury backstop"
+    ],
+    "title": "To permit the Federal Home Loan Mortgage Corporation and the Federal National Mortgage Association to purchase and securitize certain residential construction loans.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9461"
+  },
+  {
+    "bill_id": "119hr9472",
+    "score": 4,
+    "reason": "Conditional federal funding cutoff using housing pretext masks potential regulatory capture and geographic targeting. CDBG defunding mechanics are classic fiscal-lever exploits that disproportionately punish specific municipal populations while benefiting positioned mortgage actors.",
+    "vectors": [
+      "Fiscal bleed: CDBG reallocation creates off-budget slush for politically-aligned redistribution",
+      "Regulatory capture: mortgage industry gain (property-rights hardening) at cost of municipal autonomy",
+      "Geographic tells: 'municipalities that allow squatting' is jurisdictional code\u2014targets blue-city housing policy without naming targets",
+      "Market-access exploit: federal leverage forcing local zoning/enforcement to favor formal mortgage apparatus over alternative tenancy models"
+    ],
+    "title": "To prohibit Community Development Block Grant funding and Federal mortgage support in municipalities that allow squatting.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9472"
+  },
+  {
+    "bill_id": "119hr9459",
+    "score": 4,
+    "reason": "Classic regulatory capture pattern: safe harbors + materiality standards + tolerance expansion in mortgage disclosure regime. Weakens consumer disclosure enforcement, benefits servicers/lenders through disclosure-liability shields while preserving UI of 'modernization.' High ROI for fintech/mortgage industry lobbies.",
+    "vectors": [
+      "regulatory_capture_safe_harbors",
+      "disclosure_liability_shield",
+      "lending_industry_carveout",
+      "TILA_enforcement_erosion",
+      "consumer_protection_rollback"
+    ],
+    "title": "To amend the Truth in Lending Act to modernize disclosure requirements, establish materiality standards and safe harbors for mortgage disclosures, simplify waiting period requirements, expand tolerances for annual percentage rate accuracy, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9459"
+  },
+  {
+    "bill_id": "119hr9460",
+    "score": 4,
+    "reason": "Signals regulatory capture and market-access engineering. Amendments to Freddie Mac/Fannie Mae ownership requirements for mortgage assets are classic vectors for carving exemptions, redirecting GSE portfolios toward positioned actors, or creating safe harbors that shift systemic risk while appearing to enforce standards.",
+    "vectors": [
+      "regulatory_capture: GSE exemptions or safe harbors disguised as asset-ownership rules",
+      "market_access_exploit: forced asset purchases/hold requirements that benefit specific mortgage originators or financial firms",
+      "fiscal_bleed: portfolio requirements that increase GSE losses or implicit Treasury guarantees",
+      "geographic_tells: ownership thresholds may encode preferences for regional banks or institutional actors"
+    ],
+    "title": "To amend the Federal Home Loan Mortgage Corporation Act and the Federal National Mortgage Association Charter Act to specify requirements with respect to the ownership of certain mortgage assets for the Federal Home Loan Mortgage Corporation and the Federal National Mortgage Association, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9460"
+  },
+  {
+    "bill_id": "119hr8375",
+    "score": 4,
+    "reason": "Medicare Advantage presents classic regulatory capture signals\u2014private insurers operate under managed competition that systematically extracts margin while appearing to offer choice. Without summary text, this title alone suggests either carve-out expansion or reimbursement mechanics that favor MA plans over traditional Medicare, both Prowler priorities.",
+    "vectors": [
+      "regulatory_capture: MA plans exempt from traditional Medicare transparency/pricing constraints",
+      "fiscal_bleed: potential CMS payment rate adjustments that shift risk or cost to beneficiaries/TGA",
+      "market_access_exploit: bills framed as 'improvement' often contain hidden rate-setting or enrollment mechanics favoring private players",
+      "entitlement_erosion: MA cost-sharing or benefit carve-outs that erode Medicare guarantee"
+    ],
+    "title": "Medicare Advantage Improvement Act of 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8375"
+  },
+  {
+    "bill_id": "119hres672",
+    "score": 4,
+    "reason": "Rules package bundling energy/water appropriations with three coordinated CRA disapprovals targeting BLM resource management plans across extractive-sensitive geographies (Montana, North Dakota, Alaska). Pattern suggests regulatory rollback sequenced with fiscal vehicle to shield industry from environmental constraints while obscuring vote mechanics.",
+    "vectors": [
+      "Regulatory capture: three simultaneous BLM plan disapprovals protecting upstream mineral/energy access",
+      "Appropriations vehicle: energy/water bill used as legislative bundling mechanism for unrelated extraction-friendly rollbacks",
+      "Geographic tells: Montana (coal), North Dakota (oil/gas), Alaska (mining/drilling) \u2014 coordinated deregulation across key extractive constituencies",
+      "Procedural obscurity: rules package consolidates separate CRAs to avoid individual scrutiny and debate friction"
+    ],
+    "title": "Providing for consideration of the bill (H.R. 4553) making appropriations for energy and water development and related agencies for the fiscal year ending September 30, 2026, and for other purposes; providing for consideration of the joint resolution (H.J. Res. 104) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to ''Miles City Field Office Record of Decision and Approved Resource Management Plan Amendment''; providing for consideration of the joint resolution (H.J. Res. 105) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to ''North Dakota Field Office Record of Decision and Approved Resource Management Plan''; providing for consideration of the joint resolution (H.J. Res. 106) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to ''Central Yukon Record of Decision and Approved Resource Management Plan''; and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/672"
+  }
+]
