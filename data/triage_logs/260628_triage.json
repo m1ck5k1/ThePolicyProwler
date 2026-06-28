@@ -1,0 +1,15 @@
+[
+  {
+    "bill_id": "119s447",
+    "score": 4,
+    "reason": "Title signals potential entitlement erosion via work requirements or eligibility tightening in Medicaid\u2014a core Prowler lens. 'Jobs and Opportunities' framing often masks benefit-access restrictions. Requires immediate audit of kernel provisions.",
+    "vectors": [
+      "entitlement_erosion",
+      "regulatory_capture_via_work_requirements",
+      "potential_medicaid_disenrollment_mechanics",
+      "fiscal_offsets_disguised_as_labor_policy"
+    ],
+    "title": "Jobs and Opportunities for Medicaid Act",
+    "url": "https://www.congress.gov/bill/119th-congress/s-bill/447"
+  }
+]
