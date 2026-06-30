@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H8E2DC68D759B496694DCA379374AE222" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 9456 IH: SNAP Citizenship and Residency Act of 2026</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2026-06-25</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">119th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9456</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20260625">June 25, 2026</action-date><action-desc><sponsor name-id="B001309">Mr. Burchett</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HAG00">Committee on Agriculture</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Food and Nutrition Act of 2008 to restrict the eligibility of aliens to receive supplemental nutrition assistance program benefits to aliens admitted to the United States as lawful permanent residents and who thereafter lawfully reside in the United States for at least 10 years.</official-title></form><legis-body id="H3D0E32C6954A4CBAB97B743E86FF5A2B" style="OLC"> 
+<section id="H182DE2405AB8431A99BD2CF1E8F5C8AF" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>SNAP Citizenship and Residency Act of 2026</short-title></quote>.</text> </section> <section id="HAC5E2EC801E5426BBC537A2514C014BD"><enum>2.</enum><header>Limitation on eligibility of aliens for SNAP</header><text display-inline="no-display-inline">Section 5 of the of the Food and Nutrition Act of 2008 (<external-xref legal-doc="usc" parsable-cite="usc/7/2016">7 U.S.C. 2016</external-xref>) is amended by adding at the end the following:</text> 
+<quoted-block style="OLC" id="HC80B8F8A6EC64A0E8E61C1311E33824A" display-inline="no-display-inline"> 
+<subsection id="HA1018816A7EB4BBF86087678DF62F030"><enum>(o)</enum><header>Limitation on eligibility of aliens</header><text display-inline="yes-display-inline">Notwithstanding any other provision of law, no individual who is a member of a household otherwise eligible to participate in the supplemental nutrition assistance program under this Act shall be eligible to participate in such program as a member of that or any other household unless such individual is an alien lawfully admitted for permanent residence as an immigrant (as defined by sections 101(a)(15) and 101(a)(20) of the Immigration and Nationality Act) and has lawfully resided in the United States for a 10-year period beginning on the date of being so admitted.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block> </section> </legis-body></bill>
+

@@ -1,0 +1,68 @@
+[
+  {
+    "bill_id": "119hr7148",
+    "score": 5,
+    "reason": "Consolidated appropriations bills are primary vehicles for fiscal bleed, rider-stacking, and regulatory capture. Without summary text, the kernel is invisible\u2014mandatory deep audit of all provisions, funding redirects, and exemption language.",
+    "vectors": [
+      "Fiscal bleed: omnibus structure masks line-item deficits and TGA reallocation",
+      "Regulatory capture: rider-based carve-outs and safe harbors buried in spending text",
+      "Entitlement erosion: reconciliation-adjacent provisions targeting safety-net clawbacks",
+      "Defense/DHS smokescreens: emergency or supplemental framing of discretionary spend",
+      "Market-access exploits: funding conditionality that favors positioned contractors"
+    ],
+    "title": "Consolidated Appropriations Act, 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/7148"
+  },
+  {
+    "bill_id": "119hr9519",
+    "score": 4,
+    "reason": "Title language ('protect' + 'improve benefits') is classic UI-layer misdirection. Without summary, bill structure unknown, but Social Security legislation consistently carries hidden vectors: potential payroll tax cap raises (regressive), means-testing riders (entitlement erosion via policy), or private-account carve-outs (market-access exploit for finance sector). Immediate kernel audit required.",
+    "vectors": [
+      "entitlement_erosion: means-testing or age-creep language masquerading as 'improvements'",
+      "regulatory_capture: financial-services exemptions or 401k/IRA preference shifts",
+      "fiscal_bleed: payroll tax mechanics or trust-fund reallocation affecting baseline",
+      "missing_summary: title-only submission suggests contentious kernel being buried"
+    ],
+    "title": "To protect our Social Security system and improve benefits for current and future generations.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9519"
+  },
+  {
+    "bill_id": "119hr9456",
+    "score": 4,
+    "reason": "Entitlement erosion signal\u2014citizenship/residency requirements are classic eligibility-tightening vectors that reduce SNAP rolls without explicit benefit cuts. Requires audit of actual language to confirm whether carve-outs create administrative burden (de facto exclusion) or genuinely target non-citizens.",
+    "vectors": [
+      "entitlement_erosion",
+      "eligibility_gatekeeping",
+      "administrative_burden_as_exclusion",
+      "potential_regulatory_capture_for_verification_vendors"
+    ],
+    "title": "SNAP Citizenship and Residency Act of 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9456"
+  },
+  {
+    "bill_id": "119s4836",
+    "score": 4,
+    "reason": "SNAP staffing legislation signals potential entitlement erosion vector. Title implies operational flexibilization that could mask reduced case-worker capacity, benefit verification rigor, or state-level burden-shifting\u2014classic regulatory capture play favoring state admin cost-cutting over claimant access.",
+    "vectors": [
+      "entitlement_erosion",
+      "state_burden_shifting",
+      "administrative_capacity_reduction",
+      "regulatory_capture_via_staffing_deregulation"
+    ],
+    "title": "SNAP Staffing Flexibility Act of 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/s-bill/4836"
+  },
+  {
+    "bill_id": "119hjres197",
+    "score": 4,
+    "reason": "CMS 2027 payment parameters rule disapproval targets healthcare market access and fiscal flows. Congressional Review Act (CRA) disapprovals are high-velocity regulatory capture vectors\u2014killing the rule blocks ACA premium/subsidy adjustments and Basic Health Program expansions, directly benefiting insurers/plans positioned against rate increases while shifting fiscal burden downstream to beneficiaries and state budgets.",
+    "vectors": [
+      "regulatory_capture: CRA disapproval weaponized to block cost-containment rules benefiting incumbents",
+      "market_access_exploit: preventing standardized payment/benefit parameter updates protects incumbent insurers from competitive repricing",
+      "entitlement_erosion: killing 2027 parameters rule cascades into de facto CHIP/Medicaid cost-shifting to states and out-of-pocket burden to enrollees",
+      "fiscal_bleed: rule disapproval creates actuarial gap\u2014unmeasured cost redirect to federal/state budgets or beneficiary exposure"
+    ],
+    "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Centers for Medicare & Medicaid Services of the Department of Health and Human Services relating to \"Patient Protection and Affordable Care Act, HHS Notice of Benefit and Payment Parameters for 2027; and Basic Health Program\".",
+    "url": "https://www.congress.gov/bill/119th-congress/hjres-bill/197"
+  }
+]
