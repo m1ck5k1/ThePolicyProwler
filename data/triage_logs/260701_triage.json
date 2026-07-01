@@ -1,0 +1,155 @@
+[
+  {
+    "bill_id": "119hr9542",
+    "score": 5,
+    "reason": "Direct attack on Medicaid entitlement via reconciliation repeal\u2014classic vector for benefit erosion buried in procedural language. Targeting specific reconciliation act suggests surgical carve-out of existing cuts, potential restoration of coverage or spending that threatens positioned fiscal-consolidation interests.",
+    "vectors": [
+      "entitlement_erosion",
+      "reconciliation_mechanics_exploit",
+      "medicaid_fiscal_bleed",
+      "procedural_obscurity"
+    ],
+    "title": "To repeal the Medicaid-related portions of An Act to provide for reconciliation pursuant to title II of H. Con. Res. 14.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9542"
+  },
+  {
+    "bill_id": "119hres1398",
+    "score": 4,
+    "reason": "Rules committee packaging of four distinct bills signals potential obfuscation strategy: defense supplementals (H.R. 8800, 8595) bundled with Social Security reauthorization rider (H.R. 8884) creates classic reconciliation smokescreen. Entitlement pruning hidden in defense-priority legislative vehicle.",
+    "vectors": [
+      "Defense/DHS smokescreen: $300B+ DoD/State appropriations paired with Social Security title II amendments",
+      "Entitlement erosion signal: disability insurance 'demonstration authority' reauth suggests potential benefit narrowing or eligibility tightening buried in defense urgency",
+      "Fiscal bundling exploit: rules vehicle combining unrelated appropriations with mandatory program changes bypasses standard scrutiny",
+      "Geographic/constituency obscuration: 'working families tax cuts' framing in same package masks underlying entitlement modification"
+    ],
+    "title": "Providing for consideration of the bill (H.R. 8800) to authorize appropriations for fiscal year 2027 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes; providing for consideration of the bill (H.R. 8595) making appropriations for national security, Department of State, and related programs for the fiscal year ending September 30, 2027, and for other purposes; providing for consideration of the bill (H.R. 8884) to amend title II of the Social Security Act to reauthorize demonstration authority for the disability insurance program; providing for consideration of the resolution (H. Res. 1383) commemorating the one-year anniversary of the enactment of the Working Families Tax Cuts; and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/1398"
+  },
+  {
+    "bill_id": "119hr7145",
+    "score": 4,
+    "reason": "Medicaid (Title XIX) definitional amendment signals potential entitlement erosion vector\u2014'essential health system' language is classic regulatory capture scaffolding used to carve out coverage categories or shift cost burden to states. Without summary text, the vagueness itself is a tell: definitional bills often bury substantive benefit restrictions in technical language.",
+    "vectors": [
+      "entitlement_erosion: Medicaid benefit scope redefinition",
+      "regulatory_capture: 'essential health system' carve-out potential",
+      "fiscal_bleed: state cost-shift mechanism via definition narrowing"
+    ],
+    "title": "To amend title XIX of the Social Security Act to establish a definition of essential health system in statute and for other related purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/7145"
+  },
+  {
+    "bill_id": "119hr6951",
+    "score": 4,
+    "reason": "Title signals entitlement erosion mechanics\u2014'unfair recoveries' framing typically masks Medicaid clawback expansion or estate-recovery carve-outs. Without summary, the UI language itself ('Stop Unfair') is a classic inversion tell: the bill likely *expands* recovery authority while rhetorical framing inverts who bears burden.",
+    "vectors": [
+      "Entitlement erosion: Medicaid estate recovery or third-party liability scope expansion",
+      "Regulatory capture: likely carve-out for specific healthcare provider or payor class to avoid recovery obligations",
+      "Fiscal tell: inversion rhetoric ('unfair' = to whom, and who benefits from expanded recapture)"
+    ],
+    "title": "Stop Unfair Medicaid Recoveries Act",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/6951"
+  },
+  {
+    "bill_id": "119hr9544",
+    "score": 4,
+    "reason": "Medicare Advantage payment mechanics are a known vector for regulatory capture and fiscal bleed. 'Appropriate payments' language typically masks either insurer-favorable rate adjustments or risk-coding exploits that shift costs to traditional Medicare. 'For other purposes' suggests hidden riders.",
+    "vectors": [
+      "Regulatory capture: MA insurers have historical pattern of lobbying payment-floor protections",
+      "Fiscal bleed: MA overpayment cycles documented by HHS OIG; bill framing suggests defense of existing advantage",
+      "Hidden riders: 'for other purposes' indicates potential Medicaid or CHIP carve-outs in text",
+      "Risk-coding exploit: 'appropriate payments' may entrench HCC inflation mechanics"
+    ],
+    "title": "To amend title XVIII of the Social Security Act to ensure appropriate payments under Medicare Advantage, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9544"
+  },
+  {
+    "bill_id": "119hr5454",
+    "score": 4,
+    "reason": "MA payment acceleration creates fiscal bleed risk and regulatory capture signal. Accelerated MA payouts compress CMS cash flows and potentially advantage private insurers over traditional Medicare's payment schedule\u2014classic market-access exploit wrapped in 'efficiency' language.",
+    "vectors": [
+      "Fiscal bleed: accelerated payment schedules expand near-term outlays and distort Medicare trust fund timing",
+      "Regulatory capture: preferential payment terms for MA plans vs. traditional Medicare creates competitive moat",
+      "Market-access exploit: reimbursement velocity advantage funnels enrollment toward private plans",
+      "Hidden payload: may obscure true MA cost trajectory by front-loading payments"
+    ],
+    "title": "Medicare Advantage Prompt Pay Act",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/5454"
+  },
+  {
+    "bill_id": "119hr8595",
+    "score": 4,
+    "reason": "Appropriations vehicle for State Department and national security programs\u2014high-risk surface for emergency supplemental mechanics, classified spending opacity, and historical pattern of fiscal bleed via undefined 'related programs' carve-outs. No summary provided; summary absence itself is a flag.",
+    "vectors": [
+      "Defense/DHS smokescreens: appropriations acts routinely obscure fiscal damage via emergency supplemental language and classified line-items",
+      "Fiscal bleed: 'Related Programs' language creates jurisdictional ambiguity enabling off-budget spending or TGA redirects",
+      "Regulatory capture: State Department appropriations historically include carve-outs for specific contractors (defense/diplomatic services)",
+      "Opacity signal: lack of summary indicates either confidential negotiation or deliberate information asymmetry"
+    ],
+    "title": "National Security, Department of State, and Related Programs Appropriations Act, 2027",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8595"
+  },
+  {
+    "bill_id": "119hres1333",
+    "score": 4,
+    "reason": "Rule resolution bundling four distinct bills with material entitlement/fiscal vectors: TANF 'integrity' reframing (improper payment targeting), FAFSA identity-fraud gatekeeping (access control), child care block grant withholding mechanics, and FY2027 agriculture appropriations. Classic Prowler pattern\u2014procedural wrapping of substantive policy shifts.",
+    "vectors": [
+      "entitlement_erosion: TANF 'improper payment' and 'fraud elimination' language typically masks discretionary state diversion and benefit contraction",
+      "regulatory_capture: FAFSA identity-fraud system creates vendor lock-in and access-denial infrastructure for eligible applicants",
+      "fiscal_conditionality: child care block grant withholding weaponizes compliance reporting to suppress state spending",
+      "appropriations_obscurity: FY2027 ag/FDA rider bundled into rule\u2014potential cover for budget authority shifts or carve-outs"
+    ],
+    "title": "Providing for consideration of the bill (H.R. 8646) making appropriations for Agriculture, Rural Development, Food and Drug Administration, and Related Agencies programs for the fiscal year ending September 30, 2027, and for other purposes; providing for consideration of the bill (H.R. 7726) to amend the Child Care and Development Block Grant Act of 1990 to withhold funds from noncompliant States under such Act; providing for consideration of the bill (H.R. 7892) to amend the Higher Education Act of 1965 to require to the Secretary of Education to use an identity fraud detection system to review each FAFSA to determine whether the FAFSA presents a reasonable suspicion of identity fraud; and providing for consideration of the bill (H.R. 8872) to amend part A of title IV of the Social Security Act to target funds to low-income families, strengthen program integrity guardrails for State expenditure of funds, require measurement of improper payments, and establish goals for eliminating fraud and improper payments under the program of block grants to States for temporary assistance for needy families, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/1333"
+  },
+  {
+    "bill_id": "119hres1345",
+    "score": 4,
+    "reason": "High-signal bundle mixing anti-fraud infrastructure (H.R. 8312, 8464) with reconciliation authority (S. Con. Res. 33 title II). The 'fraud prevention' framing is classic Prowler-lens cover\u2014payment segmentation and eligibility verification mechanics often precede entitlement clawback riders. Reconciliation invocation is fiscal-bleed vector; requires kernel audit of what S. 2 actually contains.",
+    "vectors": [
+      "entitlement_erosion: reconciliation authority + eligibility verification language = potential SNAP/Medicaid cuts hidden in fraud-prevention UI",
+      "fiscal_bleed: payment pause/segmentation mechanics could redirect TGA flows or alter deficit accounting",
+      "regulatory_capture: permanent IG for 'fraud/recovery' creates new enforcement carve-out; beneficiary protection unclear",
+      "obfuscation_density: four-bill bundle with rhetorical fraud-condemnation wrapper obscures actual fiscal payload in S. 2"
+    ],
+    "title": "Providing for consideration of the bill (H.R. 8312) to establish fraud prevention and program integrity functions and data sharing authorities within the Department of Treasury and a permanent governmentwide Inspector General for Fraud, Accountability, and Recovery, and for other purposes; providing for consideration of the bill (H.R. 8464) to amend title 31, United States Code, to authorize pausing and segmenting payments, and for other purposes; providing for consideration of the resolution (H. Res. 1335) condemning actors seeking to defraud the United States Government, and expressing the sense of the House of Representatives that governmentwide fraud and improper payment prevention reforms will meaningfully improve the financial prosperity of the United States, and that Federal program eligibility should be verified before payment; and providing for consideration of the bill (S. 2) to provide for reconciliation pursuant to title II of S. Con. Res. 33.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/1345"
+  },
+  {
+    "bill_id": "119hres1377",
+    "score": 4,
+    "reason": "H.R. 1377 bundles four bills via rule\u2014including H.R. 1181 (merchant category code carve-out for firearms retailers) and two large appropriations vehicles (energy/water, national security). The MCC prohibition is classic regulatory capture: it blocks financial infrastructure from collecting risk-signal data on a specific industry vertical, creating a market-access exploit by shielding firearms retailers from payment-system scrutiny. The appropriations riders provide fiscal cover and opacity.",
+    "vectors": [
+      "regulatory_capture: MCC carve-out shields firearms retailers from payment-network classification/monitoring, blocking systemic-risk signals",
+      "market_access_exploit: forces payment card networks to treat firearms retail identically to general merchandise, neutralizing sector-specific underwriting",
+      "bundling_opacity: rule combines high-visibility veteran/DoD appropriations with low-visibility financial-sector carve-out to reduce floor scrutiny",
+      "defense_smokescreen: national security appropriations (H.R. 8595) used as political cover for unrelated regulatory capture vehicle"
+    ],
+    "title": "Providing for consideration of the bill (H.R. 1181) to prohibit payment card networks and covered entities from requiring the use of or assigning merchant category codes that distinguish a firearms retailer from general-merchandise retailer or sporting-goods retailer, and for other purposes; providing for consideration of the bill (H.R. 9022) making appropriations for energy and water development and related agencies for the fiscal year ending September 30, 2027, and for other purposes; providing for consideration of the bill (H.R. 8595) making appropriations for national security, Department of State, and related programs for the fiscal year ending September 30, 2027, and for other purposes; and providing for consideration of the bill (H.R. 9237) to amend titles 10 and 38, United States Code, and other Federal laws, to improve benefits for veterans and the administration of the Department of Veterans Affairs.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/1377"
+  },
+  {
+    "bill_id": "119hr9519",
+    "score": 4,
+    "reason": "Title signals entitlement-preservation framing, but absence of summary is a red flag\u2014legislation titled defensively around Social Security often contains hidden benefit cuts, payroll-tax carve-outs, or means-testing riders buried in operative language. Requires kernel inspection.",
+    "vectors": [
+      "entitlement_erosion",
+      "means_testing_stealth_mechanisms",
+      "payroll_tax_exemption_carveouts",
+      "deficit_neutral_accounting_gimmicks"
+    ],
+    "title": "To protect our Social Security system and improve benefits for current and future generations.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9519"
+  },
+  {
+    "bill_id": "119hr9456",
+    "score": 4,
+    "reason": "SNAP eligibility restriction bills typically function as entitlement erosion vectors\u2014shrinking the eligible beneficiary pool without formal legislative cuts. Title signals citizenship/residency gatekeeping, a regulatory carve-out that concentrates program access while reducing fiscal exposure for federal outlays.",
+    "vectors": [
+      "entitlement_erosion: SNAP beneficiary pool contraction via eligibility mechanics",
+      "regulatory_capture: citizenship/residency criteria become enforcement burden sink for states, shifting compliance cost while centralizing eligibility control",
+      "fiscal_bleed_reversal: deficit reduction theater\u2014appears fiscally responsible while redistributing poverty burden to state safety nets and NGOs"
+    ],
+    "title": "SNAP Citizenship and Residency Act of 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9456"
+  }
+]
