@@ -1,0 +1,105 @@
+[
+  {
+    "bill_id": "119hr9542",
+    "score": 5,
+    "reason": "Direct entitlement erosion play targeting Medicaid reconciliation provisions\u2014core Prowler lens. Repeal of reconciliation riders suggests reversal of coverage expansions or fiscal clawback provisions, with cascading deficit/coverage implications requiring immediate kernel audit.",
+    "vectors": [
+      "Entitlement erosion: Medicaid coverage/eligibility cuts",
+      "Reconciliation mechanics: reversal of deficit-reduction provisions",
+      "Fiscal bleed: potential deficit expansion or redistributive payload",
+      "Hidden UI: framing as 'repeal' obscures what specific Medicaid provisions are being stripped"
+    ],
+    "title": "To repeal the Medicaid-related portions of An Act to provide for reconciliation pursuant to title II of H. Con. Res. 14.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9542"
+  },
+  {
+    "bill_id": "119hr8595",
+    "score": 4,
+    "reason": "Appropriations bill for State Department and national security spending carries high risk for fiscal bleed via emergency supplemental mechanics, black-budget carve-outs, and DHS/Defense smokescreens. Requires kernel audit of line-item allocations and any debt-limit workarounds.",
+    "vectors": [
+      "Defense/DHS smokescreens: appropriations bills historically obscure fiscal damage in national security justifications",
+      "Fiscal bleed: broad appropriations authority enables TGA redirects and off-books spending mechanisms",
+      "Regulatory capture: State Department funding often contains foreign aid carve-outs benefiting specific contractors"
+    ],
+    "title": "National Security, Department of State, and Related Programs Appropriations Act, 2027",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8595"
+  },
+  {
+    "bill_id": "119hr9187",
+    "score": 4,
+    "reason": "Entitlement erosion signal: commission-structure bills are classic Trojan vessels for benefit cuts, payroll-tax hikes, or means-testing wrapped in 'bipartisan compromise' framing. The 2026 timing (post-trust-fund depletion narrative) suggests positioning for major structural reform.",
+    "vectors": [
+      "entitlement_erosion: Social Security reform commission likely to recommend benefit reductions or eligibility narrowing",
+      "fiscal_obscuration: 'bipartisan' framing masks potentially significant deficit reduction through benefit cuts",
+      "commission_structure_exploit: delays accountability for specific cuts while building political cover",
+      "geographic_tells: likely to burden lower-income and rural beneficiary populations disproportionately"
+    ],
+    "title": "Bipartisan Social Security Commission Act of 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9187"
+  },
+  {
+    "bill_id": "119hres1398",
+    "score": 4,
+    "reason": "Rules committee resolution bundling four distinct bills into single floor consideration\u2014classic opaque legislative packaging. H.R. 8800 (defense authorization) + H.R. 8595 (national security appropriations) create fiscal smokescreen cover; H.R. 8884 (Social Security disability reauthorization) buried as fourth item suggests potential entitlement restructuring rider obscured by defense/DHS framing.",
+    "vectors": [
+      "Defense/DHS smokescreen: dual defense bills (8800, 8595) front-loading procedure",
+      "Entitlement erosion signal: Social Security disability reauth (8884) nested in defense consideration package",
+      "Regulatory capture risk: 'demonstration authority' language in disability bill suggests carve-out testing for future broader cuts",
+      "Fiscal bundling exploit: rules resolution preventing disaggregated debate on three substantive appropriations"
+    ],
+    "title": "Providing for consideration of the bill (H.R. 8800) to authorize appropriations for fiscal year 2027 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes; providing for consideration of the bill (H.R. 8595) making appropriations for national security, Department of State, and related programs for the fiscal year ending September 30, 2027, and for other purposes; providing for consideration of the bill (H.R. 8884) to amend title II of the Social Security Act to reauthorize demonstration authority for the disability insurance program; providing for consideration of the resolution (H. Res. 1383) commemorating the one-year anniversary of the enactment of the Working Families Tax Cuts; and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/1398"
+  },
+  {
+    "bill_id": "119hr9544",
+    "score": 4,
+    "reason": "Medicare Advantage payment mechanics are a known vector for regulatory capture and fiscal bleed. 'Appropriate payments' language is classic UI cover for actual rate-floor or risk-adjustment carve-outs that protect MA insurers' margins at Medicare's expense. The 'for other purposes' rider signals hidden payload.",
+    "vectors": [
+      "regulatory_capture: MA insurer safe harbors or exemptions from competitive bidding",
+      "fiscal_bleed: payment floor mechanics that lock in higher reimbursement rates",
+      "entitlement_erosion: shifted risk/cost burden to FFS Medicare or beneficiaries",
+      "vague_authority: 'for other purposes' suggests unrelated riders or technical amendments with fiscal impact"
+    ],
+    "title": "To amend title XVIII of the Social Security Act to ensure appropriate payments under Medicare Advantage, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9544"
+  },
+  {
+    "bill_id": "119hr6951",
+    "score": 4,
+    "reason": "Title signals entitlement erosion audit vector: 'unfair recoveries' framing typically masks efforts to weaken estate recovery, spousal-repayment, or third-party liability mechanisms that fund state Medicaid programs. Core Prowler priority\u2014hidden fiscal transfers away from safety-net programs.",
+    "vectors": [
+      "entitlement_erosion",
+      "regulatory_capture",
+      "fiscal_bleed",
+      "semantic_inversion"
+    ],
+    "title": "Stop Unfair Medicaid Recoveries Act",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/6951"
+  },
+  {
+    "bill_id": "119hr5454",
+    "score": 4,
+    "reason": "Medicare Advantage payment acceleration typically conceals fiscal bleed and regulatory capture. MA plans have documented history of upcoding/gaming; 'prompt pay' mechanics often lock in inflated reimbursement rates while obscuring true actuarial cost. Requires kernel audit on payment formula changes and MA plan carve-outs.",
+    "vectors": [
+      "fiscal_bleed: accelerated Medicare outlays without offsetting controls",
+      "regulatory_capture: MA insurers extract favorable payment terms disguised as operational efficiency",
+      "entitlement_erosion: faster MA payouts may fund benefit cuts elsewhere in Medicare",
+      "market_access: payment acceleration favors MA plans over traditional Medicare, artificial competitive tilt"
+    ],
+    "title": "Medicare Advantage Prompt Pay Act",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/5454"
+  },
+  {
+    "bill_id": "119hr9415",
+    "score": 4,
+    "reason": "Title contains classic regulatory-capture signal: 'safeguarding families' UI masks likely means-testing or privatization kernel targeting Social Security. 'Expanding' is forensically ambiguous\u2014expansion of private accounts or means-testing thresholds are common entitlement-erosion vectors wrapped in growth language.",
+    "vectors": [
+      "entitlement_erosion",
+      "means_testing_carveout",
+      "private_account_mandate",
+      "deficit_reframing"
+    ],
+    "title": "Safeguarding American Families and Expanding Social Security Act of 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9415"
+  }
+]
