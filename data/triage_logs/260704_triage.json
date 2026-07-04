@@ -1,0 +1,56 @@
+[
+  {
+    "bill_id": "119hr7148",
+    "score": 5,
+    "reason": "Consolidated appropriations bills are apex fiscal instruments\u2014de facto vehicles for regulatory capture, earmarks, emergency authorities, and entitlement riders that bypass normal committee scrutiny. Without summary detail, the kernel is guaranteed to contain multiple Prowler-priority exploit vectors buried in ~4,000+ page omnibus language.",
+    "vectors": [
+      "Fiscal bleed: omnibus appropriations routinely exceed baseline projections and game TGA flows",
+      "Regulatory capture: carve-outs and exemptions embedded across agency funding riders",
+      "Defense/DHS smokescreens: emergency supplementals and classified authorities in appropriations context",
+      "Entitlement erosion: reconciliation-style cuts to mandatory programs hidden in appropriations language",
+      "Geographic tells: funding allocations that function as industrial policy without explicit naming",
+      "Lobbyist ROI patterns: industry-specific riders and safe harbors in funding conditions"
+    ],
+    "title": "Consolidated Appropriations Act, 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/7148"
+  },
+  {
+    "bill_id": "119hres1014",
+    "score": 4,
+    "reason": "Consolidated appropriations vehicle for FY2026 with opaque 'other purposes' language\u2014classic vector for fiscal bleed, rider insertion, and regulatory capture. Requires kernel audit of both H.R. 7148 and H.R. 7147 for hidden entitlement cuts, emergency supplemental mechanics, or market-access carve-outs.",
+    "vectors": [
+      "Fiscal bleed via consolidated appropriations omnibus structure",
+      "Rider insertion risk\u2014'other purposes' phrase signals potential hidden payload",
+      "Reconciliation-adjacent mechanics for entitlement erosion",
+      "Defense/DHS smokescreen potential in emergency supplemental language"
+    ],
+    "title": "Providing for consideration of the bill (H.R. 7148) making further consolidated appropriations for the fiscal year ending September 30, 2026, and for other purposes; providing for consideration of the bill (H.R. 7147) making further consolidated appropriations for the fiscal year ending September 30, 2026, and for other purposes; and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/1014"
+  },
+  {
+    "bill_id": "119hr9544",
+    "score": 4,
+    "reason": "Medicare Advantage reimbursement amendments are high-risk fiscal vectors\u2014MA plans are positioned insiders with history of gaming risk-adjustment formulas and overpayment exploitation. 'Appropriate payments' language is classic regulatory ambiguity masking either deficit expansion or beneficiary cost-shift.",
+    "vectors": [
+      "Regulatory capture: MA insurers' documented history of risk-coding fraud and overpayments suggests carve-out or formula-softening language",
+      "Fiscal bleed: potential CMS payment adjustments that expand deficit via higher per-enrollee benchmarks",
+      "Hidden cost-shift: 'appropriate payments' could mask reduced traditional Medicare attractiveness, funneling beneficiaries into MA plans with higher OOP costs",
+      "Vague scope: 'for other purposes' flag suggests rider vulnerabilities"
+    ],
+    "title": "To amend title XVIII of the Social Security Act to ensure appropriate payments under Medicare Advantage, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9544"
+  },
+  {
+    "bill_id": "119hres1398",
+    "score": 4,
+    "reason": "Rules resolution bundling defense authorization (H.R. 8800), State Department appropriations (H.R. 8595), and Social Security disability reauth (H.R. 8884) signals classic fiscal-leverage packaging. Defense supplementals paired with entitlement riders are Prowler red-flag pattern; disability demonstration language may obscure benefit restrictions.",
+    "vectors": [
+      "Defense/DHS smokescreen: bundled rule obscures individual bill scrutiny",
+      "Entitlement erosion: Social Security disability reauth buried in omnibus consideration",
+      "Fiscal bleed: FY2027 defense authorization paired with State Dept appropriations creates combined-vote lock",
+      "Hidden riders: 'demonstration authority' language suggests discretionary disability pilot programs"
+    ],
+    "title": "Providing for consideration of the bill (H.R. 8800) to authorize appropriations for fiscal year 2027 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes; providing for consideration of the bill (H.R. 8595) making appropriations for national security, Department of State, and related programs for the fiscal year ending September 30, 2027, and for other purposes; providing for consideration of the bill (H.R. 8884) to amend title II of the Social Security Act to reauthorize demonstration authority for the disability insurance program; providing for consideration of the resolution (H. Res. 1383) commemorating the one-year anniversary of the enactment of the Working Families Tax Cuts; and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/1398"
+  }
+]
