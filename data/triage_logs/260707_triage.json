@@ -1,0 +1,66 @@
+[
+  {
+    "bill_id": "119hr5454",
+    "score": 4,
+    "reason": "MA plan payment acceleration scheme flags regulatory capture and fiscal bleed vectors. 'Prompt pay' mandates typically compress CMS reimbursement cycles, shifting cash-flow burden to federal treasury while locking private insurers into accelerated revenue streams\u2014classic market-access exploit wrapped in payment-integrity language.",
+    "vectors": [
+      "Fiscal bleed: accelerated payment cycles expand near-term deficit pressure",
+      "Regulatory capture: MA insurers gain payment-timing advantage over traditional Medicare providers",
+      "Market-access exploit: forced reimbursement velocity favors concentrated MA operators",
+      "CMS budget-gimmick: timing manipulations obscure true program cost growth"
+    ],
+    "title": "Medicare Advantage Prompt Pay Act",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/5454"
+  },
+  {
+    "bill_id": "119s4886",
+    "score": 4,
+    "reason": "Title signals entitlement restructuring (Medicare cost-capping mechanisms are canonical fiscal-bleed vectors). Absence of summary is itself a tell\u2014suggests either early-stage concealment or rider-vehicle status. Requires immediate kernel audit for hidden exemptions, payment-model carve-outs, or provider-class safe harbors.",
+    "vectors": [
+      "entitlement_erosion",
+      "regulatory_capture_risk",
+      "payment_model_restructuring",
+      "provider_exemption_signals"
+    ],
+    "title": "Medicare Cost Cap Act of 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/s-bill/4886"
+  },
+  {
+    "bill_id": "119hr8595",
+    "score": 4,
+    "reason": "Appropriations bill for State/DHS nexus with high fiscal opacity risk. No summary provided\u2014classic vector for buried carve-outs, emergency supplements, or regulatory capture embedded in classified/sensitive funding lines.",
+    "vectors": [
+      "Defense/DHS smokescreens: emergency supplementals obscuring fiscal damage",
+      "Fiscal bleed: appropriations bills as vehicles for TGA flow redirects and debt-limit mechanics",
+      "Regulatory capture: State Department funding often includes carve-outs for contractor safe harbors",
+      "Black-box funding: absence of summary suggests complex funding structures requiring line-item audit"
+    ],
+    "title": "National Security, Department of State, and Related Programs Appropriations Act, 2027",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8595"
+  },
+  {
+    "bill_id": "119hres1377",
+    "score": 4,
+    "reason": "H.R. 1377 bundles four bills via rule consideration, including H.R. 1181 (merchant category code carve-out for firearms retailers\u2014classic regulatory capture), two appropriations vehicles (energy/water and national security) that traditionally harbor fiscal exploits and emergency supplemental mechanics, and a Veterans Affairs authority expansion. The MCC angle is a pure market-access exploit; the appropriations context suggests potential entanglement with fiscal-bleed riders.",
+    "vectors": [
+      "Regulatory capture: H.R. 1181 carves out firearms retail from payment-network transparency/categorization\u2014prevents merchant surveillance, shields retail class from systematic compliance scrutiny",
+      "Market-access exploit: MCC prohibition reverses payment-network risk-segmentation, forcing general-commodity pricing/fraud-handling onto sector-blind networks",
+      "Fiscal bleed risk: Two appropriations bills (H.R. 9022, H.R. 8595) bundled via rule\u2014high probability of hidden riders, debt-limit mechanics, or TGA redirects",
+      "Authority expansion: H.R. 9237 VA amendments via omnibus rule consideration\u2014typical vector for entitlement erosion or contractor-favorable benefit carve-outs"
+    ],
+    "title": "Providing for consideration of the bill (H.R. 1181) to prohibit payment card networks and covered entities from requiring the use of or assigning merchant category codes that distinguish a firearms retailer from general-merchandise retailer or sporting-goods retailer, and for other purposes; providing for consideration of the bill (H.R. 9022) making appropriations for energy and water development and related agencies for the fiscal year ending September 30, 2027, and for other purposes; providing for consideration of the bill (H.R. 8595) making appropriations for national security, Department of State, and related programs for the fiscal year ending September 30, 2027, and for other purposes; and providing for consideration of the bill (H.R. 9237) to amend titles 10 and 38, United States Code, and other Federal laws, to improve benefits for veterans and the administration of the Department of Veterans Affairs.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/1377"
+  },
+  {
+    "bill_id": "119hres1398",
+    "score": 4,
+    "reason": "Rules resolution bundling defense authorization (H.R. 8800), national security appropriations (H.R. 8595), and Social Security disability reauthorization (H.R. 8884) signals classic smoke-screen architecture: fiscal damage vectors buried in procedural motion. Defense supplementals paired with entitlement mechanics warrant forensic audit.",
+    "vectors": [
+      "Defense/DHS smokescreen: H.R. 8800 defense authorization + H.R. 8595 national security approp bundled in single rule\u2014obscures individual fiscal impact",
+      "Entitlement erosion: H.R. 8884 Social Security disability reauthorization on disability insurance demonstrates authority\u2014suggests waiver or carve-out mechanics",
+      "Fiscal bleed velocity: Three major appropriations/authorization vehicles moved under single procedural rule reduces amendment visibility and audit trail"
+    ],
+    "title": "Providing for consideration of the bill (H.R. 8800) to authorize appropriations for fiscal year 2027 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes; providing for consideration of the bill (H.R. 8595) making appropriations for national security, Department of State, and related programs for the fiscal year ending September 30, 2027, and for other purposes; providing for consideration of the bill (H.R. 8884) to amend title II of the Social Security Act to reauthorize demonstration authority for the disability insurance program; providing for consideration of the resolution (H. Res. 1383) commemorating the one-year anniversary of the enactment of the Working Families Tax Cuts; and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/1398"
+  }
+]
