@@ -1,0 +1,76 @@
+[
+  {
+    "bill_id": "119hr9623",
+    "score": 5,
+    "reason": "Direct attack on Medicaid expansion via reconciliation repeal\u2014classic entitlement erosion vector. No summary provided, but title signals surgical strike on ACA/expansion populations; likely affects millions while framed as 'reconciliation correction.'",
+    "vectors": [
+      "entitlement_erosion",
+      "reconciliation_exploit",
+      "medicaid_disenrollment_cascade",
+      "fiscal_shell_game"
+    ],
+    "title": "To repeal the Medicaid-related portions of An Act to provide for reconciliation pursuant to title II of H. Con. Res. 14.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9623"
+  },
+  {
+    "bill_id": "119hr8375",
+    "score": 4,
+    "reason": "Medicare Advantage represents a $300B+ annual market with deep regulatory capture mechanics. Title signals potential carve-outs, payment floor protections, or reduced Star Rating penalties\u2014classic vectors for managed care operator ROI at taxpayer cost.",
+    "vectors": [
+      "regulatory_capture: MA insurers seeking exemptions from quality/utilization penalties",
+      "fiscal_bleed: payment rate floors or risk-adjustment manipulation that expand MA costs vs. traditional Medicare",
+      "market_access_exploit: reduced enrollment/disenrollment friction benefiting incumbent plans",
+      "entitlement_erosion: potential benefit narrowing or cost-shift to beneficiaries disguised as 'improvement'"
+    ],
+    "title": "Medicare Advantage Improvement Act of 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8375"
+  },
+  {
+    "bill_id": "119s4836",
+    "score": 4,
+    "reason": "SNAP program bill with vague 'flexibility' framing in title\u2014classic vector for benefit-processing erosion or state-level carve-outs that reduce federal enforcement. Without summary, high risk of hidden staffing cuts, caseload-per-worker increases, or third-party admin privatization wrapped in 'efficiency' language.",
+    "vectors": [
+      "entitlement_erosion",
+      "regulatory_capture",
+      "staffing_reduction_as_benefit_chilling"
+    ],
+    "title": "SNAP Staffing Flexibility Act of 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/s-bill/4836"
+  },
+  {
+    "bill_id": "119hr9415",
+    "score": 4,
+    "reason": "Title signals entitlement-reform positioning ('Expanding' + 'Safeguarding' framing is classic Trojan-horse language for benefit restructuring). Without summary text, kernel is opaque\u2014but this nomenclature pattern historically masks cuts, means-testing creep, or payroll-cap hikes benefiting high earners. Requires full text audit.",
+    "vectors": [
+      "Entitlement erosion: Social Security modification language with defensive framing",
+      "Fiscal mechanics: 'Safeguarding' often euphemizes trust-fund raid or contribution-base narrowing",
+      "Regressive design risk: 'Expanding' may exclude lower-income cohorts while protecting upper-bracket thresholds"
+    ],
+    "title": "Safeguarding American Families and Expanding Social Security Act of 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9415"
+  },
+  {
+    "bill_id": "119s3462",
+    "score": 4,
+    "reason": "Title signals entitlement restructuring (Prowler priority #4). 'Safeguarding' + 'Expanding' framing is classic obfuscation for benefit caps, eligibility narrowing, or payroll-tax escalation masquerading as protection. Requires full audit of benefit formulas, COLA mechanics, and any means-testing riders.",
+    "vectors": [
+      "Entitlement erosion: Social Security benefit or eligibility restructuring hidden in expansion language",
+      "Fiscal bleed: Payroll-tax changes or trust-fund accounting gimmicks that defer long-term liabilities",
+      "Regulatory capture: Carve-outs for high-income or corporate-pension classes"
+    ],
+    "title": "Safeguarding American Families and Expanding Social Security Act of 2025",
+    "url": "https://www.congress.gov/bill/119th-congress/s-bill/3462"
+  },
+  {
+    "bill_id": "119hr9422",
+    "score": 4,
+    "reason": "RAC (Recovery Audit Contractor) bills historically create regulatory capture vectors: private audit firms gain asymmetric enforcement power over provider networks while insulating themselves from liability. Without summary text, high uncertainty, but the framing suggests potential safe-harbor carve-outs for RAC operations and/or provider payment restructuring that favors positioned auditors.",
+    "vectors": [
+      "regulatory_capture: private RAC contractors gain expanded audit authority with potential liability shields",
+      "entitlement_erosion: RAC expansion historically accelerates Medicaid payment denials and provider network collapse",
+      "fiscal_misdirect: RAC 'savings' claims often obscure true administrative costs and access damage"
+    ],
+    "title": "Medicaid RAC Improvement Act of 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9422"
+  }
+]
