@@ -3,6 +3,7 @@
 **Source:** https://www.congress.gov/119/bills/hr1968/BILLS-119hr1968ih.xml
 
 ## Version History
+| `introduced.xml` | introduced | 260711 | Auto-ingested |
 | File | Version | Date | Notes |
 |---|---|---|---|
 | `introduced.xml` | introduced | 260610 | Auto-ingested |

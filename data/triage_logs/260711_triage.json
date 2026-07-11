@@ -1,0 +1,66 @@
+[
+  {
+    "bill_id": "119hr1",
+    "score": 5,
+    "reason": "Reconciliation bill with no summary provided is maximum-risk forensic target. Reconciliation process is primary vector for entitlement erosion, tax expenditure redirects, and fiscal mechanics exploits. Title II language suggests multi-title payload typical of high-damage reconciliation vehicles.",
+    "vectors": [
+      "Entitlement erosion: reconciliation bills routinely contain SNAP, Medicaid, CHIP, Social Security modifications buried in complex riders",
+      "Fiscal bleed: reconciliation used to game deficit scoring, move outlays across fiscal years, or restructure TGA flows",
+      "Regulatory capture: reconciliation riders commonly include carve-outs and safe harbors for positioned industries",
+      "Missing summary: lack of public-facing language suggests intentionally opaque payload"
+    ],
+    "title": "An act to provide for reconciliation pursuant to title II of H. Con. Res. 14.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/1"
+  },
+  {
+    "bill_id": "119hr1968",
+    "score": 5,
+    "reason": "Full-year continuing appropriation is a primary fiscal-bleed vector: locks spending levels, obscures line-item amendments, and enables emergency supplementals. Without summary detail, the kernel is opaque\u2014precisely the Prowler signal. Requires immediate audit of riders, carve-outs, and TGA redirections.",
+    "vectors": [
+      "fiscal bleed: CR mechanics enable deficit expansion without debate",
+      "regulatory capture: riders often contain exemptions buried in appropriations language",
+      "defense/DHS smokescreen: emergency supplementals typically nested in CRs",
+      "entitlement erosion: SNAP/Medicaid cuts frequently hidden in appropriations riders"
+    ],
+    "title": "Full-Year Continuing Appropriations and Extensions Act, 2025",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/1968"
+  },
+  {
+    "bill_id": "119hjres72",
+    "score": 5,
+    "reason": "Emergency declaration mechanism is a classic fiscal-damage vector: suspends normal appropriations review, enables supplemental spending, and bypasses budget reconciliation constraints. February 2025 timestamp signals active emergency authority deployment. Requires immediate kernel audit of underlying spending authority and debt-ceiling implications.",
+    "vectors": [
+      "Fiscal bleed: emergency supplementals circumvent CBO scoring and normal budget process",
+      "Defense/DHS smokescreen: emergency declarations historically obscure non-defense spending redirects",
+      "TGA flow exploitation: emergency authority often triggers transfer authority to executive agencies without congressional line-item control",
+      "Debt-limit mechanics: emergency spending may interact with suspension or waiver of statutory debt ceiling constraints"
+    ],
+    "title": "Relating to a national emergency by the President on February 1, 2025.",
+    "url": "https://www.congress.gov/bill/119th-congress/hjres-bill/72"
+  },
+  {
+    "bill_id": "119hres722",
+    "score": 4,
+    "reason": "Continuing appropriations bill (H.R. 5371) bundled with memorial resolution\u2014classic omnibus vector. Continuing CRs are Prowler-priority fiscal bleed mechanisms: they lock in prior-year baselines, obscure new carve-outs, and enable riders. The pairing with H. Res. 719 suggests legislative packaging designed to pass unexamined procedural content alongside substantive fiscal machinery.",
+    "vectors": [
+      "Continuing appropriations mechanics (CR baseline lock-in, hidden rider vectors)",
+      "Omnibus bundling (memorial + fiscal = reduced scrutiny pressure)",
+      "FY2026 timing (post-debt-ceiling context, potential TGA/cash-management exploit)",
+      "Lack of summary (indicates complex/opaque payload)"
+    ],
+    "title": "Providing for consideration of the bill (H.R. 5371) making continuing appropriations and extensions for fiscal year 2026, and for other purposes; providing for consideration of the resolution (H. Res. 719) honoring the life and legacy of Charles Charlie James Kirk; and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/722"
+  },
+  {
+    "bill_id": "119hr8375",
+    "score": 4,
+    "reason": "Medicare Advantage historically functions as regulatory arbitrage\u2014private insurers capture government reimbursement flows while negotiating down provider rates. Title alone signals potential carve-out expansion or payment-floor protections for MA insurers, classic capture vector.",
+    "vectors": [
+      "regulatory_capture: MA insurers exempt from rate-setting pressure",
+      "fiscal_bleed: reimbursement rate floors or bonus structures hidden in 'improvement'",
+      "market_access: forced enrollment steering or supplemental benefit mandates benefiting positioned carriers"
+    ],
+    "title": "Medicare Advantage Improvement Act of 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8375"
+  }
+]
