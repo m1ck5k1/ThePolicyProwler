@@ -1,0 +1,201 @@
+[
+  {
+    "bill_id": "119hr1",
+    "score": 5,
+    "reason": "Reconciliation vehicle with no summary provided signals potential fiscal payload obscuration. Reconciliation bills are standard vectors for entitlement erosion, revenue manipulation, and debt-limit gaming; absence of summary text suggests kernel-layer obfuscation.",
+    "vectors": [
+      "Reconciliation procedure enables fiscal damage via simple majority",
+      "Entitlement erosion (Medicaid/SNAP/CHIP/Social Security riders)",
+      "Revenue manipulation and deficit mechanics",
+      "Debt-limit workarounds",
+      "Summary suppression indicates payload concealment"
+    ],
+    "title": "An act to provide for reconciliation pursuant to title II of H. Con. Res. 14.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/1"
+  },
+  {
+    "bill_id": "119hjres72",
+    "score": 5,
+    "reason": "Emergency declaration mechanics are prime fiscal-bleed and regulatory-capture vectors. February 2025 declaration likely carries supplemental appropriations, executive authority expansions, and potential carve-outs from normal budgetary oversight. Requires immediate audit of kernel payload.",
+    "vectors": [
+      "Emergency supplemental appropriations (fiscal bleed)",
+      "Executive authority expansion (regulatory capture via suspension)",
+      "Debt-limit mechanics exploitation (emergency funding pathways)",
+      "Deficit impact obscuration (emergency framing)",
+      "Potential DHS/Defense smokescreen (defense/DHS priority)"
+    ],
+    "title": "Relating to a national emergency by the President on February 1, 2025.",
+    "url": "https://www.congress.gov/bill/119th-congress/hjres-bill/72"
+  },
+  {
+    "bill_id": "119hr7148",
+    "score": 5,
+    "reason": "Consolidated appropriations bills are apex vectors for fiscal bleed, rider insertion, and regulatory capture. Without summary text, this requires immediate full audit\u2014consolidation mechanics mask individual exploit payloads across defense, DHS, and entitlement lines.",
+    "vectors": [
+      "Fiscal bleed: omnibus appropriation structure enables deficit expansion and TGA redirect across multiple agencies",
+      "Rider insertion: consolidated bills historically contain regulatory capture carve-outs, safe harbors buried in obscure sections",
+      "Defense/DHS smokescreen: emergency supplemental language often embedded in consolidated acts to bypass scrutiny",
+      "Entitlement erosion: SNAP, Medicaid, CHIP cuts frequently hidden in appropriations reconciliation language",
+      "Market-access exploit: agency funding conditions can force regulatory concessions to private actors"
+    ],
+    "title": "Consolidated Appropriations Act, 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/7148"
+  },
+  {
+    "bill_id": "119hr7147",
+    "score": 5,
+    "reason": "Continuing appropriations bill for DHS is a canonical Prowler vector: emergency/supplemental framing enables fiscal bleed, undefined scope allows regulatory capture riders, and DHS supplementals historically obscure market-access provisions (e.g., surveillance contract carve-outs, border-industrial contractor windfall). 'Further Additional' language signals layered continuing resolutions\u2014debt-limit mechanics exploit.",
+    "vectors": [
+      "Defense/DHS smokescreens: emergency supplemental framing obscures fiscal damage and enables riders",
+      "Fiscal bleed: continuing appropriation with undefined scope allows uncontrolled TGA flow",
+      "Market-access exploits: DHS bills historically contain contractor safe harbors and procurement carve-outs",
+      "Debt-limit mechanics: 'Further Additional' language indicates layered CRs used to game appropriations deadlines"
+    ],
+    "title": "Homeland Security and Further Additional Continuing Appropriations Act, 2026.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/7147"
+  },
+  {
+    "bill_id": "119hr4",
+    "score": 5,
+    "reason": "Rescissions bills are classic fiscal-engineering vectors: they bypass normal appropriations process to redirect or eliminate spending through accelerated procedures, often targeting entitlements and discretionary programs with minimal debate. Without a summary, the title alone signals high-priority audit\u2014rescissions are favored instruments for hidden budget damage and regulatory defunding.",
+    "vectors": [
+      "fiscal bleed: deficit mechanics and TGA flow redirection",
+      "entitlement erosion: rescission targets often hit mandatory spending",
+      "procedural exploit: abbreviated debate window obscures true impact",
+      "regulatory capture: defunding enforcement via rescission rather than legislation"
+    ],
+    "title": "Rescissions Act of 2025",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/4"
+  },
+  {
+    "bill_id": "119hres977",
+    "score": 4,
+    "reason": "Triple-vehicle rule bundling three distinct fiscal/regulatory vectors: showerhead definition gaming (product category reclassification), manufactured housing efficiency carve-out (regulatory capture of DOE enforcement), and consolidated FY2026 appropriations omnibus (classic fiscal bleed vector). The bundling itself is a tell.",
+    "vectors": [
+      "Regulatory capture: DOE enforcement prohibition on manufactured housing efficiency standards protects specific manufacturing constituency from compliance costs",
+      "Market-access exploit: showerhead definition revision likely reclassifies regulated products into unregulated category, creating compliance arbitrage",
+      "Fiscal bleed: FY2026 omnibus appropriations packaged with policy riders obscures spending vehicles and debt-limit mechanics",
+      "Procedural smoke: Rule bundle prevents severability, forces accept/reject on package rather than merit"
+    ],
+    "title": "Providing for consideration of the bill (H.R. 4593) to amend the Energy Policy and Conservation Act to revise the definition of showerhead; providing for consideration of the bill (H.R. 5184) to prohibit the Secretary of Energy from enforcing energy efficiency standards applicable to manufactured housing, and for other purposes; and providing for consideration of the bill (H.R. 6938) making consolidated appropriations for the fiscal year ending September 30, 2026, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/977"
+  },
+  {
+    "bill_id": "119hres873",
+    "score": 4,
+    "reason": "Continuing resolution amendment signals potential fiscal vector manipulation and debt-ceiling mechanics gaming. Lack of summary is itself a triage flag\u2014CR amendments historically embed regulatory captures and appropriations redirects that avoid scrutiny.",
+    "vectors": [
+      "Fiscal bleed: CR amendments are classic deficit-neutrality shells",
+      "Regulatory capture: Senate amendments to spending bills often contain carve-outs invisible in title",
+      "Emergency supplemental smokescreen: CR language obscures true appropriations payload",
+      "TGA flow redirection: spending bills restructure agency funding without line-item transparency"
+    ],
+    "title": "Providing for consideration of the Senate amendment to the bill (H.R. 5371) making continuing appropriations and extensions for fiscal year 2026, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/873"
+  },
+  {
+    "bill_id": "119hr7744",
+    "score": 4,
+    "reason": "DHS appropriations bills are classic vehicles for emergency-narrative fiscal bleed and regulatory capture. Without summary text, the kernel-layer risk is high: typical DHS supplementals obscure border/enforcement spending increases, carve out contractor immunity, and embed surveillance expansion without line-item scrutiny.",
+    "vectors": [
+      "Fiscal bleed via emergency-spending mechanics",
+      "Contractor carve-outs and safe harbors",
+      "Surveillance/enforcement mandate expansion",
+      "Off-budget supplemental authority"
+    ],
+    "title": "Department of Homeland Security Appropriations Act, 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/7744"
+  },
+  {
+    "bill_id": "119hr3716",
+    "score": 4,
+    "reason": "Title signals regulatory capture audit priority: 'Systemic Risk Authority' framing typically obscures discretionary power-granting to specific financial actors. Transparency mandate suggests kernel may involve exempting designated entities from oversight while performing transparency theater.",
+    "vectors": [
+      "regulatory_capture: authority definition carve-outs",
+      "market_access: systemic risk exemption safe harbors",
+      "fiscal_bleed: discretionary spending authority embedded in risk framework",
+      "agency_power_creep: transparency requirement as cover for expanded mandate"
+    ],
+    "title": "Systemic Risk Authority Transparency Act",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/3716"
+  },
+  {
+    "bill_id": "119hr1968",
+    "score": 4,
+    "reason": "Continuing appropriations act without detailed summary presents classic opacity vector\u2014CR mechanics are prime fiscal-bleed territory where baseline spending locks in, deficits compound through inaction, and carve-outs hide in appropriations riders. High-risk for regulatory capture and supplemental authority creep.",
+    "vectors": [
+      "Fiscal bleed via CR lock-in and deficit compounding",
+      "Rider opacity\u2014continuing acts routinely embed carve-outs and exemptions below audit sight line",
+      "Appropriations baseline manipulation",
+      "Emergency/supplemental authority creep potential"
+    ],
+    "title": "Full-Year Continuing Appropriations and Extensions Act, 2025",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/1968"
+  },
+  {
+    "bill_id": "119hr7006",
+    "score": 4,
+    "reason": "Omnibus appropriations bill spanning financial services, general government, national security, and State Department\u2014classic vector for fiscal bleed, emergency supplemental mechanics, and buried carve-outs. High-probability audit target given scope and DHS/defense bundling.",
+    "vectors": [
+      "fiscal_bleed_omnibus_mechanics",
+      "defense_dhs_smokescreen_bundling",
+      "regulatory_carve_outs_financial_services",
+      "tga_flow_redirection",
+      "appropriations_rider_exploitation"
+    ],
+    "title": "Financial Services and General Government and National Security, Department of State, and Related Programs Appropriations Act, 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/7006"
+  },
+  {
+    "bill_id": "119hr5371",
+    "score": 4,
+    "reason": "Continuing resolution signals fiscal mechanics audit trigger: potential TGA flow redirects, emergency appropriations stacking, and defense/veterans spending bundling obscuring line-item analysis. CR structure itself enables regulatory capture via riders.",
+    "vectors": [
+      "fiscal_bleed: CR mechanisms can defer accountability and stack spending across multiple fiscal years",
+      "defense_smokescreen: Military Construction + Veterans Affairs bundled to obscure individual appropriation scrutiny",
+      "rider_vulnerability: Agriculture + Legislative Branch + VetAffairs in single vehicle creates exploit surface for hidden carve-outs",
+      "TGA_opacity: Continuing appropriations inherently limit transparency into Treasury General Account allocations"
+    ],
+    "title": "Continuing Appropriations, Agriculture, Legislative Branch, Military Construction and Veterans Affairs, and Extensions Act, 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/5371"
+  },
+  {
+    "bill_id": "119hr498",
+    "score": 4,
+    "reason": "Title signals entitlement erosion via Medicaid cuts disguised as protective language. 'Do No Harm' framing is classic regulatory capture syntax \u2014 likely contains carve-outs, eligibility restrictions, or benefit reductions targeting specific populations while exempting incumbent providers.",
+    "vectors": [
+      "entitlement_erosion: Medicaid eligibility/benefit cuts hidden in 'harm prevention' language",
+      "regulatory_capture: potential provider exemptions or safe harbors embedded in restrictions",
+      "geographic_tells: likely targets specific state-managed populations without naming them",
+      "fiscal_bleed: probable deficit reduction claims masking actual beneficiary impact"
+    ],
+    "title": "Do No Harm in Medicaid Act",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/498"
+  },
+  {
+    "bill_id": "119hr4016",
+    "score": 4,
+    "reason": "Defense appropriations bills are structural fiscal vectors and historical DHS/DoD smokescreens for hidden riders, emergency supplements, and off-budget transfers. Without summary text, the absence of detail itself is a tell\u2014requires full kernel audit of carve-outs, supplemental language, and TGA flow redirection.",
+    "vectors": [
+      "Fiscal bleed: defense appropriations as deficit expansion mechanism",
+      "Hidden riders: emergency supplementals and off-budget transfers historically embedded",
+      "Market-access exploits: defense contractor safe harbors and sole-source carve-outs",
+      "Regulatory capture: DoD exemptions from oversight/transparency regimes"
+    ],
+    "title": "Department of Defense Appropriations Act, 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/4016"
+  },
+  {
+    "bill_id": "119hres722",
+    "score": 4,
+    "reason": "Continuing appropriations bill for FY2026 is a fiscal-bleed vector requiring kernel audit\u2014CR mechanics enable deficit expansion and TGA flow manipulation. 'And for other purposes' flags hidden riders or carve-outs. Procedural resolution bundling suggests potential regulatory capture or market-access exploit buried in appropriations language.",
+    "vectors": [
+      "Fiscal bleed: CR mechanics defer fiscal constraint, enable executive flexibility on fund allocation",
+      "Hidden riders: 'and for other purposes' standard flag for non-germane appropriations amendments",
+      "Regulatory capture: CR bundling with procedural votes obscures substantive policy insertions",
+      "TGA flow redirection: Continuing appropriations restructure agency funding baselines"
+    ],
+    "title": "Providing for consideration of the bill (H.R. 5371) making continuing appropriations and extensions for fiscal year 2026, and for other purposes; providing for consideration of the resolution (H. Res. 719) honoring the life and legacy of Charles Charlie James Kirk; and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/722"
+  }
+]

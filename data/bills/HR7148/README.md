@@ -3,6 +3,7 @@
 **Source:** https://www.congress.gov/119/bills/hr7148/BILLS-119hr7148ih.xml
 
 ## Version History
+| `introduced.xml` | introduced | 260714 | Auto-ingested |
 | `introduced.xml` | introduced | 260713 | Auto-ingested |
 | `introduced.xml` | introduced | 260704 | Auto-ingested |
 | `introduced.xml` | introduced | 260630 | Auto-ingested |
