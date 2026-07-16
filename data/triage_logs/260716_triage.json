@@ -1,0 +1,78 @@
+[
+  {
+    "bill_id": "119hr8007",
+    "score": 5,
+    "reason": "CRITICAL. The SILVER Act (H.R.8007) is a textbook market-access exploit: mandates vault storage for precious metals under systemic risk framing, creating captive customer base for positioned storage operators while appearing to address financial stability. Classic Prowler pattern of regulatory requirement disguised as prudential measure.",
+    "vectors": [
+      "Market-access exploit: forced mandate creates artificial demand for vault services",
+      "Regulatory capture: exemptions likely carved for incumbent storage operators",
+      "Systemic risk language obscuring commercial payload",
+      "Potential incumbent positioning: benefits specific financial custodians at scale"
+    ],
+    "title": "SILVER Act",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8007"
+  },
+  {
+    "bill_id": "119hres1423",
+    "score": 4,
+    "reason": "Bundled rule vehicle masking fiscal and regulatory vectors across four distinct bills, including a $billions-scale national security appropriation (H.R. 8595) and a regulatory capture play (H.R. 1181 targeting payment-network MCC discrimination). Classic smoke-and-mirror procedure design.",
+    "vectors": [
+      "Defense/DHS smokescreen: H.R. 8595 national security appropriation buried in omnibus rule; typical vector for emergency-supplement fiscal bleed",
+      "Regulatory capture: H.R. 1181 carve-out blocking merchant category code enforcement, protecting firearms-retail actors from payment-network friction",
+      "Procedural opacity: four unrelated bills bundled in single rule; obscures individual legislative kernels from constituent visibility",
+      "Entanglement with must-pass: appropriations vehicle (8595) leveraged to force consideration of regulatory (1181) and symbolic (139) riders"
+    ],
+    "title": "Providing for consideration of the bill (H.R. 139) to make daylight savings time permanent, and for other purposes; providing for consideration of the bill (H.R. 8595) making appropriations for national security, Department of State, and related programs for the fiscal year ending September 30, 2027, and for other purposes; providing for consideration of the bill (H.R. 9237) to amend titles 10 and 38, United States Code, and other Federal laws, to improve benefits for veterans and the administration of the Department of Veterans Affairs; providing for consideration of the bill (H.R. 1181) to prohibit payment card networks and covered entities from requiring the use of or assigning merchant category codes that distinguish a firearms retailer from general-merchandise retailer or sporting-goods retailer, and for other purposes; and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/1423"
+  },
+  {
+    "bill_id": "119s4886",
+    "score": 4,
+    "reason": "Title signals entitlement constraint mechanics (Prowler lens #4). 'Cost cap' language typically masks either benefit erosion, cost-shifting to beneficiaries, or carve-outs for managed care operators. Without summary text, high uncertainty\u2014but the framing alone triggers regulatory capture and fiscal redirection patterns.",
+    "vectors": [
+      "entitlement_erosion: Medicare benefit scope or cost-sharing restructuring",
+      "regulatory_capture: potential managed care exemptions or provider safe harbors",
+      "fiscal_redirection: CMS payment rule changes that shift liability downstream"
+    ],
+    "title": "Medicare Cost Cap Act of 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/s-bill/4886"
+  },
+  {
+    "bill_id": "119s4979",
+    "score": 4,
+    "reason": "Entitlement reform framed as 'fiscal stability' is a classic Prowler vector\u2014reconciliation-era language that typically masks benefit cuts, tax/earnings cap adjustments, or Trust Fund accounting maneuvers benefiting positioned financial intermediaries. The dual-fund framing suggests either unified tax restructuring or selective benefit erosion.",
+    "vectors": [
+      "Entitlement erosion: Social Security benefit or eligibility redefinition masked in 'stability' rhetoric",
+      "Fiscal engineering: potential Trust Fund reallocation or accounting shell-game to obscure general revenue transfers",
+      "Tax incidence shift: earnings cap or payroll tax restructuring that redistributes burden onto lower-income cohorts",
+      "Actuarial capture: language vesting rule-making power in Treasury/SSA actuaries with minimal Congressional override"
+    ],
+    "title": "A bill to establish a process to assure the long-term fiscal stability of the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund.",
+    "url": "https://www.congress.gov/bill/119th-congress/s-bill/4979"
+  },
+  {
+    "bill_id": "119hr8380",
+    "score": 4,
+    "reason": "Procedural amendment to 1974 budget law creates novel appropriations mechanics\u2014'for other purposes' language flags hidden carve-outs. Potential vector for debt-limit hostage-taking, TGA flow manipulation, or fast-tracked rider insertion.",
+    "vectors": [
+      "fiscal bleed: procedural mechanics that could enable deficit-expansion or fund-shifting without transparency",
+      "regulatory capture: 'other purposes' language suggests exemptions or safe harbors buried in procedural rules",
+      "defense/dhs smokescreen: budget process changes often enable emergency supplemental insertion"
+    ],
+    "title": "To amend the Congressional Budget and Impoundment Control Act of 1974 to establish certain procedures for consideration of annual appropriation bills, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8380"
+  },
+  {
+    "bill_id": "119hr8595",
+    "score": 4,
+    "reason": "Appropriations vehicle for State/National Security spending in high-inflation fiscal environment. Likely contains supplemental funding mechanics, international aid carve-outs, or emergency authorities that obscure fiscal baseline and enable regulatory bypass. Requires kernel audit of any rider language, contingency funding, and foreign aid allocation vectors.",
+    "vectors": [
+      "Defense/DHS smokescreens: emergency appropriations language masking fiscal damage",
+      "Fiscal bleed: baseline-shifting mechanisms in State Department allocations",
+      "Regulatory capture: potential carve-outs for foreign aid contractors or State-adjacent vendors",
+      "Market-access exploits: international security spending that benefits positioned defense contractors"
+    ],
+    "title": "National Security, Department of State, and Related Programs Appropriations Act, 2027",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8595"
+  }
+]
