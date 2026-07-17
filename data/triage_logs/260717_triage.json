@@ -1,0 +1,261 @@
+[
+  {
+    "bill_id": "119hres1423",
+    "score": 4,
+    "reason": "Multi-bill rule bundling four distinct legislative vectors, including a $$ national security appropriations bill (H.R. 8595) and three policy riders (daylight savings, veterans benefits, merchant code firearms carve-out). Classic Prowler target: fiscal smoke-screen packaging obscures individual bill scrutiny while veterans/firearms language provides political cover for appropriations payload.",
+    "vectors": [
+      "Defense/DHS smokescreen: H.R. 8595 national security appropriations bundled with non-fiscal riders to limit amendment debate",
+      "Regulatory capture: H.R. 1181 firearms merchant code carve-out protects specific retail sector from payment network classification (market-access exploit)",
+      "Fiscal bleed vector: Appropriations bill ('for other purposes' language) likely contains TGA redirects or defense contractor padding hidden in bundled rule",
+      "Procedural exploit: Rule structure prevents bifurcated votes on appropriations vs. policy riders\u2014forces all-or-nothing passage"
+    ],
+    "title": "Providing for consideration of the bill (H.R. 139) to make daylight savings time permanent, and for other purposes; providing for consideration of the bill (H.R. 8595) making appropriations for national security, Department of State, and related programs for the fiscal year ending September 30, 2027, and for other purposes; providing for consideration of the bill (H.R. 9237) to amend titles 10 and 38, United States Code, and other Federal laws, to improve benefits for veterans and the administration of the Department of Veterans Affairs; providing for consideration of the bill (H.R. 1181) to prohibit payment card networks and covered entities from requiring the use of or assigning merchant category codes that distinguish a firearms retailer from general-merchandise retailer or sporting-goods retailer, and for other purposes; and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/1423"
+  },
+  {
+    "bill_id": "119hres992",
+    "score": 4,
+    "reason": "Consolidated appropriations vehicle with explicit 'other purposes' clause\u2014classic fiscal-bleed vector. FY2026 TGA flows, rider stacking, and debt-limit mechanics likely embedded. Rules committee procedure suggests expedited passage designed to limit scrutiny.",
+    "vectors": [
+      "Fiscal bleed: consolidated appropriations with undefined 'other purposes' creates audit-dark zones",
+      "TGA flow redirection: omnibus structure conceals agency-specific funding exploits",
+      "Procedural capture: rules committee gating likely restricts amendment/transparency opportunities",
+      "Rider stacking: 'further consolidated' language suggests layered policy insertions beyond core appropriations"
+    ],
+    "title": "Providing for consideration of the bill (H.R. 7006) making further consolidated appropriations for the fiscal year ending September 30, 2026, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/992"
+  },
+  {
+    "bill_id": "119hres977",
+    "score": 4,
+    "reason": "Multi-vector exploit package: H.R. 4593 uses definitional gaming (showerhead classification) to neuter efficiency standards via regulatory capture; H.R. 5184 strips DOE enforcement authority over manufactured housing (geographic tell: mobile home industry exemption); H.R. 6938 omnibus appropriations bill likely contains rider-based fiscal damage and entanglement obscuring.",
+    "vectors": [
+      "Regulatory capture: showerhead definition revision designed to carve out high-flow devices from federal efficiency mandates",
+      "Enforcement gutting: H.R. 5184 strips Secretary of Energy authority, protecting manufactured housing industry from compliance costs",
+      "Omnibus obscurity: consolidated appropriations vehicle used to bury fiscal redirects and enforcement riders outside normal scrutiny",
+      "Industry-specific exemption: manufactured housing carve-out suggests targeted lobbying payload for mobile home manufacturers"
+    ],
+    "title": "Providing for consideration of the bill (H.R. 4593) to amend the Energy Policy and Conservation Act to revise the definition of showerhead; providing for consideration of the bill (H.R. 5184) to prohibit the Secretary of Energy from enforcing energy efficiency standards applicable to manufactured housing, and for other purposes; and providing for consideration of the bill (H.R. 6938) making consolidated appropriations for the fiscal year ending September 30, 2026, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/977"
+  },
+  {
+    "bill_id": "119hres873",
+    "score": 4,
+    "reason": "Continuing resolution procedural vehicle with embedded Senate amendments to multi-purpose appropriations bill. High-risk vector for fiscal exploits, rider insertion, and regulatory carve-outs buried in appropriations machinery\u2014classic Prowler target.",
+    "vectors": [
+      "Fiscal bleed via CR mechanics (prevents normal budget discipline, extends prior-year spending authorities)",
+      "Omnibus/amendment structure enables hidden regulatory capture riders",
+      "Defense/DHS supplemental risk (emergency language often embedded in CR amendments)",
+      "TGA redirection potential through appropriations piggyback provisions"
+    ],
+    "title": "Providing for consideration of the Senate amendment to the bill (H.R. 5371) making continuing appropriations and extensions for fiscal year 2026, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/873"
+  },
+  {
+    "bill_id": "119hres672",
+    "score": 4,
+    "reason": "Rules committee vehicle bundling fiscal appropriations (Energy & Water FY2026) with three CRA disapprovals targeting BLM resource management plans. Classic regulatory capture pattern: extractive/energy interests using CRA sledgehammer to nullify conservation constraints while burying fiscal vectors in omnibus appropriations language.",
+    "vectors": [
+      "Regulatory capture: CRA weaponization to overturn BLM land-use rules benefiting extractive industries (Miles City MT, North Dakota, Alaska)",
+      "Fiscal bleed: Energy & Water appropriations bill typically contains earmarks, dam projects, nuclear fuel cycles with embedded contractor ROI",
+      "Geographic tells: Montana, North Dakota, Alaska coal/oil-lease counties; suggests positioned energy/mining stakeholder coordination",
+      "Procedural exploit: Rules committee consideration bundling unrelated fiscal + regulatory items to limit amendment/debate vectors"
+    ],
+    "title": "Providing for consideration of the bill (H.R. 4553) making appropriations for energy and water development and related agencies for the fiscal year ending September 30, 2026, and for other purposes; providing for consideration of the joint resolution (H.J. Res. 104) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to \u2018\u2018Miles City Field Office Record of Decision and Approved Resource Management Plan Amendment\u2019\u2019; providing for consideration of the joint resolution (H.J. Res. 105) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to \u2018\u2018North Dakota Field Office Record of Decision and Approved Resource Management Plan\u2019\u2019; providing for consideration of the joint resolution (H.J. Res. 106) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to \u2018\u2018Central Yukon Record of Decision and Approved Resource Management Plan\u2019\u2019; and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/672"
+  },
+  {
+    "bill_id": "119hres580",
+    "score": 4,
+    "reason": "Multi-vector rule suspension bundling defense appropriations with three fintech/monetary bills. Classic smokescrreen pattern: Defense cover for crypto/stablecoin regulatory capture and CBDC prohibition (likely industry-positioned carve-outs). Clause 6(a) waiver signals compressed review window.",
+    "vectors": [
+      "Defense/DHS smokescreen: $800B+ DoD appropriation paired with contentious fintech riders",
+      "Regulatory capture: crypto commodity framework (H.R. 3633) and stablecoin regs (S. 1582) likely contain SEC/CFTC exemptions or safe harbors for positioned players",
+      "Monetary policy exploit: CBDC prohibition (H.R. 1919) written to protect private payment networks from Fed competition",
+      "Procedural acceleration: rule suspension (clause 6(a) waiver) compresses debate on three major deregulatory vectors"
+    ],
+    "title": "Providing for consideration of the bill (H.R. 4016) making appropriations for the Department of Defense for the fiscal year ending September 30, 2026, and for other purposes; providing for consideration of the bill (H.R. 3633) to provide for a system of regulation of the offer and sale of digital commodities by the Securities and Exchange Commission and the Commodity Futures Trading Commission, and for other purposes; providing for consideration of the bill (H.R. 1919) to amend the Federal Reserve Act to prohibit the Federal reserve banks from offering certain products or services directly to an individual, to prohibit the use of central bank digital currency for monetary policy, and for other purposes; providing for consideration of the bill (S. 1582) to provide for the regulation of payment stablecoins, and for other purposes; and waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/580"
+  },
+  {
+    "bill_id": "119hres566",
+    "score": 4,
+    "reason": "Reconciliation procedure bill for H.R. 1 under H. Con. Res. 14 \u2014 this is a gating instrument for major fiscal payload. Reconciliation bills are standard vectors for entitlement erosion, tax expenditure reshuffling, and deficit mechanics exploitation. Senate amendment consideration signals post-passage modification risk.",
+    "vectors": [
+      "Reconciliation procedure (standard entitlement/tax vehicle)",
+      "Senate amendment gating (potential hidden payload insertion)",
+      "H.R. 1 payload unknown without full text (fiscal magnitude unknown)",
+      "Deficit reduction mandate language (typical cover for targeted cuts)"
+    ],
+    "title": "Providing for consideration of the Senate amendment to the bill (H.R. 1) to provide for reconciliation pursuant to title II of H. Con. Res. 14.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/566"
+  },
+  {
+    "bill_id": "119hres354",
+    "score": 4,
+    "reason": "CRA disapproval package targeting EPA/FWS/NPS rules with clear industry-positioning vectors: motor vehicle emission standards, wildlife habitat protections, and recreation access all signal regulatory capture rollback. Geographic clustering (California) and coordinated multi-agency salvo suggest coordinated stakeholder pressure.",
+    "vectors": [
+      "regulatory_capture_rollback",
+      "industry_preemption_exploit",
+      "environmental_safe_harbor_carve_out",
+      "geographic_tell_california_targeting"
+    ],
+    "title": "Providing for consideration of the joint resolution (H.J. Res. 60) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the National Park Service relating to \"Glen Canyon National Recreation Area: Motor Vehicles\"; providing for consideration of the joint resolution (H.J. Res. 78) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the United States Fish and Wildlife Service relating to \"Endangered and Threatened Wildlife and Plants; Endangered Species Status for the San Francisco Bay-Delta Distinct Population Segment of the Longfin Smelt\"; providing for consideration of the joint resolution (H.J. Res. 87) providing congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"California State Motor Vehicle and Engine Pollution Control Standards; Heavy-Duty Vehicle and Engine Emission Warranty and Maintenance Provisions; Advanced Clean Trucks; Zero Emission Airport Shuttle; Zero-Emission Power Train Certification; Waiver of Preemption; Notice of Decision\"; providing for consideration of the joint resolution (H.J. Res. 88) providing congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"California State Motor Vehicle and Engine Pollution Control Standards; Advanced Clean Cars II; Waiver of Preemption; Notice of Decision\"; providing for consideration of the joint resolution (H.J. Res. 89) providing congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"California State Motor Vehicle and Engine and Nonroad Engine Pollution Control Standards; The \"Omnibus\" Low NOX Regulation; Waiver of Preemption; Notice of Decision\"; and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/354"
+  },
+  {
+    "bill_id": "119hres211",
+    "score": 4,
+    "reason": "Three-bill rule package contains fiscal bleed (continuing resolution), regulatory capture (crypto reporting CRA), and entitlement erosion vectors. The digital asset reporting CRA suggests positioned industry lobbying; H.R. 1156 unemployment fraud extension may obscure CARES Act clawback mechanics; H.R. 1968 CR timing typical of debt-limit gamesmanship.",
+    "vectors": [
+      "Regulatory capture: CRA targeting IRS crypto-asset broker reporting rule suggests industry lobbying to kill transparency mandate",
+      "Fiscal bleed: Continuing resolution bundled with other bills obscures budget baseline shifts and CR riders",
+      "Entitlement mechanics: Unemployment fraud statute extension language may contain hidden clawback or eligibility carve-outs",
+      "Procedure smokescreen: Rule vote bundling three disparate bills reduces amendment opportunity and floor transparency"
+    ],
+    "title": "Providing for consideration of the joint resolution (H.J. Res. 25) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Internal Revenue Service relating to \u2018\u2018Gross Proceeds Reporting by Brokers That Regularly Provide Services Effectuating Digital Asset Sales\u2019\u2019; providing for consideration of the bill (H.R. 1156) to amend the CARES Act to extend the statute of limitations for fraud under certain unemployment programs, and for other purposes; providing for consideration of the bill (H.R. 1968) making further continuing appropriations and other extensions for the fiscal year ending September 30, 2025, and for other purposes; and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/211"
+  },
+  {
+    "bill_id": "119hres161",
+    "score": 4,
+    "reason": "Triple-vector play: two CRA disapprovals (energy efficiency + methane emissions regs) bundled with FY2025 budget concurrent resolution. Classic legislative sleight-of-hand\u2014energy deregulation riders paired with decade-long budget framework to obscure fiscal/market implications. Methane exemptions particularly signal regulatory capture.",
+    "vectors": [
+      "Regulatory capture: methane emissions rule exemptions/netting procedures designed to reduce compliance burden on oil-gas operators",
+      "Market-access exploit: water heater efficiency standards rollback opens consumer product market to lower-cost (less efficient) alternatives, benefiting manufacturers positioned outside efficiency tier",
+      "Budget obscuring: concurrent resolution bundled with CRA votes\u2014decade budget authority (2025-2034) attached to deregulation signaling potential entitlement or fiscal baseline games",
+      "Legislative packaging: three separate measures collapsed into single rule to compress debate on individual fiscal impacts"
+    ],
+    "title": "Providing for consideration of the joint resolution (H.J. Res. 20) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Energy relating to \u2018\u2018Energy Conservation Program: Energy Conservation Standards for Consumer Gas-fired Instantaneous Water Heaters\u2019\u2019; providing for consideration of the joint resolution (H.J. Res. 35) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \u2018\u2018Waste Emissions Charge for Petroleum and Natural Gas Systems: Procedures for Facilitating Compliance, Including Netting and Exemptions\u2019\u2019; and providing for consideration of the concurrent resolution (H. Con. Res. 14) establishing the congressional budget for the United States Government for fiscal year 2025 and setting forth the appropriate budgetary levels for fiscal years 2026 through 2034.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/161"
+  },
+  {
+    "bill_id": "119hres1345",
+    "score": 4,
+    "reason": "Rules package bundling fraud/integrity apparatus (H.R. 8312, H.R. 8464) with reconciliation vehicle (S. Con. Res. 33). The 'program eligibility verification' language and payment-pause authorities are classic Trojan horses for entitlement erosion; reconciliation rider attachment signals intent to bypass standard amendment process for fiscal measures.",
+    "vectors": [
+      "Entitlement erosion via reconciliation rider (S. Con. Res. 33 attachment)",
+      "Regulatory expansion: new Inspector General authority + data-sharing regime (capture of fraud apparatus by positioned actors)",
+      "Payment-pause mechanism (H.R. 8464) \u2014 administrative leverage over benefit distribution without legislative re-authorization",
+      "Eligibility verification mandate \u2014 potential SNAP/Medicaid friction cost externalized to claimants"
+    ],
+    "title": "Providing for consideration of the bill (H.R. 8312) to establish fraud prevention and program integrity functions and data sharing authorities within the Department of Treasury and a permanent governmentwide Inspector General for Fraud, Accountability, and Recovery, and for other purposes; providing for consideration of the bill (H.R. 8464) to amend title 31, United States Code, to authorize pausing and segmenting payments, and for other purposes; providing for consideration of the resolution (H. Res. 1335) condemning actors seeking to defraud the United States Government, and expressing the sense of the House of Representatives that governmentwide fraud and improper payment prevention reforms will meaningfully improve the financial prosperity of the United States, and that Federal program eligibility should be verified before payment; and providing for consideration of the bill (S. 2) to provide for reconciliation pursuant to title II of S. Con. Res. 33.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/1345"
+  },
+  {
+    "bill_id": "119hres1333",
+    "score": 4,
+    "reason": "Multiple entitlement-targeting vectors bundled in procedural rule: H.R. 8872 explicitly reframes TANF as fraud-containment apparatus (improper payment measurement, state expenditure guardrails) rather than assistance expansion\u2014classic entitlement erosion framing. H.R. 7726 weaponizes child care compliance via fund withholding. FAFSA identity-fraud screening (H.R. 7892) creates systemic friction for benefit access. Agriculture appropriations (H.R. 8646) requires kernel audit for commodity carve-outs.",
+    "vectors": [
+      "entitlement_erosion: TANF reframing as anti-fraud apparatus; improper payment goals likely reduce eligible recipient pools",
+      "compliance_weaponization: child care fund withholding creates state-level ratching mechanism",
+      "benefit_access_friction: FAFSA identity-fraud detection system creates screening burden on low-income applicants",
+      "procedural_bundling: four disparate bills in single rule suggests opaque floor strategy"
+    ],
+    "title": "Providing for consideration of the bill (H.R. 8646) making appropriations for Agriculture, Rural Development, Food and Drug Administration, and Related Agencies programs for the fiscal year ending September 30, 2027, and for other purposes; providing for consideration of the bill (H.R. 7726) to amend the Child Care and Development Block Grant Act of 1990 to withhold funds from noncompliant States under such Act; providing for consideration of the bill (H.R. 7892) to amend the Higher Education Act of 1965 to require to the Secretary of Education to use an identity fraud detection system to review each FAFSA to determine whether the FAFSA presents a reasonable suspicion of identity fraud; and providing for consideration of the bill (H.R. 8872) to amend part A of title IV of the Social Security Act to target funds to low-income families, strengthen program integrity guardrails for State expenditure of funds, require measurement of improper payments, and establish goals for eliminating fraud and improper payments under the program of block grants to States for temporary assistance for needy families, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/1333"
+  },
+  {
+    "bill_id": "119hres1224",
+    "score": 4,
+    "reason": "Omnibus rule bundling six disparate bills including massive ag reform (2031 horizon), 10-year budget resolution (fiscal 2026-2035), and ethanol waiver carve-out. Classic legislative packaging obscuring fiscal vectors and regulatory capture plays across subsidy/market access/budget mechanics.",
+    "vectors": [
+      "Agricultural programs continuity through 2031: multiyear entitlement/subsidy lock-in via omnibus procedure",
+      "Budget resolution 2026-2035: decade-long fiscal baseline establishment; likely contains reconciliation framework for entitlement erosion",
+      "Ethanol Reid Vapor Pressure waiver: commodity lobby market-access exploit wrapped in air-quality mechanics",
+      "Omnibus rule structure: bundling unrelated bills to suppress individual scrutiny and enable logroll fiscal damage"
+    ],
+    "title": "Providing for consideration of the bill (H.R. 7567) to provide for the reform and continuation of agricultural and other programs of the Department of Agriculture through fiscal year 2031, and for other purposes; providing for consideration of the bill (H.R. 2616) to require public elementary and middle schools that receive funds under the Elementary and Secondary Education Act of 1965 to obtain parental consent before changing a minor\u2019s gender markers, pronouns, or preferred name on any school form or sex-based accommodations, including locker rooms or bathrooms; providing for consideration of the concurrent resolution (S. Con. Res. 33) setting forth the congressional budget for the United States Government for fiscal year 2026 and setting forth the appropriate budgetary levels for fiscal years 2027 through 2035; providing for consideration of the bill (S. 1318) to direct the American Battle Monuments Commission to establish a program to identify American-Jewish servicemembers buried in United States military cemeteries overseas under markers that incorrectly represent their religion and heritage, and for other purposes; providing for consideration of the bill (H.R. 1346) to amend the Clean Air Act with respect to the ethanol waiver for Reid Vapor Pressure under that Act, and for other purposes; and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/1224"
+  },
+  {
+    "bill_id": "119hres1189",
+    "score": 4,
+    "reason": "Multi-vector regulatory capture play: H.R. 4690 repeals federal building efficiency standards (direct deregulation); H.R. 1897 rewrites ESA permitting to favor private land operators (safe harbor exploit); H.R. 5587 waives federal drilling permits and NEPA review for geothermal (exemption carve-out). Rural stewardship framing masks extraction acceleration.",
+    "vectors": [
+      "regulatory_capture: ESA amendments create private-land exemptions under conservation-incentive language",
+      "market_access_exploit: geothermal permit waiver + NEPA exemption opens federal lands to positioned operators without environmental review",
+      "fiscal_bleed: building efficiency repeal eliminates federal energy cost controls, shifts burden to agencies",
+      "smokescreen: rural stewardship resolution (H.Res.1182) provides political cover for extraction deregulation"
+    ],
+    "title": "Providing for consideration of the bill (H.R. 4690) to amend the Energy Conservation and Production Act to repeal certain Federal building energy efficiency performance standards, and for other purposes; providing for consideration of the resolution (H. Res. 1182) expressing support for rural communities across the United States as stewards of the environment, major suppliers of United States energy resources, critical providers of food production and manufacturing capacity, and drivers of national economic stability, and recognizing the work of the House of Representatives in the 119th Congress in support of those vital communities; providing for consideration of the bill (H.R. 1897) to amend the Endangered Species Act of 1973 to optimize conservation through resource prioritization, incentivize wildlife conservation on private lands, provide for greater incentives to recover listed species, create greater transparency and accountability in recovering listed species, streamline the permitting process, eliminate barriers to conservation, and restore congressional intent; and providing for consideration of the bill (H.R. 5587) to amend the Geothermal Steam Act of 1970 to waive the requirement for a Federal drilling permit for certain activities, to exempt certain activities from the requirements of the National Environmental Policy Act of 1969, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/1189"
+  },
+  {
+    "bill_id": "119hres1131",
+    "score": 4,
+    "reason": "Rules committee vehicle bundling four disparate bills including DHS appropriations (H.R. 8029) and maritime vessel access overhaul (H.R. 7084). DHS supplementals historically obscure fiscal vectors; vessel carve-outs signal potential market-access exploit for specific shipping interests. Requires kernel audit on both.",
+    "vectors": [
+      "Defense/DHS smokescreen: FY2026 DHS appropriations bundled with unrelated legislation to obscure amendment riders",
+      "Market-access exploit: H.R. 7084 vessel restrictions rewrite navigable waters access rules\u2014likely positions specific maritime operators",
+      "Regulatory capture: Multi-bill rule package prevents item-level scrutiny of individual carve-outs",
+      "Fiscal bleed: DHS appropriations vehicle historically used to bypass standard TGA flow controls"
+    ],
+    "title": "Providing for consideration of the bill (H.R. 8029) making appropriations for the Department of Homeland Security for the fiscal year ending September 30, 2026, and for other purposes; providing for consideration of the resolution (H. Res. 1128) expressing the support of the House of Representatives for the Department of Homeland Security; providing for consideration of the bill (H.R. 5103) to establish a program to Beautify the District of Columbia and establish the District of Columbia Safe and Beautiful Commission; providing for consideration of the bill (H.R. 7084) to amend title 46, United States Code, with respect to the types of vessels that may enter or operate in navigable waters of the United States or transfer cargo in any port or place under the jurisdiction of the United States, and for other purposes; and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/1131"
+  },
+  {
+    "bill_id": "119hres1032",
+    "score": 4,
+    "reason": "Rules committee resolution bundling three distinct legislative vehicles\u2014consolidated appropriations (H.R. 7148), DC tax override (H.J. Res. 142), and mining codification (H.R. 4090)\u2014into single passage, obscuring individual fiscal/regulatory impacts and enabling rapid floor movement on potentially hostile measures without granular debate.",
+    "vectors": [
+      "Omnibus appropriations vehicle (H.R. 7148) likely contains fiscal bleed, TGA redirection, and rider-layered regulatory capture typical of consolidated bills",
+      "DC tax conformity override (H.J. Res. 142) signals revenue-blocking maneuver targeting local fiscal autonomy\u2014geographic carve-out protecting federal/corporate tax positioning",
+      "Mining codification (H.R. 4090) codifying executive orders into statute = regulatory capture hardening; domestic mining carve-outs typically benefit positioned extractive interests via streamlined permitting",
+      "Rules bundling strategy enables passage of controversial measures (esp. mining, DC override) on appropriations coattails\u2014procedural smokescreen masking individual bill scrutiny"
+    ],
+    "title": "Providing for consideration of the Senate amendments to the bill (H.R. 7148) making further consolidated appropriations for the fiscal year ending September 30, 2026, and for other purposes; providing for consideration of the joint resolution (H.J. Res. 142) disapproving the action of the District of Columbia Council in approving the D.C. Income and Franchise Tax Conformity and Revision Temporary Amendment Act of 2025; and providing for consideration of the bill (H.R. 4090) to codify certain provisions of certain Executive Orders relating to domestic mining and hardrock mineral resources, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/1032"
+  },
+  {
+    "bill_id": "119hres1014",
+    "score": 4,
+    "reason": "Dual consolidated appropriations vehicles (H.R. 7147-7148) for FY2026 suggest potential fiscal engineering through procedural splitting\u2014classic mechanism for obscuring line-item damage across multiple bills. Rule resolution itself is a governance tell worth auditing.",
+    "vectors": [
+      "Fiscal bleed via fragmented appropriations structure",
+      "Potential reconciliation/rule bypass mechanics",
+      "Dual-bill architecture enables hidden carve-outs across legislation",
+      "FY2026 timing suggests budget-cap gaming or debt-limit workarounds"
+    ],
+    "title": "Providing for consideration of the bill (H.R. 7148) making further consolidated appropriations for the fiscal year ending September 30, 2026, and for other purposes; providing for consideration of the bill (H.R. 7147) making further consolidated appropriations for the fiscal year ending September 30, 2026, and for other purposes; and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/1014"
+  },
+  {
+    "bill_id": "119hr8595",
+    "score": 4,
+    "reason": "Appropriations vehicle for State/DHS/defense\u2014high-risk platform for emergency supplementals, carve-outs, and fiscal misdirection. Without summary text, elevated score reflects structural exploit potential: these bills routinely embed regulatory capture (foreign aid recipient exemptions), market-access vectors (contractor set-asides), and debt-ceiling workarounds.",
+    "vectors": [
+      "Defense/DHS smokescreens: appropriations bills used to obscure emergency spending mechanics",
+      "Regulatory capture: foreign aid/state department carve-outs protecting specific vendors",
+      "Fiscal bleed: potential off-budget or supplemental funding mechanisms",
+      "Market-access exploits: defense contractor set-asides or preferential procurement language"
+    ],
+    "title": "National Security, Department of State, and Related Programs Appropriations Act, 2027",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8595"
+  },
+  {
+    "bill_id": "119s4979",
+    "score": 4,
+    "reason": "High-priority entitlement signal. Any bill framing OASI/DI 'fiscal stability' requires forensic audit\u2014language about 'process' and 'assurance' historically masks benefit cuts, payroll-tax hikes on workers, or eligibility tightening buried in procedural machinery. Reconciliation-era bills using this framing often contain hidden erosion vectors.",
+    "vectors": [
+      "entitlement_erosion: Social Security benefit reduction or eligibility narrowing",
+      "procedural_obscuration: 'process' language may hide substantive cuts in technical language",
+      "fiscal_reallocation: potential OASI/DI trust-fund raid or rebalancing at worker expense",
+      "means_testing_vector: eligibility carve-outs targeting specific income cohorts"
+    ],
+    "title": "A bill to establish a process to assure the long-term fiscal stability of the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund.",
+    "url": "https://www.congress.gov/bill/119th-congress/s-bill/4979"
+  },
+  {
+    "bill_id": "119hr9717",
+    "score": 4,
+    "reason": "Regulatory carve-out embedded in bankruptcy mechanics creates asymmetric risk protection for commodity brokers. Classic capture pattern: redefines 'customer property' treatment to favor broker solvency over customer asset recovery, likely concealing which market players benefit from liquidity priority.",
+    "vectors": [
+      "regulatory_capture: bankruptcy exemption favoring commodity broker class",
+      "market_access_exploit: asymmetric creditor treatment via property redefinition",
+      "fiscal_bleed: externalized losses to customer accounts during insolvency cascade"
+    ],
+    "title": "To amend the Commodity Exchange Act to authorize certain treatment of customer property during commodity broker bankruptcy.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9717"
+  }
+]
