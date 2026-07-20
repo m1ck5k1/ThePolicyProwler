@@ -1,0 +1,15 @@
+[
+  {
+    "bill_id": "119hr9770",
+    "score": 4,
+    "reason": "Continuing resolution for FY2027 is a structural vector for fiscal bleed and rider insertion. CRs typically freeze baseline spending while enabling emergency supplementals and carve-outs; high probability of hidden deficits, TGA redirections, or regulatory capture buried in 'other purposes' language.",
+    "vectors": [
+      "Fiscal bleed: CR mechanics enable deficit expansion without reconciliation scrutiny",
+      "Rider insertion risk: 'other purposes' language is standard exploit vector for unrelated carve-outs",
+      "Debt-limit gaming: CRs often precede strategic default-risk management",
+      "Emergency supplemental pathway: CR framework enables DHS/Defense smokescreens"
+    ],
+    "title": "Making continuing appropriations for fiscal year 2027, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9770"
+  }
+]
