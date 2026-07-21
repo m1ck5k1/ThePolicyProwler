@@ -1,0 +1,93 @@
+[
+  {
+    "bill_id": "119hres1438",
+    "score": 4,
+    "reason": "Multi-bill rules package bundling defense authorization (H.R. 8800), Social Security reauth (H.R. 8884), 10-year budget resolution (H. Con. Res. 113), banking amendments (H.R. 6955), and continuing appropriations (H.R. 9770). Classic smoke-stack maneuver: fiscal damage vectors obscured by procedural bundling and entitlement reauth language.",
+    "vectors": [
+      "Defense authorization + budget resolution + continuing appropriations stacked in single rule\u2014typical smokesreen for fiscal bleed and emergency supplement mechanics",
+      "Social Security disability reauth bundled with unrelated bills suggests potential carve-outs or demonstration-authority exploits disguised as routine reauthorization",
+      "H.R. 6955 banking amendments vague language ('improvements to Federal banking laws')\u2014classic regulatory capture tell",
+      "10-year budget resolution (2027-2036) in same package enables long-tail fiscal commitments without transparent re-vote",
+      "Continuing appropriations rider in rules package indicates deficit-mechanics gaming and possible TGA flow manipulation"
+    ],
+    "title": "Providing for consideration of the bill (H.R. 8800) to authorize appropriations for fiscal year 2027 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes; providing for consideration of the bill (H.R. 8884) to amend title II of the Social Security Act to reauthorize demonstration authority for the disability insurance program; providing for consideration of the concurrent resolution (H. Con. Res. 113) establishing the congressional budget for the United States Government for fiscal year 2027 and setting forth the appropriate budgetary levels for fiscal years 2028 through 2036; providing for consideration of the bill (H.R. 7008) to amend chapter 131 of title 5 to require certain restrictions on stocks for Members of Congress and their spouses and dependents, and for other purposes; providing for consideration of the bill (H.R. 6955) to make improvements to the Federal banking laws, and for other purposes; providing for consideration of the bill (H.R. 9770) making continuing appropriations for fiscal year 2027, and for other purposes; and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/1438"
+  },
+  {
+    "bill_id": "119hr9770",
+    "score": 4,
+    "reason": "Continuing appropriation for FY2027 is a high-priority audit vector: these bills routinely embed fiscal redirects, emergency supplementals disguised as routine spending, and debt-limit gamesmanship. The vague 'and for other purposes' clause is a classic Prowler red flag for hidden riders and carve-outs.",
+    "vectors": [
+      "fiscal bleed: CR mechanics used to obscure actual spending authority",
+      "defense/DHS smokescreens: emergency language often buried in CRs",
+      "regulatory capture: riders typically exempt specific actors from oversight",
+      "debt-limit mechanics: CRs frequently contain technical provisions that reset or defer fiscal constraints"
+    ],
+    "title": "Making continuing appropriations for fiscal year 2027, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9770"
+  },
+  {
+    "bill_id": "119hr8375",
+    "score": 4,
+    "reason": "Medicare Advantage (MA) is a $300B+ private insurance carve-out with documented regulatory capture patterns; any 'improvement' bill risks expanding insurer flexibility, reducing CMS oversight, or creating new risk-transfer mechanics that shift costs to beneficiaries or the federal balance sheet.",
+    "vectors": [
+      "regulatory_capture: MA plans systematically lobby for reduced network adequacy standards and prior authorization constraints",
+      "fiscal_bleed: MA overpayment cycles (CMS-to-plan rate inflation) potentially disguised as 'improvement' language",
+      "entitlement_erosion: risk adjustment or benefit restructuring that narrows traditional Medicare competitiveness",
+      "market_access_exploit: potential carve-outs for supplemental benefit delivery or data monetization by positioned MA carriers"
+    ],
+    "title": "Medicare Advantage Improvement Act of 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8375"
+  },
+  {
+    "bill_id": "119hr5454",
+    "score": 4,
+    "reason": "Medicare Advantage payment acceleration typically masks fiscal bleed through faster cash extraction from trust funds and regulatory capture favoring MA insurers over traditional Medicare. Requires audit of payment timeline changes, interest rate mechanics, and MA plan profitability deltas.",
+    "vectors": [
+      "Fiscal bleed: accelerated Medicare Advantage payouts advance cash drain from Part C trust reserves",
+      "Regulatory capture: MA insurers gain payment certainty/speed advantage vs. traditional Medicare providers",
+      "Hidden entitlement erosion: faster MA payments may cannibalize traditional Medicare fund sustainability modeling"
+    ],
+    "title": "Medicare Advantage Prompt Pay Act",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/5454"
+  },
+  {
+    "bill_id": "119hr9415",
+    "score": 4,
+    "reason": "Title signals entitlement restructuring wrapped in protective language ('Safeguarding'). Without summary, the 'Expanding' framing is suspicious\u2014expansion rhetoric often masks benefit recalibration, means-testing, or CPI-linkage changes that erode real payouts. Requires immediate kernel audit.",
+    "vectors": [
+      "entitlement_erosion",
+      "semantic_inversion",
+      "fiscal_reframing",
+      "reconciliation_vector_candidate"
+    ],
+    "title": "Safeguarding American Families and Expanding Social Security Act of 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9415"
+  },
+  {
+    "bill_id": "119hr9187",
+    "score": 4,
+    "reason": "Bipartisan commission framing on Social Security typically signals entitlement-restructuring negotiation space where benefit cuts, payroll tax increases, or eligibility changes get laundered through 'study' language. No summary provided, but commission bills on mandatory spending are high-signal Prowler vectors\u2014the UI is deliberation, the kernel is pre-negotiated consensus to legitimize cuts.",
+    "vectors": [
+      "entitlement_erosion",
+      "fiscal_restructuring_via_commission",
+      "bipartisan_cover_for_benefit_reduction",
+      "delayed_implementation_obscuring_long_term_damage"
+    ],
+    "title": "Bipartisan Social Security Commission Act of 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9187"
+  },
+  {
+    "bill_id": "119hr8595",
+    "score": 4,
+    "reason": "Appropriations vehicle for national security and State Department\u2014high-risk vector for emergency supplementals, DHS carve-outs, and fiscal redirection. Without summary, baseline elevated due to historical pattern of security appropriations masking regulatory capture and market-access provisions.",
+    "vectors": [
+      "Defense/DHS smokescreens: emergency supplementals that obscure fiscal damage",
+      "Fiscal bleed: potential TGA flow redirection or debt-limit mechanics",
+      "Regulatory capture: likely contains agency carve-outs or exemptions for defense contractors",
+      "Geographic tells: examine State Department allocations for constituency-specific funding"
+    ],
+    "title": "National Security, Department of State, and Related Programs Appropriations Act, 2027",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8595"
+  }
+]
