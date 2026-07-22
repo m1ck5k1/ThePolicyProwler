@@ -1,0 +1,144 @@
+[
+  {
+    "bill_id": "119hr9770",
+    "score": 4,
+    "reason": "Continuing appropriation for FY2027 is a structural fiscal mechanism with high exploit potential: likely contains CR carve-outs protecting specific agencies/programs, potential debt-limit deferral mechanics, and possible rider attachments obscuring policy changes. No summary provided increases opacity risk.",
+    "vectors": [
+      "Fiscal bleed: CR extensions often embed permanent spending redirects or cliff-edge appropriation locks",
+      "Regulatory capture: CRs frequently contain exemptions for specific actors (contractors, agencies) buried in technical language",
+      "Hidden policy riders: continuing appropriations are common vectors for substantive legislative changes outside normal order",
+      "Debt-limit mechanics: FY2027 CR timing suggests potential coordination with debt-ceiling negotiations"
+    ],
+    "title": "Making continuing appropriations for fiscal year 2027, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9770"
+  },
+  {
+    "bill_id": "119hr8375",
+    "score": 4,
+    "reason": "Medicare Advantage represents a $300B+ annual regulatory capture vector where private insurers extract margin from public risk pools via risk-score gaming and prior-auth gatekeeping. 'Improvement' framing typically masks carve-outs or payment mechanics that accelerate MA enrollment capture at traditional Medicare's expense.",
+    "vectors": [
+      "Regulatory capture: MA insurers lobby for favorable star-rating adjustments and payment formulas",
+      "Fiscal bleed: MA overpayment relative to FFS Medicare erodes trust fund solvency",
+      "Market-access exploit: potential exemptions from transparency/network adequacy rules",
+      "Entitlement erosion: MA expansion crowds out traditional Medicare via benefit arbitrage"
+    ],
+    "title": "Medicare Advantage Improvement Act of 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8375"
+  },
+  {
+    "bill_id": "119hr793",
+    "score": 4,
+    "reason": "SNAP benefits legislation with explicit 'Fairness' framing is classic capture language masking eligibility restrictions or benefit reductions. Without summary text, the title itself signals potential entitlement erosion vector\u2014likely contains means-testing carve-outs, work requirements, or state-flexibility provisions that redirect federal flows to managed-care operators or state administrations.",
+    "vectors": [
+      "entitlement erosion: SNAP benefit architecture shift",
+      "regulatory capture: state/provider carve-outs via 'fairness' reframing",
+      "fiscal bleed: TGA redirect via administrative discretion"
+    ],
+    "title": "SNAP Benefits Fairness Act of 2025",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/793"
+  },
+  {
+    "bill_id": "119hr9415",
+    "score": 4,
+    "reason": "Title suggests Social Security expansion (UI), but lacks summary to confirm kernel. 'Safeguarding American Families' framing is classic capture-speak; could mask means-testing carve-outs, Trust Fund raid mechanics, or demographic targeting that erodes universalism.",
+    "vectors": [
+      "entitlement_structure_modification",
+      "trust_fund_mechanics_opacity",
+      "demographic_targeting_language",
+      "fiscal_sustainability_claim_masking"
+    ],
+    "title": "Safeguarding American Families and Expanding Social Security Act of 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9415"
+  },
+  {
+    "bill_id": "119hr9798",
+    "score": 4,
+    "reason": "Regulatory capture signal: exempts ERISA-governed plans from ACA Essential Health Benefits, creating a tiered benefit structure that protects plan sponsors (typically large employers) while shifting cost/risk exposure onto covered populations and public health systems. Classic carve-out that reads as market segmentation for positioned actors.",
+    "vectors": [
+      "Regulatory capture: categorical exemption from federal health benefit standards",
+      "Entitlement erosion: EHB mandate removal reduces coverage guardrails, likely externalities to Medicaid/public systems",
+      "Asymmetric risk transfer: benefit shrinkage concentrated on plan members, not sponsors",
+      "ERISA loophole expansion: widening already-substantial ERISA preemption corridor"
+    ],
+    "title": "To amend the Employee Retirement Income Security Act of 1974 and the Public Health Service Act to exempt certain employer-sponsored group health plans governed by ERISA from the Affordable Care Act's Essential Health Benefits requirements, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9798"
+  },
+  {
+    "bill_id": "119hr9649",
+    "score": 4,
+    "reason": "SNAP enforcement bill with high regulatory capture risk. Title targets 'trafficking' but likely contains exemptions/safe harbors for large retailers while imposing compliance costs that concentrate market access among positioned players. Potential entitlement erosion through administrative barriers to benefits access.",
+    "vectors": [
+      "regulatory_capture: exemptions or compliance-cost pass-throughs favoring large chains",
+      "entitlement_erosion: administrative friction reducing SNAP utilization or eligibility",
+      "market_consolidation: rules that disadvantage small/independent retailers",
+      "fiscal_misdirection: enforcement funding mechanisms or TGA flow redirects"
+    ],
+    "title": "Stop Retail Food Store SNAP Trafficking Act of 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9649"
+  },
+  {
+    "bill_id": "119hres1438",
+    "score": 4,
+    "reason": "This is a procedural rule bundling six substantive bills with known high-risk vectors: Defense authorization (H.R. 8800) paired with Social Security disability carve-outs (H.R. 8884), a 10-year budget resolution (fiscal bleed lever), banking law amendments (H.R. 6955 is likely regulatory capture/carve-out vehicle), and a continuing appropriation (H.R. 9770) that obscures true spending and delays transparency.",
+    "vectors": [
+      "Defense authorization bundled with entitlement rider (Social Security disability reauth) \u2014 classic smokescreen pairing",
+      "10-year budget resolution (H. Con. Res. 113) establishes fiscal framework for future deficit mechanics and reconciliation runways",
+      "H.R. 6955 banking amendments \u2014 'improvements to Federal banking laws' is regulatory capture language; likely contains safe harbors or exemptions",
+      "Continuing appropriation (H.R. 9770) defers transparency and maintains existing carve-outs without reauthorization scrutiny",
+      "Procedural rule itself bundles six bills to reduce amendment opportunity and compress legislative review window"
+    ],
+    "title": "Providing for consideration of the bill (H.R. 8800) to authorize appropriations for fiscal year 2027 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes; providing for consideration of the bill (H.R. 8884) to amend title II of the Social Security Act to reauthorize demonstration authority for the disability insurance program; providing for consideration of the concurrent resolution (H. Con. Res. 113) establishing the congressional budget for the United States Government for fiscal year 2027 and setting forth the appropriate budgetary levels for fiscal years 2028 through 2036; providing for consideration of the bill (H.R. 7008) to amend chapter 131 of title 5 to require certain restrictions on stocks for Members of Congress and their spouses and dependents, and for other purposes; providing for consideration of the bill (H.R. 6955) to make improvements to the Federal banking laws, and for other purposes; providing for consideration of the bill (H.R. 9770) making continuing appropriations for fiscal year 2027, and for other purposes; and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/1438"
+  },
+  {
+    "bill_id": "119s1690",
+    "score": 4,
+    "reason": "Title signals entitlement revenue restructuring (Fair Share framing typically masks regressivity mechanics or bracket creep). Without summary, the 'Fair Share' language is a red flag for hidden fiscal vectors\u2014either tax-code carve-outs benefiting UHNW asset classes or benefits-formula changes disguised as equity policy.",
+    "vectors": [
+      "Entitlement erosion: potential Social Security/Medicare benefit recalibration hidden in revenue language",
+      "Fiscal misdirection: 'Fair Share' framing obscures actual payroll-tax or income-threshold mechanics",
+      "Regulatory capture: likely exemptions or safe harbors for specific income sources or asset classes"
+    ],
+    "title": "Medicare and Social Security Fair Share Act",
+    "url": "https://www.congress.gov/bill/119th-congress/s-bill/1690"
+  },
+  {
+    "bill_id": "119hr5454",
+    "score": 4,
+    "reason": "MA payment acceleration bill signals potential fiscal bleed and regulatory capture. 'Prompt pay' mechanics historically compress CMS cash flows while locking in insurer margins\u2014classic market-access exploit dressed in payment-efficiency language.",
+    "vectors": [
+      "fiscal_bleed: accelerated MA payments increase TGA outflows and deficit pressure",
+      "regulatory_capture: carve-out favoring MA plans over traditional Medicare payment schedules",
+      "market_access_exploit: forces faster capital flows to private insurers, reducing government negotiating leverage",
+      "entitlement_erosion: indirect\u2014faster MA payouts reduce funds available for traditional Medicare beneficiaries"
+    ],
+    "title": "Medicare Advantage Prompt Pay Act",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/5454"
+  },
+  {
+    "bill_id": "119hr9187",
+    "score": 4,
+    "reason": "Entitlement restructuring commission bills historically serve as vehicles for benefit cuts, means-testing, or payroll-tax reallocation disguised as 'bipartisan solutions.' The commission structure delays legislative transparency and builds consensus for systemic erosion.",
+    "vectors": [
+      "entitlement_erosion: Social Security benefit structure under review via commission mechanism",
+      "fiscal_bleed: potential payroll-tax reallocation or trust-fund acceleration that changes long-term liability profiles",
+      "regulatory_capture: commission appointments likely favor actuarial/financial-sector voices over beneficiary representation",
+      "transparency_exploit: off-books negotiation delays public audit until recommendations are pre-cooked"
+    ],
+    "title": "Bipartisan Social Security Commission Act of 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9187"
+  },
+  {
+    "bill_id": "119hr8595",
+    "score": 4,
+    "reason": "Appropriations vehicle with high Prowler signal: FY2027 omnibus-class bill covering State Department, defense adjacencies, and 'related programs' language typical of regulatory capture and off-budget authority insertion. No summary provided increases opacity risk.",
+    "vectors": [
+      "fiscal_bleed: appropriations bills routinely contain rescissions, account transfers, or debt-limit mechanics disguised as routine funding",
+      "regulatory_capture: 'related programs' carve-out language often protects specific agencies/contractors from audit or performance requirements",
+      "defense_smokescreen: National Security + State bundled appropriations historically obscure fiscal damage via emergency-framing precedent",
+      "opaque_structure: absence of summary indicates potential rider insertion or funding velocity manipulation"
+    ],
+    "title": "National Security, Department of State, and Related Programs Appropriations Act, 2027",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8595"
+  }
+]
