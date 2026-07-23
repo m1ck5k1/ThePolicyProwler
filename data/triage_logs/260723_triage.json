@@ -1,0 +1,145 @@
+[
+  {
+    "bill_id": "119hr9770",
+    "score": 4,
+    "reason": "Continuing appropriations (CR) bills are endemic fiscal-bleed vectors: they freeze spending at prior-year levels, obscure new obligations in 'other purposes' language, and are prime vehicles for riders that bypass normal committee scrutiny. The FY2027 CR is structurally designed to defer hard budget choices while accumulating TGA pressure.",
+    "vectors": [
+      "Fiscal bleed: CR mechanics extend deficit without explicit reauthorization votes",
+      "Hidden riders: 'other purposes' clause typical locus for regulatory capture provisions",
+      "Emergency-supplemental structure: CR+riders pattern used to embed non-budgetary policy",
+      "Debt-limit gaming: CRs often paired with suspension mechanics that exploit appropriations-process vulnerabilities"
+    ],
+    "title": "Making continuing appropriations for fiscal year 2027, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9770"
+  },
+  {
+    "bill_id": "119hres1438",
+    "score": 4,
+    "reason": "Rules package bundling defense appropriations, Social Security reauthorization, budget resolution, and banking law amendments\u2014classic legislative-dark-pattern deployment. The pairing of defense authorization (fiscal black box) with entitlement reauth and banking carve-outs suggests coordinated fiscal and regulatory capture vectors requiring granular audit of riders and safe-harbor language.",
+    "vectors": [
+      "Defense appropriations omnibus (H.R. 8800): standard smokescreen for embedded DoD accounting opacity and supplemental-like fiscal bleed",
+      "Social Security disability reauth (H.R. 8884): entitlement-erosion exploit\u2014check demonstration authority scope for benefit-cut or eligibility-tightening riders",
+      "Budget resolution (H. Con. Res. 113): reconciliation runway\u20148-year window (2028\u20132036) creates cover for deferred fiscal damage",
+      "Banking amendments (H.R. 6955): highest-risk vector\u2014'improvements to Federal banking laws' typically euphemism for regulatory exemptions or deposit-insurance carve-outs",
+      "Continuing appropriations (H.R. 9770): fiscal-mechanics exploit\u2014CR rider language often contains permanent policy changes disguised as temporary funding mechanics",
+      "Bundled consideration: five unrelated bills in single rules vote signals coordinated capture\u2014whip leverage to force passage of banking/entitlement payload via defense-authorization necessity"
+    ],
+    "title": "Providing for consideration of the bill (H.R. 8800) to authorize appropriations for fiscal year 2027 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes; providing for consideration of the bill (H.R. 8884) to amend title II of the Social Security Act to reauthorize demonstration authority for the disability insurance program; providing for consideration of the concurrent resolution (H. Con. Res. 113) establishing the congressional budget for the United States Government for fiscal year 2027 and setting forth the appropriate budgetary levels for fiscal years 2028 through 2036; providing for consideration of the bill (H.R. 7008) to amend chapter 131 of title 5 to require certain restrictions on stocks for Members of Congress and their spouses and dependents, and for other purposes; providing for consideration of the bill (H.R. 6955) to make improvements to the Federal banking laws, and for other purposes; providing for consideration of the bill (H.R. 9770) making continuing appropriations for fiscal year 2027, and for other purposes; and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/1438"
+  },
+  {
+    "bill_id": "119hjres197",
+    "score": 4,
+    "reason": "CMS payment parameter rule veto targets ACA subsidy/premium mechanics with potential to erode coverage expansion or redirect Medicaid/CHIP flows. CRA disapprovals of benefit/payment rules often precede legislative capture of risk-pool design or actuarial assumptions\u2014check for specific parameter targets (silver loading, cost-sharing reduction ratios, or Basic Health Program funding gutting).",
+    "vectors": [
+      "Entitlement erosion: ACA subsidy/premium parameters adjusted via CRA veto",
+      "Fiscal bleed: CMS payment rule changes cascade into federal deficit/TGA impact",
+      "Regulatory capture: veto likely precedes industry-favorable rewriting of benefit standards"
+    ],
+    "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Centers for Medicare & Medicaid Services of the Department of Health and Human Services relating to \"Patient Protection and Affordable Care Act, HHS Notice of Benefit and Payment Parameters for 2027; and Basic Health Program\".",
+    "url": "https://www.congress.gov/bill/119th-congress/hjres-bill/197"
+  },
+  {
+    "bill_id": "119hr6079",
+    "score": 4,
+    "reason": "Title signals potential entitlement restructuring. 'Guarantee' framing in Social Security context typically masks benefit-formula changes, privatization vectors, or fiscal-cliff accounting gimmicks. Requires urgent kernel audit.",
+    "vectors": [
+      "entitlement_erosion",
+      "fiscal_reframing",
+      "benefit_formula_exploit",
+      "account_privatization_risk"
+    ],
+    "title": "Social Security Guarantee Act of 2025",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/6079"
+  },
+  {
+    "bill_id": "119hr9846",
+    "score": 4,
+    "reason": "High-signal regulatory capture pattern: redefines SSI eligibility thresholds to reclassify child beneficiaries, creating a carve-out that likely shifts Medicaid enrollment/funding dynamics while obscuring the fiscal impact behind technical SSA language.",
+    "vectors": [
+      "Entitlement erosion: Medicaid eligibility redefinition via SSA title XVI amendment",
+      "Regulatory capture: carve-out for specific beneficiary class (child's insurance) that restructures means-testing logic",
+      "Fiscal bleed: potential aggregate Medicaid cost shift or enrollment cliff hidden in technical drafting",
+      "Geographic tells: likely targets states with high child-beneficiary concentrations without naming jurisdictions"
+    ],
+    "title": "To amend title XVI of the Social Security Act to treat certain individuals receiving child's insurance benefits as receiving supplemental security income benefits for purposes of determining Medicaid eligibility.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9846"
+  },
+  {
+    "bill_id": "119hr793",
+    "score": 4,
+    "reason": "Title signals potential entitlement erosion via 'fairness' reframing\u2014classic regulatory capture language masking benefit reduction. SNAP is priority lens #4; 'fairness' framing historically precedes work requirements, asset tests, or state-level carve-outs.",
+    "vectors": [
+      "entitlement_erosion",
+      "regulatory_capture_via_fairness_language",
+      "snap_benefit_mechanics_manipulation",
+      "potential_state_exemption_carve_outs"
+    ],
+    "title": "SNAP Benefits Fairness Act of 2025",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/793"
+  },
+  {
+    "bill_id": "119hres1423",
+    "score": 4,
+    "reason": "Procedural rule bundling four disparate bills, including a $100B+ national security appropriation (H.R. 8595) that can obscure fiscal vectors, plus H.R. 1181 (payment network carve-out for firearms retailers) signaling regulatory capture and market-access exploitation. Rule-bundling itself is a known smokescreen tactic.",
+    "vectors": [
+      "Defense/DHS supplemental appropriation bundled with unrelated measures to reduce scrutiny",
+      "Regulatory capture: H.R. 1181 forces payment processors to disable merchant classification\u2014private-market intervention masquerading as anti-discrimination",
+      "Procedural collusion: rule groups veterans benefits (sympathy cover) with fiscal/regulatory payloads",
+      "Appropriations dark matter: H.R. 8595 term 'and for other purposes' signals rider vulnerability"
+    ],
+    "title": "Providing for consideration of the bill (H.R. 139) to make daylight savings time permanent, and for other purposes; providing for consideration of the bill (H.R. 8595) making appropriations for national security, Department of State, and related programs for the fiscal year ending September 30, 2027, and for other purposes; providing for consideration of the bill (H.R. 9237) to amend titles 10 and 38, United States Code, and other Federal laws, to improve benefits for veterans and the administration of the Department of Veterans Affairs; providing for consideration of the bill (H.R. 1181) to prohibit payment card networks and covered entities from requiring the use of or assigning merchant category codes that distinguish a firearms retailer from general-merchandise retailer or sporting-goods retailer, and for other purposes; and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/1423"
+  },
+  {
+    "bill_id": "119hr9798",
+    "score": 4,
+    "reason": "Clear regulatory carve-out signal: exempting employer plans from ACA Essential Health Benefits creates tiered coverage system benefiting self-insured large employers while eroding baseline protections. Classic capture pattern\u2014'for other purposes' flag suggests riders.",
+    "vectors": [
+      "regulatory_capture: ERISA exemption fragments risk pools and protects large-employer plans from federal standards",
+      "entitlement_erosion: Essential Health Benefits carve-out reduces coverage mandates, shifting cost/risk to individuals and smaller risk pools",
+      "hidden_scope: 'for other purposes' language suggests unaudited riders beyond stated exemption"
+    ],
+    "title": "To amend the Employee Retirement Income Security Act of 1974 and the Public Health Service Act to exempt certain employer-sponsored group health plans governed by ERISA from the Affordable Care Act's Essential Health Benefits requirements, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9798"
+  },
+  {
+    "bill_id": "119s5049",
+    "score": 4,
+    "reason": "Regulatory capture signal: safe harbor language creates legal carve-out for insurance market access tied to cannabis industry, bypassing existing federal-state friction. 'Legitimate business' undefined\u2014likely vector for arbitrage and liability offloading.",
+    "vectors": [
+      "regulatory_carve-out: safe harbor exempts insurers from federal cannabis scheduling enforcement",
+      "market_access_exploit: enables insurance capital entry into federally prohibited market without full statutory amendment",
+      "jurisdictional_arbitrage: leverages state-legal cannabis to create federal insurance pathway, bypassing conflict-of-laws doctrine",
+      "liability_transfer: shields insurers from secondary liability while normalizing cannabis commercial infrastructure"
+    ],
+    "title": "A bill to create a safe harbor for insurers engaging in the business of insurance in connection with a cannabis-related legitimate business, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/s-bill/5049"
+  },
+  {
+    "bill_id": "119hr8375",
+    "score": 4,
+    "reason": "Medicare Advantage (MA) bills consistently weaponize regulatory carve-outs and risk-adjustment mechanics to funnel public funds toward private insurers while degrading traditional Medicare. Without a summary, the title signals potential capture: 'improvement' language typically masks benefit reductions, network narrowing, or payment formula shifts that exploit CMS audit gaps.",
+    "vectors": [
+      "Regulatory capture: MA plans historically lobby for risk-adjustment methodologies that inflate their actuarial profiles relative to FFS Medicare, generating systematic overpayments",
+      "Fiscal bleed: MA expansion via benefit sweeteners or reduced MLR thresholds increases CMS outflows without corresponding revenue mechanisms",
+      "Entitlement erosion: MA benefit design changes may shift cost-sharing or narrow supplemental coverage, degrading traditional Medicare's competitive position",
+      "Market-access exploit: carve-outs from network adequacy or prior-auth rules that privilege MA insurers over traditional Medicare providers"
+    ],
+    "title": "Medicare Advantage Improvement Act of 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8375"
+  },
+  {
+    "bill_id": "119hr9415",
+    "score": 4,
+    "reason": "Title signals entitlement restructuring ('Expanding' + 'Safeguarding' framing suggests benefit reallocation or eligibility narrowing). Without summary text, the paradoxical language\u2014expansion rhetoric paired with protective framing\u2014tracks Prowler priority #4 (entitlement erosion masked as expansion). High confidence this contains reconciliation-style riders or demographic targeting.",
+    "vectors": [
+      "entitlement_erosion_via_reframing",
+      "possible_eligibility_carve_out",
+      "benefit_reallocation_mechanics",
+      "demographic_targeting_language"
+    ],
+    "title": "Safeguarding American Families and Expanding Social Security Act of 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9415"
+  }
+]
