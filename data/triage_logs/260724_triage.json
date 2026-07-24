@@ -1,0 +1,249 @@
+[
+  {
+    "bill_id": "119hr1",
+    "score": 5,
+    "reason": "Reconciliation bill triggered by budget resolution\u2014highest-risk vector for entitlement erosion, tax expenditure manipulation, and deficit mechanics exploitation. H. Con. Res. 14 context required for kernel extraction, but reconciliation process itself is Prowler priority #1.",
+    "vectors": [
+      "entitlement_erosion",
+      "reconciliation_rider_exploitation",
+      "deficit_mechanics_gaming",
+      "tax_expenditure_carve_outs",
+      "fiscal_bleed_via_revenue_side"
+    ],
+    "title": "An act to provide for reconciliation pursuant to title II of H. Con. Res. 14.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/1"
+  },
+  {
+    "bill_id": "119hr7147",
+    "score": 5,
+    "reason": "Continuing appropriation vehicle with 'Further Additional' framing\u2014classic deficit mechanics and DHS emergency supplemental structure. High-probability fiscal bleed and potential regulatory carve-outs buried in appropriations language; requires immediate kernel audit of specific line items and riders.",
+    "vectors": [
+      "Defense/DHS smokescreen: emergency supplemental framing obscures fiscal payloads",
+      "Fiscal bleed: continuing appropriation 'Further Additional' language signals deficit expansion mechanics",
+      "Rider vulnerability: DHS appropriations historically contain regulatory capture provisions and agency carve-outs",
+      "Debt-limit gaming: potential TGA flow redirection or timing mechanics in appropriation sequencing"
+    ],
+    "title": "Homeland Security and Further Additional Continuing Appropriations Act, 2026.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/7147"
+  },
+  {
+    "bill_id": "119hres1438",
+    "score": 5,
+    "reason": "Bundle rule suspends normal deliberation on 6 bills spanning defense spending (H.R. 8800), Social Security disability reauth (H.R. 8884), 10-year budget resolution, congressional stock trading (H.R. 7008), banking deregulation (H.R. 6955), and continuing appropriations (H.R. 9770). Classic smoke-stack delivery mechanism for fiscal payload and regulatory carve-outs; individual bills merit urgent kernel audit.",
+    "vectors": [
+      "Defense supplemental bundling: H.R. 8800 military/DOE spending authority obfuscated in multi-bill rule",
+      "Entitlement reauth via rules package: H.R. 8884 Social Security disability demonstration authority buried in procedural vote",
+      "Banking deregulation payload: H.R. 6955 'improvements' language typical of regulatory capture exploit",
+      "Budget resolution envelope: H. Con. Res. 113 sets fiscal guardrails for 2027-2036; paired bundling suggests deficit-mechanic gaming",
+      "Continuing appropriations rider risk: H.R. 9770 standard vehicle for back-loaded fiscal damage and agency-specific carve-outs",
+      "Procedural capture: Rule prevents amendment and sequential voting; forces accept/reject on composite payload"
+    ],
+    "title": "Providing for consideration of the bill (H.R. 8800) to authorize appropriations for fiscal year 2027 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes; providing for consideration of the bill (H.R. 8884) to amend title II of the Social Security Act to reauthorize demonstration authority for the disability insurance program; providing for consideration of the concurrent resolution (H. Con. Res. 113) establishing the congressional budget for the United States Government for fiscal year 2027 and setting forth the appropriate budgetary levels for fiscal years 2028 through 2036; providing for consideration of the bill (H.R. 7008) to amend chapter 131 of title 5 to require certain restrictions on stocks for Members of Congress and their spouses and dependents, and for other purposes; providing for consideration of the bill (H.R. 6955) to make improvements to the Federal banking laws, and for other purposes; providing for consideration of the bill (H.R. 9770) making continuing appropriations for fiscal year 2027, and for other purposes; and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/1438"
+  },
+  {
+    "bill_id": "119s447",
+    "score": 4,
+    "reason": "Title signals potential Medicaid work requirements or eligibility restrictions (common regulatory capture vector for state workforce programs). Without summary, forensic signal is strong enough to warrant immediate full audit\u2014work requirement bills historically hide fiscal transfers to state administrators and private vendors.",
+    "vectors": [
+      "entitlement erosion",
+      "regulatory capture",
+      "state-level market-access exploit for workforce vendors"
+    ],
+    "title": "Jobs and Opportunities for Medicaid Act",
+    "url": "https://www.congress.gov/bill/119th-congress/s-bill/447"
+  },
+  {
+    "bill_id": "119hres1377",
+    "score": 4,
+    "reason": "H.R. 1377 bundles four bills via rule suspension, including H.R. 1181 (firearm merchant-code neutrality\u2014classic regulatory capture play to obscure financial surveillance vectors) and two major appropriations vehicles (Energy/Water, National Security/State) that historically embed fiscal exploits. The pairing of a niche merchant-code exemption with massive spending bills signals potential rider-stacking and obscured payload distribution.",
+    "vectors": [
+      "Regulatory capture: H.R. 1181 dismantles payment-card classification granularity for firearms\u2014eliminates monitoring layer and transfers visibility cost from retailers to enforcement, protecting industry from transaction-level scrutiny",
+      "Appropriations smokescreen: Energy/Water (H.R. 9022) and National Security/State (H.R. 8595) are traditional TGA redirect vessels; bundling with niche firearms rule obscures line-item audit",
+      "Rule-suspension mechanics: single rule vote for four disparate bills indicates procedural velocity designed to minimize amendment/scrutiny windows\u2014classic exploit vector",
+      "Entanglement signal: Veterans benefits amendment (H.R. 9237) paired with defense appropriations suggests potential benefit-formula riders buried in admin-code language"
+    ],
+    "title": "Providing for consideration of the bill (H.R. 1181) to prohibit payment card networks and covered entities from requiring the use of or assigning merchant category codes that distinguish a firearms retailer from general-merchandise retailer or sporting-goods retailer, and for other purposes; providing for consideration of the bill (H.R. 9022) making appropriations for energy and water development and related agencies for the fiscal year ending September 30, 2027, and for other purposes; providing for consideration of the bill (H.R. 8595) making appropriations for national security, Department of State, and related programs for the fiscal year ending September 30, 2027, and for other purposes; and providing for consideration of the bill (H.R. 9237) to amend titles 10 and 38, United States Code, and other Federal laws, to improve benefits for veterans and the administration of the Department of Veterans Affairs.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/1377"
+  },
+  {
+    "bill_id": "119hr8595",
+    "score": 4,
+    "reason": "Appropriations bill with dual opaque structure: ostensible State Dept/national security funding masks typical vectors for fiscal bleed (supplemental creep), DHS emergency carve-outs, and classified program black-box spending. Requires kernel audit of line-item routing and any riders.",
+    "vectors": [
+      "Defense/DHS smokescreens: appropriations bills routinely embed emergency supplementals and classified spending that obscure fiscal damage",
+      "Fiscal bleed: State Dept appropriations often contain reprogramming authority and contingency reserves that enable TGA flow redirection",
+      "Regulatory capture: national security framing historically shields contractor set-asides and foreign aid conditionality favoring positioned firms from transparency",
+      "Entitlement erosion: State Dept bills may contain riders affecting USAID food assistance or international health programs (SNAP-adjacent mechanisms)"
+    ],
+    "title": "National Security, Department of State, and Related Programs Appropriations Act, 2027",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8595"
+  },
+  {
+    "bill_id": "119hr9310",
+    "score": 4,
+    "reason": "DHS appropriations bills are high-probability vectors for emergency-supplemental fiscal bleed, surveillance-tech vendor lock-in, and regulatory capture via carve-outs. Without summary text, the absence of transparency itself is a Prowler signal\u2014flagship defense/DHS smokescreen mechanism.",
+    "vectors": [
+      "Defense/DHS smokescreen: appropriations bills historically obscure fiscal damage via line-item obfuscation",
+      "Vendor lock-in: DHS procurement riders often create sole-source or preferred-contractor safe harbors",
+      "Regulatory capture: CBP/ICE carve-outs and exemptions from oversight buried in appropriations text",
+      "Fiscal bleed: supplemental request patterns or reprogramming authority that sidestep normal budget controls"
+    ],
+    "title": "Department of Homeland Security Appropriations Act, 2027",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9310"
+  },
+  {
+    "bill_id": "119hres1345",
+    "score": 4,
+    "reason": "Multi-vector fiscal control architecture: H.R. 8312 creates new Treasury fraud-prevention bureaucracy with data-sharing authorities (potential surveillance expansion); H.R. 8464 grants payment-pause/segmentation power (fiscal gating mechanism); S. 2 reconciliation tie-in signals entitlement-erosion rider risk. Framing as 'improper payment prevention' masks eligibility-verification hardline that historically targets SNAP, Medicaid, SSDI.",
+    "vectors": [
+      "Regulatory capture: new permanent IG for Fraud creates unaccountable enforcement silo outside normal oversight",
+      "Fiscal control exploit: payment-pause authority (H.R. 8464) enables administrative withholding without appropriations control",
+      "Entitlement erosion: 'program eligibility verification' language precedes Medicaid/SNAP administrative burden increases in reconciliation vehicle",
+      "Data-sharing expansion: Treasury fraud-prevention functions normalize cross-agency eligibility data harvesting"
+    ],
+    "title": "Providing for consideration of the bill (H.R. 8312) to establish fraud prevention and program integrity functions and data sharing authorities within the Department of Treasury and a permanent governmentwide Inspector General for Fraud, Accountability, and Recovery, and for other purposes; providing for consideration of the bill (H.R. 8464) to amend title 31, United States Code, to authorize pausing and segmenting payments, and for other purposes; providing for consideration of the resolution (H. Res. 1335) condemning actors seeking to defraud the United States Government, and expressing the sense of the House of Representatives that governmentwide fraud and improper payment prevention reforms will meaningfully improve the financial prosperity of the United States, and that Federal program eligibility should be verified before payment; and providing for consideration of the bill (S. 2) to provide for reconciliation pursuant to title II of S. Con. Res. 33.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/1345"
+  },
+  {
+    "bill_id": "119hres1333",
+    "score": 4,
+    "reason": "Multi-vector capture play: H.R. 8646 (AgriDOJ appropriations) creates fiscal leverage point; H.R. 7726 (childcare fund withholding) enables state-level regulatory capture; H.R. 7892 (FAFSA fraud detection) introduces identity-verification carve-outs ripe for vendor lock-in; H.R. 8872 targets TANF \"improper payments\" language historically used to erode benefit floors. Rule package bundling obscures individual bill scrutiny.",
+    "vectors": [
+      "Entitlement erosion: TANF block-grant retargeting + improper-payment framing classic deficit-reduction cover",
+      "Regulatory capture: state-level childcare fund withholding creates compliance theater favoring positioned administrators",
+      "Fiscal bleed: appropriations rider bundling obscures line-item budget damage across multiple agencies",
+      "Identity-verification exploit: FAFSA fraud-detection vendor mandate without procurement transparency language"
+    ],
+    "title": "Providing for consideration of the bill (H.R. 8646) making appropriations for Agriculture, Rural Development, Food and Drug Administration, and Related Agencies programs for the fiscal year ending September 30, 2027, and for other purposes; providing for consideration of the bill (H.R. 7726) to amend the Child Care and Development Block Grant Act of 1990 to withhold funds from noncompliant States under such Act; providing for consideration of the bill (H.R. 7892) to amend the Higher Education Act of 1965 to require to the Secretary of Education to use an identity fraud detection system to review each FAFSA to determine whether the FAFSA presents a reasonable suspicion of identity fraud; and providing for consideration of the bill (H.R. 8872) to amend part A of title IV of the Social Security Act to target funds to low-income families, strengthen program integrity guardrails for State expenditure of funds, require measurement of improper payments, and establish goals for eliminating fraud and improper payments under the program of block grants to States for temporary assistance for needy families, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/1333"
+  },
+  {
+    "bill_id": "119hres1224",
+    "score": 4,
+    "reason": "Multi-bill rule bundling disparate policy vectors (ag reform through 2031, budget reconciliation 2026-2035, Clean Air Act ethanol carve-out) into single consideration motion\u2014classic legislative packaging to obscure fiscal exposure and regulatory capture across domains. The ethanol waiver RVP exemption is a direct market-access exploit for fossil fuel blending; the ag reform bundle likely contains commodity subsidy vectors; budget resolution scope (10-year window) signals reconciliation vulnerability.",
+    "vectors": [
+      "Regulatory capture: ethanol Reid Vapor Pressure waiver exploits Clean Air Act to benefit specific refining/blending constituency",
+      "Fiscal bleed: 10-year agriculture appropriation (through FY2031) bundled with budget reconciliation (FY2026-2035) creates obscured entitlement/subsidy exposure",
+      "Legislative packaging: rule combining 5+ unrelated bills to suppress individual scrutiny and amendment",
+      "Commodity subsidy: ag programs reauthorization likely contains direct payments/crop insurance expansions hidden in omnibus framing"
+    ],
+    "title": "Providing for consideration of the bill (H.R. 7567) to provide for the reform and continuation of agricultural and other programs of the Department of Agriculture through fiscal year 2031, and for other purposes; providing for consideration of the bill (H.R. 2616) to require public elementary and middle schools that receive funds under the Elementary and Secondary Education Act of 1965 to obtain parental consent before changing a minor\u2019s gender markers, pronouns, or preferred name on any school form or sex-based accommodations, including locker rooms or bathrooms; providing for consideration of the concurrent resolution (S. Con. Res. 33) setting forth the congressional budget for the United States Government for fiscal year 2026 and setting forth the appropriate budgetary levels for fiscal years 2027 through 2035; providing for consideration of the bill (S. 1318) to direct the American Battle Monuments Commission to establish a program to identify American-Jewish servicemembers buried in United States military cemeteries overseas under markers that incorrectly represent their religion and heritage, and for other purposes; providing for consideration of the bill (H.R. 1346) to amend the Clean Air Act with respect to the ethanol waiver for Reid Vapor Pressure under that Act, and for other purposes; and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/1224"
+  },
+  {
+    "bill_id": "119hr1346",
+    "score": 4,
+    "reason": "Regulatory capture signal: ethanol waiver carve-out for Reid Vapor Pressure (RVP) standards. Classic subsidy-protection mechanism disguised as technical amendment\u2014benefits specific fuel producers (corn-belt ethanol industry) by exempting them from air-quality compliance costs that competitors must absorb.",
+    "vectors": [
+      "regulatory_capture: RVP waiver creates sector-specific exemption from Clean Air Act compliance",
+      "market_access_exploit: protects ethanol fuel blend mandate economics by reducing compliance friction for positioned producers",
+      "geographic_tell: 'ethanol waiver' language targets corn-belt agricultural-industrial complex without explicit naming",
+      "fiscal_bleed: externalized air-quality costs via regulatory exception rather than direct subsidy (harder to audit)"
+    ],
+    "title": "To amend the Clean Air Act with respect to the ethanol waiver for Reid Vapor Pressure under that Act, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/1346"
+  },
+  {
+    "bill_id": "119hr9846",
+    "score": 4,
+    "reason": "Classic entitlement erosion vector: redefines SSI eligibility categories to collapse child's insurance benefits into supplemental security income framework, likely reducing Medicaid access for existing beneficiaries through technical reclassification rather than explicit cuts.",
+    "vectors": [
+      "Entitlement erosion: Medicaid eligibility redefinition via SSI reclassification",
+      "Regulatory capture: technical carve-out that affects vulnerable population without explicit funding reduction language",
+      "Hidden cost shift: potential state-level Medicaid burden increase masked as administrative clarification"
+    ],
+    "title": "To amend title XVI of the Social Security Act to treat certain individuals receiving child's insurance benefits as receiving supplemental security income benefits for purposes of determining Medicaid eligibility.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9846"
+  },
+  {
+    "bill_id": "119hr9770",
+    "score": 4,
+    "reason": "Continuing appropriations bill is structural fiscal vector\u2014likely contains riders obscuring spending redirects, debt-ceiling mechanics, or agency carve-outs. No summary provided increases opacity risk.",
+    "vectors": [
+      "fiscal_bleed",
+      "rider_payload_likely",
+      "appropriations_opacity",
+      "agency_carve_out_risk"
+    ],
+    "title": "Making continuing appropriations for fiscal year 2027, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9770"
+  },
+  {
+    "bill_id": "119hr9702",
+    "score": 4,
+    "reason": "Medicare-X signals potential regulatory capture and market-access exploit: creates new government insurance option that may function as competitive pressure valve while preserving private insurer market position through tiered reimbursement or exemption mechanics. Title pattern ('Choice Act') mirrors SILVER Act framing\u2014markets wrapped in consumer-protection language.",
+    "vectors": [
+      "Regulatory capture: government option design may include carve-outs protecting incumbent insurers from full competition",
+      "Market-access exploit: public option structure could redirect high-margin populations while leaving private plans with adverse selection",
+      "Fiscal bleed: new entitlement or quasi-entitlement with undefined cost-control mechanisms or payment-rate arbitrage",
+      "Hidden rider vector: reconciliation-eligible bill likely contains Medicaid/CHIP reimbursement adjustments in appendix text"
+    ],
+    "title": "Medicare-X Choice Act of 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9702"
+  },
+  {
+    "bill_id": "119s3369",
+    "score": 4,
+    "reason": "Medicare-X nomenclature signals public option architecture\u2014high-risk vector for regulatory capture via narrow network design, selective provider contracting, or fiscal shell-game between traditional Medicare and new X tier. Without summary text, title alone triggers Prowler protocol on entitlement-adjacent market restructuring.",
+    "vectors": [
+      "Entitlement erosion: potential bifurcation of Medicare beneficiary pools with risk-segmentation logic",
+      "Regulatory capture: 'X Choice' framing may obscure narrow network safe harbors favoring incumbent insurers",
+      "Fiscal bleed: new trust-fund tier could redirect CMS flows or game trust-balance mechanics",
+      "Market-access exploit: 'Choice' architecture often serves as wedge for preferred-provider lock-in"
+    ],
+    "title": "Medicare-X Choice Act of 2025",
+    "url": "https://www.congress.gov/bill/119th-congress/s-bill/3369"
+  },
+  {
+    "bill_id": "119s5062",
+    "score": 4,
+    "reason": "High-signal regulatory capture play: bill weaponizes legal-fee reimbursement to create safe harbor for DME suppliers against Medicare audit/denial mechanics. Classic Prowler vector\u2014uses 'corrective justice' framing to lock in payments and shift audit cost burden to CMS, potentially enabling systemic overbilling patterns.",
+    "vectors": [
+      "Regulatory capture: safe harbor carved for DME supplier class against Medicare integrity contractors",
+      "Fiscal bleed: mandatory legal-fee reimbursement expands CMS obligations and reduces audit leverage",
+      "Market-access exploit: weakens Program Integrity Contractor enforcement, tilts adjudication toward supplier interests",
+      "Entitlement erosion: indirect: reduces Medicare's ability to recoup improper payments, bleeding fund"
+    ],
+    "title": "A bill to amend title XVIII of the Social Security Act to require medicare administrative contractors, unified program integrity contractors, and qualified independent contractors to pay the legal fees for certain durable medical equipment suppliers that were incorrectly denied payment.",
+    "url": "https://www.congress.gov/bill/119th-congress/s-bill/5062"
+  },
+  {
+    "bill_id": "119hjres197",
+    "score": 4,
+    "reason": "CRA targeting ACA payment parameters for 2027 signals potential regulatory rollback of cost-containment mechanisms. The specific focus on 'Benefit and Payment Parameters' suggests industry-positioned opposition to rate-setting or coverage mandates; disapproval would create pricing asymmetry favoring insurers/providers and likely trigger entitlement cost cascades.",
+    "vectors": [
+      "Regulatory capture: CRA weaponization to void payment guardrails favoring industry actors over beneficiaries",
+      "Entitlement erosion: Rollback of ACA cost-control rules creates hidden Medicaid/subsidy bleed",
+      "Market-access exploit: Elimination of HHS rate-setting may open negotiation asymmetry for hospital/insurer pricing"
+    ],
+    "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Centers for Medicare & Medicaid Services of the Department of Health and Human Services relating to \"Patient Protection and Affordable Care Act, HHS Notice of Benefit and Payment Parameters for 2027; and Basic Health Program\".",
+    "url": "https://www.congress.gov/bill/119th-congress/hjres-bill/197"
+  },
+  {
+    "bill_id": "119hr6079",
+    "score": 4,
+    "reason": "Title invokes 'guarantee' language that typically masks either benefit cuts (via means-testing or age-raise riders) or trust fund raid mechanics. Without summary, the 'Guarantee' framing is a red flag for regulatory capture or fiscal shell-game.",
+    "vectors": [
+      "entitlement_erosion",
+      "semantic_inversion_risk",
+      "trust_fund_mechanics_obscurity"
+    ],
+    "title": "Social Security Guarantee Act of 2025",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/6079"
+  },
+  {
+    "bill_id": "119hr793",
+    "score": 4,
+    "reason": "Title signals entitlement erosion targeting SNAP. 'Fairness' framing is classic regulatory capture language used to justify means-testing tightening or benefit clawback mechanics. Without summary text, the kernel payload remains obscured\u2014requires immediate full audit to identify specific fiscal bleed vectors and whether carve-outs create new administrative rents.",
+    "vectors": [
+      "entitlement_erosion",
+      "regulatory_capture_language",
+      "means_testing_expansion",
+      "benefit_clawback_mechanics",
+      "fiscal_bleed_hidden_in_fairness_framing"
+    ],
+    "title": "SNAP Benefits Fairness Act of 2025",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/793"
+  }
+]
