@@ -1,0 +1,28 @@
+[
+  {
+    "bill_id": "119s4621",
+    "score": 5,
+    "reason": "SILVER Act is a documented market-access exploit wrapped in financial stability language. It mandates vault holdings for precious metals, creating forced demand for positioned commodity players and extracting fiscal value through artificial scarcity mechanics.",
+    "vectors": [
+      "market-access exploit: forced vault mandate benefits consolidated precious metals dealers",
+      "regulatory capture: carve-outs for compliant financial institutions",
+      "fiscal bleed: TGA flow redirection through commodity backing requirements",
+      "systemic risk rhetorical cover: stability language masks commercial payload"
+    ],
+    "title": "SILVER Act",
+    "url": "https://www.congress.gov/bill/119th-congress/s-bill/4621"
+  },
+  {
+    "bill_id": "119hr9770",
+    "score": 4,
+    "reason": "Continuing appropriation for FY2027 is a structural vulnerability vector\u2014these bills historically contain riders, carve-outs, and fiscal shell-game mechanics that bypass normal reconciliation scrutiny. The 'and for other purposes' language is a classic Prowler red flag for buried payloads.",
+    "vectors": [
+      "Fiscal bleed: CR mechanics obscure deficit impact and allow executive budget reallocation without transparency",
+      "Regulatory capture: Historical pattern of CR riders protecting specific agency exemptions or carve-outs",
+      "Hidden riders: 'And for other purposes' language suggests non-appropriations content (policy riders, safe harbors)",
+      "Debt-limit gaming: CRs often coupled with debt-ceiling mechanics that flatten fiscal accountability"
+    ],
+    "title": "Making continuing appropriations for fiscal year 2027, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9770"
+  }
+]
