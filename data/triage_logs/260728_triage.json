@@ -1,0 +1,54 @@
+[
+  {
+    "bill_id": "119hr8375",
+    "score": 4,
+    "reason": "Medicare Advantage (MA) plans represent a $300B+ annual fiscal vector with endemic regulatory capture\u2014any MA 'improvement' bill likely contains carve-outs, payment floor protections, or risk-adjustment exploits that lock in insurer margins while eroding traditional Medicare's actuarial base. Without summary text, the title itself signals repositioning of a market already colonized by UnitedHealth/Humana/CVS.",
+    "vectors": [
+      "regulatory_capture: MA insurers' exemptions from rate review",
+      "fiscal_bleed: MA benchmark inflation mechanics that exceed FFS growth",
+      "market_access_exploit: risk adjustment manipulation protecting MA profitability",
+      "entitlement_erosion: potential traditional Medicare defunding via MA enrollment acceleration"
+    ],
+    "title": "Medicare Advantage Improvement Act of 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8375"
+  },
+  {
+    "bill_id": "119hr5371",
+    "score": 4,
+    "reason": "Continuing appropriations bill bundling four high-vulnerability spending domains (agriculture subsidies, military construction, VA) with legislative branch allocations. Classic vector for hidden riders, carve-outs, and baseline-reset fiscal exploits that survive ordinary oversight.",
+    "vectors": [
+      "Fiscal bleed: continuing appropriations at inflated baselines mask true spending authority",
+      "Regulatory capture: agriculture provisions likely contain commodity-specific exemptions or subsidy redirects",
+      "Rider vulnerability: military construction + VA bundle historically used for unrelated policy insertions",
+      "Legislative branch allocation: potential self-dealing or staffing/procurement carve-outs"
+    ],
+    "title": "Continuing Appropriations, Agriculture, Legislative Branch, Military Construction and Veterans Affairs, and Extensions Act, 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/5371"
+  },
+  {
+    "bill_id": "119hr1974",
+    "score": 4,
+    "reason": "Continuing appropriations bills are classic fiscal-damage vectors: they lock spending at prior levels, obscure budget negotiations, and create opportunities for rider-injection of carve-outs and exemptions. The '2025' date and 'Further Additional' language suggest emergency/stopgap mechanics that bypass normal budget scrutiny\u2014high probability of embedded regulatory captures or TGA redirects.",
+    "vectors": [
+      "Continuing resolution mechanics obscure line-item spending and rider payloads",
+      "Emergency/stopgap language typical of Defense/DHS smokescreen appropriations",
+      "Potential for embedded exemptions and carve-outs without public debate",
+      "Deficit-extension through spending-lock rather than explicit authorization"
+    ],
+    "title": "Further Additional Continuing Appropriations and Other Extensions Act, 2025",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/1974"
+  },
+  {
+    "bill_id": "119hres1423",
+    "score": 4,
+    "reason": "This is a rule bundling multiple bills with distinct fiscal and regulatory vectors. H.R. 8595 (national security appropriations) is a classic smokescreen envelope; H.R. 9237 (VA benefits) may contain entitlement mechanics or DHS carve-outs; H.R. 1181 (firearms merchant code prohibition) signals regulatory capture on behalf of positioned industry actors. The bundling itself obscures scrutiny.",
+    "vectors": [
+      "defense_smokescreen: H.R. 8595 national security appropriations bundled to suppress debate on other provisions",
+      "regulatory_capture: H.R. 1181 uses anti-discrimination framing to mandate merchant code neutrality, protecting firearms retailers from market segmentation at payment-processor cost",
+      "procedural_obscurity: rule bill bundles four separate legislative vectors to limit amendment and debate",
+      "entitlement_mechanics: H.R. 9237 VA benefits amendment requires audit for means-testing, eligibility erosion, or administrative burden shifting"
+    ],
+    "title": "Providing for consideration of the bill (H.R. 139) to make daylight savings time permanent, and for other purposes; providing for consideration of the bill (H.R. 8595) making appropriations for national security, Department of State, and related programs for the fiscal year ending September 30, 2027, and for other purposes; providing for consideration of the bill (H.R. 9237) to amend titles 10 and 38, United States Code, and other Federal laws, to improve benefits for veterans and the administration of the Department of Veterans Affairs; providing for consideration of the bill (H.R. 1181) to prohibit payment card networks and covered entities from requiring the use of or assigning merchant category codes that distinguish a firearms retailer from general-merchandise retailer or sporting-goods retailer, and for other purposes; and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/1423"
+  }
+]
