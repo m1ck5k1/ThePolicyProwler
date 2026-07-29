@@ -1,0 +1,68 @@
+[
+  {
+    "bill_id": "119hr7148",
+    "score": 5,
+    "reason": "Consolidated appropriations bills are high-priority audit targets\u2014they aggregate fiscal flows across all federal agencies, contain rider provisions buried in omnibus structure, and historically embed regulatory capture, market-access carve-outs, and entitlement erosions. Without summary text, the kernel payload requires immediate forensic deconstruction of line-item allocations, emergency supplemental mechanics, and legislative riders.",
+    "vectors": [
+      "Fiscal bleed: omnibus structure obscures TGA redirects and deficit mechanics across agency budgets",
+      "Regulatory capture: appropriations riders typically embed exemptions and safe harbors for positioned actors",
+      "Defense/DHS smokescreens: emergency supplementals and security spending often buried in consolidated bills",
+      "Entitlement erosion: reconciliation-adjacent language may contain SNAP, Medicaid, or CHIP riders",
+      "Market-access exploits: appropriations bills frequently contain mandates or carve-outs that force market access for specific industries"
+    ],
+    "title": "Consolidated Appropriations Act, 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/7148"
+  },
+  {
+    "bill_id": "119hr9831",
+    "score": 4,
+    "reason": "Medicaid benefit expansion legislation with high Prowler relevance: likely contains fiscal bleed via uncapped entitlement add-ons, potential regulatory carve-outs for dental insurance incumbents, and possible safe harbors for managed-care dental networks. No summary provided increases opacity risk.",
+    "vectors": [
+      "Entitlement erosion pathway: expansion mechanism details unknown\u2014could mask future benefit-level or cost-sharing restructures",
+      "Regulatory capture: dental insurance/provider cartel protection via network restrictions or reimbursement floors",
+      "Fiscal bleed: uncapped Medicaid dental mandates risk TGA flow redirection without offset mechanisms",
+      "Market-access exploit: forced state dental expansion may lock in specific vendors or IPAs"
+    ],
+    "title": "Medicaid Dental Benefit Act of 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9831"
+  },
+  {
+    "bill_id": "119s5140",
+    "score": 4,
+    "reason": "Regulatory fairness/transparency framing masks potential carve-out architecture. 'Disqualifying provisions' language suggests exemption vectors for positioned market actors; CFTC/SEC harmonization often precedes safe-harbor expansion. 'For other purposes' is a classic loader clause.",
+    "vectors": [
+      "Regulatory capture: potential harmonization of disqualification thresholds downward",
+      "Safe harbor expansion: carve-outs disguised as transparency/consistency reforms",
+      "Market-access exploit: standardization may advantage repeat-offender insiders",
+      "Loader clause: 'for other purposes' requires full text audit"
+    ],
+    "title": "A bill to ensure the fairness, transparency, and consistency of disqualifying provisions administered by the Commodity Futures Trading Commission and the Securities and Exchange Commission, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/s-bill/5140"
+  },
+  {
+    "bill_id": "119hr8375",
+    "score": 4,
+    "reason": "Medicare Advantage represents a $300B+ annual market with deep regulatory capture mechanics. Title signals efficiency framing typical of privatization vectors; requires kernel audit on benefit carve-outs, Star Ratings gaming, or risk-adjustment exploits that redirect Medicare flows to MA insurers.",
+    "vectors": [
+      "Regulatory capture: MA safe harbors and exemptions from traditional Medicare compliance",
+      "Fiscal bleed: potential benefit design changes that shift actuarial risk to beneficiaries or TGA",
+      "Market-access exploit: provisions that advantage MA carriers over traditional Medicare enrollment pathways",
+      "Hidden entitlement erosion: benefit restrictions or cost-shifting buried in 'improvement' language"
+    ],
+    "title": "Medicare Advantage Improvement Act of 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8375"
+  },
+  {
+    "bill_id": "119hr9296",
+    "score": 4,
+    "reason": "Title signals entitlement reform in reconciliation-adjacent territory. 'Strengthening' is classic UI-speak for restructuring; without summary text, the kernel is opaque but the bill number (119th Congress, 2026 timing) and subject matter place this in high-priority audit zone for hidden payroll tax hikes, retirement age adjustments, or means-testing carve-outs.",
+    "vectors": [
+      "Entitlement erosion: Social Security restructuring via revenue or benefit mechanics",
+      "Reconciliation rider risk: fiscal effects obscured by 'strengthen' framing",
+      "Fiscal bleed: potential payroll tax expansion or trust-fund reallocation",
+      "Regulatory capture: possible carve-outs for high-income earners or specific cohorts"
+    ],
+    "title": "Strengthening Social Security Act of 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9296"
+  }
+]
