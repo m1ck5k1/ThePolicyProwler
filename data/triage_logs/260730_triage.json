@@ -1,0 +1,39 @@
+[
+  {
+    "bill_id": "119s5042",
+    "score": 4,
+    "reason": "High-priority entitlement audit signal. 'Social Security 2100' framing suggests actuarial solvency intervention\u2014requires kernel inspection to isolate whether fix comes via revenue expansion, benefit restructuring, or hybrid capture favoring specific demographics.",
+    "vectors": [
+      "entitlement_erosion: potential COLA/PIA restructuring hidden in solvency language",
+      "fiscal_mechanism: trust fund depletion scenario and proposed payroll tax or wage-cap expansion",
+      "distributional_sleight: possible age-cohort or income-band reallocation benefiting positioned classes"
+    ],
+    "title": "Social Security 2100 Act",
+    "url": "https://www.congress.gov/bill/119th-congress/s-bill/5042"
+  },
+  {
+    "bill_id": "119hr3887",
+    "score": 4,
+    "reason": "Title frames as anti-fraud/victim protection but 'Anti-Theft' language historically precedes benefit-access restrictions and eligibility tightening. Without summary, the kernel likely contains either SNAP benefit cuts disguised as fraud prevention, or administrative burden increases that reduce takeup among eligible populations.",
+    "vectors": [
+      "Entitlement erosion: SNAP benefit restrictions hidden in anti-fraud framing",
+      "Regulatory capture: carve-outs for state enforcement actors or private fraud-detection vendors",
+      "Fiscal bleed: reduced SNAP outlays counted as deficit savings without addressing root causes"
+    ],
+    "title": "SNAP Anti-Theft and Victim Compensation Act of 2025",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/3887"
+  },
+  {
+    "bill_id": "119hr9770",
+    "score": 4,
+    "reason": "Continuing appropriation for FY2027 is a high-priority vector: likely contains rider payloads, debt-limit workarounds, and agency funding carve-outs that bypass normal reconciliation scrutiny. The 'and for other purposes' language is a classic exploit wrapper.",
+    "vectors": [
+      "Fiscal bleed: CR mechanics defer budget crises while enabling supplemental spending and emergency designations",
+      "Regulatory capture: CRs freeze agency budgets at prior-year levels, protecting incumbent contractors and entrenched interests",
+      "Legislative riders: 'other purposes' clause historically contains tax breaks, exemptions, and market-access grants unrelated to appropriations",
+      "Debt-limit mechanics: CRs may coordinate with debt-ceiling suspension or redefine obligations to obscure fiscal impact"
+    ],
+    "title": "Making continuing appropriations for fiscal year 2027, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9770"
+  }
+]
