@@ -1,0 +1,104 @@
+[
+  {
+    "bill_id": "119s4621",
+    "score": 5,
+    "reason": "SILVER Act is a known Policy Prowler case study\u2014vault mandate (commodity storage access exploit) disguised as systemic-risk mitigation. Clear market-access vector forcing open controlled bullion/precious metals markets for positioned insiders.",
+    "vectors": [
+      "market-access exploit: vault mandate architecture",
+      "regulatory capture: commodity market carve-out",
+      "systemic-risk language as UI for commercial payload"
+    ],
+    "title": "SILVER Act",
+    "url": "https://www.congress.gov/bill/119th-congress/s-bill/4621"
+  },
+  {
+    "bill_id": "119hr8595",
+    "score": 4,
+    "reason": "Defense/DHS supplemental appropriations bills are standard Prowler targets: 'national security' language historically masks fiscal damage, emergency mechanics bypass normal budget scrutiny, and 'related programs' catchall invites carve-outs. FY2027 timing suggests potential debt-limit gamesmanship or TGA flow redirection.",
+    "vectors": [
+      "Defense/DHS smokescreen: emergency supplemental framing",
+      "Fiscal bleed: appropriations vehicles commonly contain deficit-neutral gimmicks",
+      "Catchall language: 'related programs' signals buried riders",
+      "Timing signal: FY2027 appropriations may include debt-ceiling mechanics"
+    ],
+    "title": "Making appropriations for national security, Department of State, and related programs for the fiscal year ending September 30, 2027, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8595"
+  },
+  {
+    "bill_id": "119hr793",
+    "score": 4,
+    "reason": "SNAP Benefits Fairness Act signals potential entitlement erosion disguised as fairness language. Title structure mirrors regulatory capture rebranding (cf. 'Right to Work' pattern). Without summary, kernel likely contains eligibility narrowing, work requirements escalation, or benefit cliff acceleration.",
+    "vectors": [
+      "entitlement_erosion",
+      "fairness_language_smokescreen",
+      "SNAP_targeting",
+      "eligibility_carve_outs"
+    ],
+    "title": "SNAP Benefits Fairness Act of 2025",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/793"
+  },
+  {
+    "bill_id": "119hr9422",
+    "score": 4,
+    "reason": "RAC (Recovery Audit Contractor) bills historically obscure entitlement erosion mechanics through administrative 'efficiency' framing. Without summary text, the title alone signals medium-to-high risk: RAC expansion typically involves privatized debt-collection against provider networks, creating fiscal incentives misaligned with beneficiary access. Requires full audit to map potential SNAP/Medicaid payment-rate suppression vectors.",
+    "vectors": [
+      "Entitlement erosion: RAC contractor authority expansion may trigger secondary Medicaid payment reductions",
+      "Regulatory capture: privatized audit contractors gain de facto rate-setting power over federal-state Medicaid flows",
+      "Fiscal bleed: ambiguous 'improvement' language often masks cost-shift from federal to state/provider level"
+    ],
+    "title": "Medicaid RAC Improvement Act of 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9422"
+  },
+  {
+    "bill_id": "119sjres203",
+    "score": 4,
+    "reason": "Congressional disapproval of OCC preemption rule on state interest-on-escrow laws signals regulatory capture mechanics: OCC historically uses preemption doctrines to strip state consumer protections favoring national banks. This CRA likely reverses a move to protect state-level escrow interest rules\u2014a classic market-access exploit where federal banking regulators override state law to benefit financial institutions.",
+    "vectors": [
+      "regulatory_capture: OCC preemption doctrines used to eliminate state consumer safeguards",
+      "market_access_exploit: federal override of state escrow interest protections benefits national banking incumbents",
+      "banking_sector_carveout: CRA reversal suggests prior rule stripped state enforcement authority"
+    ],
+    "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Office of the Comptroller of the Currency relating to \"Preemption Determination: State Interest-on-Escrow Laws\".",
+    "url": "https://www.congress.gov/bill/119th-congress/sjres-bill/203"
+  },
+  {
+    "bill_id": "119hr7006",
+    "score": 4,
+    "reason": "Omnibus appropriations vehicle with high-probability fiscal and regulatory capture signals. Title bundles Financial Services oversight, State Department, and National Security\u2014classic trifecta for carve-outs, emergency spending mechanics, and regulatory exemptions. Requires kernel audit on DHS/CISA funding riders, FinCEN/OCC reporting relief clauses, and State Department arms-sale velocity clauses.",
+    "vectors": [
+      "fiscal_bleed: appropriations bills routinely contain debt-limit suspension mechanics and emergency spending reclassifications",
+      "regulatory_capture: Financial Services + General Government bundles typically embed banking carve-outs, reporting relief, and anti-enforcement language",
+      "defense_dhs_smokescreen: National Security title enables classified supplemental language and spending velocity without line-item scrutiny",
+      "entitlement_erosion: general appropriations vehicles often contain agency budget cuts that indirectly suppress means-tested program funding"
+    ],
+    "title": "Financial Services and General Government and National Security, Department of State, and Related Programs Appropriations Act, 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/7006"
+  },
+  {
+    "bill_id": "119hres1398",
+    "score": 4,
+    "reason": "Rules committee omnibus pairing defense authorization (H.R. 8800) with appropriations (H.R. 8595) alongside Social Security disability reauthorization (H.R. 8884)\u2014a classic legislative bundling pattern that obscures entitlement mechanics within defense/national security framing. The opaque 'for other purposes' language and simultaneous processing of four distinct vehicles suggests potential rider exploitation.",
+    "vectors": [
+      "Defense/DHS smokescreen: defense authorization bundled with discretionary appropriations, creating political cover for concurrent entitlement changes",
+      "Entitlement erosion tell: Social Security disability 'demonstration authority' reauthorization paired with unrelated bills\u2014suggests pilot program expansion or benefit restriction buried in procedural consideration",
+      "Fiscal opacity: 'for other purposes' clauses across multiple bills indicate hidden riders or side-agreements not visible in title",
+      "Bundling exploit: rules committee consolidating four separate legislative vehicles into single consideration vote, preventing granular amendment/debate"
+    ],
+    "title": "Providing for consideration of the bill (H.R. 8800) to authorize appropriations for fiscal year 2027 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes; providing for consideration of the bill (H.R. 8595) making appropriations for national security, Department of State, and related programs for the fiscal year ending September 30, 2027, and for other purposes; providing for consideration of the bill (H.R. 8884) to amend title II of the Social Security Act to reauthorize demonstration authority for the disability insurance program; providing for consideration of the resolution (H. Res. 1383) commemorating the one-year anniversary of the enactment of the Working Families Tax Cuts; and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/1398"
+  },
+  {
+    "bill_id": "119hres1438",
+    "score": 4,
+    "reason": "Multi-bill rule bundling defense authorization (H.R. 8800), Social Security disability reauth (H.R. 8884), budget resolution (H. Con. Res. 113), banking amendments (H.R. 6955), and continuing appropriations (H.R. 9770) into single consideration vehicle\u2014classic procedural smokescreen for entitlement demos, fiscal mechanics, and regulatory carve-outs. Requires kernel audit on each payload.",
+    "vectors": [
+      "Defense/DHS smokescreen: H.R. 8800 military authorization bundled with unrelated fiscal/entitlement riders",
+      "Entitlement erosion signal: H.R. 8884 'demonstration authority' language on disability insurance\u2014potential pilot program for benefit restructuring",
+      "Fiscal mechanics: H. Con. Res. 113 sets 10-year budgetary levels; bundling obscures debt-limit workarounds",
+      "Regulatory capture candidate: H.R. 6955 banking amendments described only as 'improvements'\u2014undefined carve-out risk",
+      "Procedural exploit: Continuing appropriations (H.R. 9770) wrapped in omnibus rule to bypass amendment process"
+    ],
+    "title": "Providing for consideration of the bill (H.R. 8800) to authorize appropriations for fiscal year 2027 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes; providing for consideration of the bill (H.R. 8884) to amend title II of the Social Security Act to reauthorize demonstration authority for the disability insurance program; providing for consideration of the concurrent resolution (H. Con. Res. 113) establishing the congressional budget for the United States Government for fiscal year 2027 and setting forth the appropriate budgetary levels for fiscal years 2028 through 2036; providing for consideration of the bill (H.R. 7008) to amend chapter 131 of title 5 to require certain restrictions on stocks for Members of Congress and their spouses and dependents, and for other purposes; providing for consideration of the bill (H.R. 6955) to make improvements to the Federal banking laws, and for other purposes; providing for consideration of the bill (H.R. 9770) making continuing appropriations for fiscal year 2027, and for other purposes; and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/1438"
+  }
+]
