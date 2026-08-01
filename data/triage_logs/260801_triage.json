@@ -1,0 +1,41 @@
+[
+  {
+    "bill_id": "119hr8595",
+    "score": 4,
+    "reason": "Defense/DHS supplemental appropriations bill spanning two fiscal years with broad 'and for other purposes' language\u2014classic vector for fiscal damage obscuration, emergency-framing debt-limit mechanics, and embedded carve-outs. Requires kernel audit of State Department allocations and related program riders.",
+    "vectors": [
+      "Defense/DHS smokescreen: multi-year appropriations with vague scope",
+      "Fiscal bleed: 'and for other purposes' language enables hidden redirects",
+      "Emergency-framing mechanics: potential debt-limit workaround via appropriations structure",
+      "State Department allocations: high ROI zone for regulatory capture and market-access provisions"
+    ],
+    "title": "Making appropriations for national security, Department of State, and related programs for the fiscal year ending September 30, 2027, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8595"
+  },
+  {
+    "bill_id": "119hr9977",
+    "score": 4,
+    "reason": "Tariff exemption carve-out for unnamed 'home building products' post-Jan 20, 2025 (Trump admin transition). Classic regulatory capture vector: vague product scope + specific temporal window = positioned insider protection from tariff regime while maintaining public-facing tariff narrative.",
+    "vectors": [
+      "Regulatory capture: unnamed product exemptions create safe harbor for specific lobbied industries",
+      "Market-access exploit: exemption creates competitive advantage for exempted suppliers vs. non-exempted competitors",
+      "Fiscal bleed: tariff revenue loss redirected to protected actors",
+      "Geographic tells: 'home building products' language likely masks regional construction lobby interests without naming constituencies"
+    ],
+    "title": "To exempt certain home building products from certain tariffs imposed on or after January 20, 2025, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9977"
+  },
+  {
+    "bill_id": "119hr793",
+    "score": 4,
+    "reason": "Title signals potential entitlement erosion mechanics targeting SNAP. Without summary, high uncertainty, but 'Fairness' framing is classic regulatory capture language masking benefit restrictions or eligibility tightening.",
+    "vectors": [
+      "entitlement_erosion",
+      "fairness_framing_exploit",
+      "eligibility_carveout_risk",
+      "fiscal_bleed_via_benefit_reduction"
+    ],
+    "title": "SNAP Benefits Fairness Act of 2025",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/793"
+  }
+]
