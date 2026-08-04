@@ -1,0 +1,132 @@
+[
+  {
+    "bill_id": "119hr4502",
+    "score": 5,
+    "reason": "CRITICAL. 'Silver Shield' nomenclature + 2025 timing signals potential regulatory carve-out or market-access exploit in precious metals/commodities sector. Without summary, title alone triggers Prowler protocols on financial infrastructure bills that use defense/protection rhetoric to obscure commercial payload.",
+    "vectors": [
+      "regulatory_capture_carveout",
+      "market_access_exploit",
+      "commodities_infrastructure_mandate",
+      "lobbist_positioning_language"
+    ],
+    "title": "Silver Shield Act of 2025",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/4502"
+  },
+  {
+    "bill_id": "119hr1",
+    "score": 5,
+    "reason": "Reconciliation bill with no public summary is textbook Prowler target: reconciliation permits budget-neutral legislative surgery on entitlements, tax expenditures, and mandatory spending without regular order or filibuster protection. Absence of summary signals payload obscurity.",
+    "vectors": [
+      "Entitlement erosion: reconciliation authority enables SNAP, Medicaid, CHIP, Social Security cuts without debate thresholds",
+      "Fiscal bleed: reconciliation bills routinely contain tax expenditure carve-outs and dynamic-score gaming",
+      "Payload obscurity: missing summary indicates working bill or intentional non-disclosure; requires kernel extraction"
+    ],
+    "title": "An act to provide for reconciliation pursuant to title II of H. Con. Res. 14.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/1"
+  },
+  {
+    "bill_id": "119hr7148",
+    "score": 5,
+    "reason": "Omnibus appropriations bill is structural vector for fiscal bleed, regulatory capture riders, and entitlement erosion. Requires full kernel audit of all embedded carve-outs, supplemental flows, and reconciliation payloads.",
+    "vectors": [
+      "Fiscal bleed: omnibus format obscures deficit-expansion mechanisms and TGA redirects",
+      "Regulatory capture: typical vehicle for industry-specific exemptions and safe harbors buried in spending titles",
+      "Entitlement erosion: reconciliation riders commonly hide SNAP, Medicaid, CHIP cuts in appropriations wrapping",
+      "Defense/DHS smokescreens: emergency or supplemental components often appended without debate",
+      "Market-access exploits: carve-outs for positioned finance, energy, pharma actors embedded across titles"
+    ],
+    "title": "Consolidated Appropriations Act, 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/7148"
+  },
+  {
+    "bill_id": "119hr1968",
+    "score": 5,
+    "reason": "Full-year continuing appropriations are endemic fiscal-bleed vectors: they freeze spending at prior-year baselines, obscure supplemental requests via amendment riders, and enable emergency-language payload insertion. Title signals omnibus structure\u2014highest-yield audit target for regulatory capture, entitlement erosion, and DHS/Defense smokescreens.",
+    "vectors": [
+      "fiscal_bleed: CR mechanics enable deficit expansion without explicit votes",
+      "amendment_riders: continuing bills notoriously carry unrelated legislative payloads",
+      "regulatory_capture: agencies locked into prior budgets while exemptions carve out specific sectors",
+      "entitlement_erosion: reconciliation-style riders buried in appropriations text",
+      "emergency_supplementals: DHS/Defense language likely embedded in extensions clauses"
+    ],
+    "title": "Full-Year Continuing Appropriations and Extensions Act, 2025",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/1968"
+  },
+  {
+    "bill_id": "119hr6951",
+    "score": 4,
+    "reason": "Title language ('Stop Unfair') signals potential regulatory capture or entitlement-erosion defense. Without summary, the kernel is opaque\u2014but Medicaid recovery mechanics (estate clawback, OBRA liens) are prime fiscal-engineering territory where carve-outs systematically redirect federal/state funds to specific classes of beneficiaries or providers.",
+    "vectors": [
+      "entitlement_erosion: Medicaid recovery rules are front-line fiscal pressure points; 'unfair' framing may mask exemptions that shift clawback burden",
+      "regulatory_capture: Medicaid recovery policy historically favors specific provider classes or state fiscal systems; exemption language worth forensic parse",
+      "fiscal_bleed: Recovery rule changes can redirect billions in estate/lien recoveries; scope and beneficiary definition critical"
+    ],
+    "title": "Stop Unfair Medicaid Recoveries Act",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/6951"
+  },
+  {
+    "bill_id": "119hr4029",
+    "score": 4,
+    "reason": "Emergency supplemental framing masks potential fiscal bleed and entitlement restructuring signal. 'Home and community-based services' language historically precedes Medicaid carve-outs and managed-care privatization vectors that redirect funds to regional operators while eroding institutional safety-net capacity.",
+    "vectors": [
+      "Fiscal bleed: emergency supplemental may bypass reconciliation limits and debt-brake scrutiny",
+      "Entitlement restructuring: HCBS expansion often paired with institutional Medicaid reduction (cost-shift to states/families)",
+      "Market-access exploit: 'emergency funding' to states creates leverage point for MCO consolidation and regional contractor lock-in",
+      "Geographic tells: 'State programs' language without enrollment-cap or provider-rate specificity suggests targeted subsidy to specific state-operator pairs"
+    ],
+    "title": "To provide for an emergency increase in Federal funding to State Medicaid programs for expenditures on home and community-based services.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/4029"
+  },
+  {
+    "bill_id": "119hr10028",
+    "score": 4,
+    "reason": "Requires GSE mandate expansion (Fannie Mae/Freddie Mac) into novel mortgage products with unclear risk transfer mechanics and potential fiscal liability expansion. 'Portable mortgages' are a market-access exploit targeting refinance-lock arbitrage; GSE securitization of non-standard instruments could obscure credit risk concentration and create contingent liabilities against the Treasury backstop.",
+    "vectors": [
+      "Regulatory capture: GSE carve-out expands mandate without corresponding risk-pricing or reserve requirement adjustments",
+      "Fiscal bleed: Portable mortgage securitization could shift refinance volatility risk to implicit federal guarantee",
+      "Market-access exploit: Forces GSEs to purchase/securitize products that private MBS market has rejected, creating artificial demand for positioned lenders"
+    ],
+    "title": "To require the Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation to begin purchasing and securitizing portable mortgages, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/10028"
+  },
+  {
+    "bill_id": "119hr10020",
+    "score": 4,
+    "reason": "Creates new entitlement pathway with undefined scope ('and for other purposes' is classic capture vector). Home care benefit expansion requires fiscal modeling to assess TGA bleed, potential carve-outs for private insurers, and whether cost controls are genuine or theater.",
+    "vectors": [
+      "entitlement_expansion_without_cost_containment_detail",
+      "undefined_legislative_scope_enables_rider_capture",
+      "potential_private_insurance_carve_out_or_favorable_payment_terms",
+      "fiscal_bleed_through_home_care_utilization_rates"
+    ],
+    "title": "To amend title XVIII of the Social Security Act to establish a Medicare home care benefit, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/10020"
+  },
+  {
+    "bill_id": "119hr5371",
+    "score": 4,
+    "reason": "Continuing appropriation omnibus spanning six major fiscal vectors (agriculture, legislative, defense, VA, military construction) with no summary provided\u2014classic opacity structure for hidden riders and carve-outs. High probability of regulatory capture, defense-contractor market-access plays, and veteran-benefit erosion buried in appropriations language.",
+    "vectors": [
+      "fiscal bleed via continuing resolution mechanics",
+      "defense/military construction smokescreen",
+      "potential VA benefits erosion in reconciliation riders",
+      "agriculture subsidy carve-outs for positioned operators",
+      "legislative branch slush funds"
+    ],
+    "title": "Continuing Appropriations, Agriculture, Legislative Branch, Military Construction and Veterans Affairs, and Extensions Act, 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/5371"
+  },
+  {
+    "bill_id": "119s3690",
+    "score": 4,
+    "reason": "Medicaid buy-in programs are traditional vehicles for cost-shifting and eligibility narrowing. Without summary text, title alone signals potential entitlement erosion via access restriction or premium restructuring\u2014classic Prowler vector.",
+    "vectors": [
+      "entitlement_erosion",
+      "medicaid_restructuring",
+      "access_gatekeeping",
+      "premium_mechanism_exploit"
+    ],
+    "title": "Ensuring Access to Medicaid Buy-in Programs Act of 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/s-bill/3690"
+  }
+]
