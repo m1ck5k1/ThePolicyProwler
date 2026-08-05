@@ -1,0 +1,64 @@
+[
+  {
+    "bill_id": "119hr10020",
+    "score": 4,
+    "reason": "Vague 'and for other purposes' language paired with home care benefit expansion creates ideal camouflage for hidden riders. Medicare payment/coverage expansion could contain regulatory carve-outs for specific providers, DHS/telehealth vendors, or deficit-acceleration mechanics masked as care delivery.",
+    "vectors": [
+      "entitlement_erosion: benefit expansion often paired with silent eligibility/reimbursement caps",
+      "regulatory_capture: home care sector rife with corporate consolidation; bill likely contains safe harbors for dominant players",
+      "fiscal_bleed: undefined 'home care benefit' scope invites open-ended CMS spending with no hard caps",
+      "hidden_riders: 'and for other purposes' is classic legislative smokescreen"
+    ],
+    "title": "To amend title XVIII of the Social Security Act to establish a Medicare home care benefit, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/10020"
+  },
+  {
+    "bill_id": "119s5042",
+    "score": 4,
+    "reason": "Title signals entitlement restructuring (priority lens #4). 'Social Security 2100' framing suggests either solvency mechanics that obscure benefit cuts or revenue maneuvers hidden in 'modernization' language. Without summary, kernel is opaque\u2014requires immediate full audit to detect whether this is genuine stabilization or Trojan horse for benefit erosion.",
+    "vectors": [
+      "entitlement_erosion: Social Security restructuring language",
+      "fiscal_mechanics: solvency framing often masks redistribution vectors",
+      "reconciliation_risk: potential rider vehicle for cuts disguised as modernization"
+    ],
+    "title": "Social Security 2100 Act",
+    "url": "https://www.congress.gov/bill/119th-congress/s-bill/5042"
+  },
+  {
+    "bill_id": "119hr6951",
+    "score": 4,
+    "reason": "Title signals potential entitlement erosion safeguard OR Medicaid estate-recovery carve-out. Without summary text, the 'Unfair Recoveries' framing suggests either consumer protection (low Prowler signal) or a specific exemption protecting high-net-worth beneficiaries from state clawback rules\u2014classic regulatory capture.",
+    "vectors": [
+      "Entitlement erosion mechanics",
+      "Medicaid estate-recovery exemption carve-out",
+      "Potential beneficiary-class protection at state revenue cost"
+    ],
+    "title": "Stop Unfair Medicaid Recoveries Act",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/6951"
+  },
+  {
+    "bill_id": "119hr9831",
+    "score": 4,
+    "reason": "Medicaid-adjacent legislation with high capture risk. Title suggests benefit expansion, but without summary text, likely contains carve-outs, provider-network mandates, or reimbursement floors that funnel public dollars to positioned dental ASOs/DSOs while nominally serving entitlement population.",
+    "vectors": [
+      "entitlement_structure_change",
+      "regulatory_capture_provider_carveout",
+      "fiscal_bleed_via_reimbursement_mandate",
+      "geographic_tell_potential"
+    ],
+    "title": "Medicaid Dental Benefit Act of 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9831"
+  },
+  {
+    "bill_id": "119hr7145",
+    "score": 4,
+    "reason": "Medicaid (Title XIX) statutory redefinition signals potential entitlement erosion vector. 'Essential health system' language without provided summary suggests carve-out risk\u2014could establish regulatory gatekeeping to exclude coverage classes or enable selective disinvestment.",
+    "vectors": [
+      "entitlement_erosion",
+      "regulatory_capture",
+      "statutory_redefinition_exploit"
+    ],
+    "title": "To amend title XIX of the Social Security Act to establish a definition of essential health system in statute and for other related purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/7145"
+  }
+]
