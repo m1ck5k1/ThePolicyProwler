@@ -1,0 +1,40 @@
+[
+  {
+    "bill_id": "119s4173",
+    "score": 4,
+    "reason": "Title signals deficit-reduction theatre but lacks substantive summary\u2014classic setup for hidden fiscal mechanics. 'Dollar-for-dollar' language often masks reconciliation riders, spending redirects, or offset gimmicks that create asymmetric cuts.",
+    "vectors": [
+      "Fiscal bleed: potential debt-limit workaround or TGA flow manipulation via offset language",
+      "Entitlement erosion: reconciliation-adjacent structure common to SNAP/Medicaid cuts buried in deficit-reduction framing",
+      "Regulatory capture: deficit-reduction pretense often shields carve-outs for specific industries"
+    ],
+    "title": "Dollar-for-Dollar Deficit Reduction Act",
+    "url": "https://www.congress.gov/bill/119th-congress/s-bill/4173"
+  },
+  {
+    "bill_id": "119s3462",
+    "score": 4,
+    "reason": "Title signals entitlement restructuring (Prowler priority #4). 'Safeguarding' + 'Expanding' framing typically masks means-testing, COLA reductions, or payroll-tax hikes buried in reconciliation mechanics. Requires kernel audit to distinguish genuine expansion from actuarial shell-game.",
+    "vectors": [
+      "entitlement_erosion: Social Security benefit restructuring or eligibility narrowing",
+      "fiscal_mechanism: potential payroll tax increase or trust-fund raid mechanics",
+      "rhetorical_capture: 'safeguarding' language obscuring benefit-reduction payload",
+      "reconciliation_vector: possible PAYGO offset targeting other safety-net programs"
+    ],
+    "title": "Safeguarding American Families and Expanding Social Security Act of 2025",
+    "url": "https://www.congress.gov/bill/119th-congress/s-bill/3462"
+  },
+  {
+    "bill_id": "119s5231",
+    "score": 4,
+    "reason": "Removes custody-status limitations on federal health benefits (Medicaid, Medicare, CHIP, VA) \u2014 classic regulatory capture vector where carve-outs are eliminated, potentially shifting $B-scale detention/healthcare cost burdens from carceral state to CMS/VHA. Requires audit of fiscal impact modeling and whether this exploits existing entitlement mechanics.",
+    "vectors": [
+      "entitlement_mechanics_expansion",
+      "cost_shift_from_carceral_to_federal_health",
+      "hidden_fiscal_impact_in_custody_definitions",
+      "potential_payment_loop_between_DOJ_CMS_VA"
+    ],
+    "title": "A bill to remove limitations under Medicaid, Medicare, CHIP, and the Department of Veterans Affairs on benefits for persons in custody pending disposition of charges.",
+    "url": "https://www.congress.gov/bill/119th-congress/s-bill/5231"
+  }
+]
