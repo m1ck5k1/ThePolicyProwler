@@ -1,0 +1,40 @@
+[
+  {
+    "bill_id": "119s5243",
+    "score": 5,
+    "reason": "Critical fiscal and regulatory capture signal. Weaponizes SSA enumeration infrastructure to establish accounts using PII collected at birth without explicit consent mechanism\u2014creates automatic opt-out regime (not opt-in), enabling downstream commercial surveillance, financial product enrollment, or debt-instrument linkage. Classic kernel pattern: public health/administrative apparatus becomes merchant of citizen data.",
+    "vectors": [
+      "Regulatory capture: SSA enumeration program repurposed beyond actuarial scope",
+      "Market-access exploit: automatic account creation as forced entry into financial/commercial systems",
+      "PII commercialization: birth-time data weaponized without affirmative consent",
+      "Systemic infrastructure hijack: conflates civil registration with commercial enrollment"
+    ],
+    "title": "A bill to provide for the automatic establishment of Trump accounts using information collected under the Enumeration at Birth Program of the Social Security Administration.",
+    "url": "https://www.congress.gov/bill/119th-congress/s-bill/5243"
+  },
+  {
+    "bill_id": "119sjres203",
+    "score": 4,
+    "reason": "CRA disapproval of OCC preemption rule signals regulatory capture play: blocking federal preemption of state escrow-interest laws likely protects specific state-banking interests or financial service vendors from federal harmonization. The mechanics suggest positioned actors leveraged CRA to reverse a deregulatory move.",
+    "vectors": [
+      "Regulatory capture: CRA weaponized to restore fragmented state rules benefiting incumbents",
+      "Market-access exploit: preemption reversal locks in state-level moats for positioned financial actors",
+      "Banking-sector carve-out: escrow-interest rules affect trust, title, and lending ecology"
+    ],
+    "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Office of the Comptroller of the Currency relating to \"Preemption Determination: State Interest-on-Escrow Laws\".",
+    "url": "https://www.congress.gov/bill/119th-congress/sjres-bill/203"
+  },
+  {
+    "bill_id": "119s5270",
+    "score": 4,
+    "reason": "Title XVIII amendment establishing new Medicare benefit carries high audit risk: undefined scope ('for other purposes'), potential fiscal bleed through open-ended home care mandate, and classic vector for benefit erosion through cost-containment riders embedded in 'other purposes' language.",
+    "vectors": [
+      "Entitlement erosion: undefined benefit scope creates reconciliation-rider vulnerability",
+      "Fiscal bleed: new mandatory benefit without explicit funding mechanism or cost controls",
+      "Legislative obfuscation: 'for other purposes' clause flags probable hidden payload",
+      "Regulatory capture risk: home care market positioning for specific provider classes"
+    ],
+    "title": "A bill to amend title XVIII of the Social Security Act to establish a Medicare home care benefit, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/s-bill/5270"
+  }
+]
