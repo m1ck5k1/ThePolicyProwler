@@ -1,0 +1,53 @@
+[
+  {
+    "bill_id": "119hr8595",
+    "score": 4,
+    "reason": "Omnibus appropriations bill for national security and State Department with explicit multi-year scope (FY2027) and catch-all 'other purposes' language\u2014classic vector for fiscal bleed, emergency supplemental mechanics, and buried riders. Requires kernel audit of actual allocations vs. UI narrative.",
+    "vectors": [
+      "Fiscal bleed: Appropriations bill structure enables deficit expansion and TGA flow redirection",
+      "Catch-all clause: 'other purposes' language historically masks regulatory capture and carve-outs",
+      "Defense/DHS smokescreen: National security framing obscures non-security fiscal payloads",
+      "Rider vulnerability: Multi-year appropriations bills serve as Trojan horses for entitlement erosion and market-access exploits"
+    ],
+    "title": "Making appropriations for national security, Department of State, and related programs for the fiscal year ending September 30, 2027, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8595"
+  },
+  {
+    "bill_id": "119sres832",
+    "score": 4,
+    "reason": "Resolution targeting Social Security trust fund 'fiscal stability' signals entitlement restructuring language; vague process establishment without concrete mechanics suggests cover for benefit-cut reconciliation or payroll tax expansion. Classic Prowler vector: defining 'stability' without constraint.",
+    "vectors": [
+      "entitlement_erosion",
+      "procedural_capture",
+      "deficit_reframing",
+      "trust_fund_mechanics_exploit"
+    ],
+    "title": "A resolution establishing a process to assure the long-term fiscal stability of the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund.",
+    "url": "https://www.congress.gov/bill/119th-congress/sres-bill/832"
+  },
+  {
+    "bill_id": "119s5297",
+    "score": 4,
+    "reason": "Bill targets CMS coverage/reimbursement authorities as tool to protect pharmaceutical ingredient markets\u2014classic regulatory capture vector. 'Protect markets' language suggests carve-out for pharma supply chain actors, potentially pricing isolation or import barriers wrapped in FDA/CMS jurisdiction.",
+    "vectors": [
+      "Regulatory capture: CMS reimbursement used to create/maintain market protection for specific pharma actors",
+      "Market-access exploit: supply-chain control disguised as clinical/safety measure",
+      "Pharma-adjacent lobbying signal: active pharmaceutical ingredients + key starting materials = upstream supply monopoly insulation"
+    ],
+    "title": "A bill to require the Administrator of the Centers for Medicare & Medicaid Services to submit a report regarding the use of coverage and reimbursement authorities to protect the markets for active pharmaceutical ingredients and key staring materials.",
+    "url": "https://www.congress.gov/bill/119th-congress/s-bill/5297"
+  },
+  {
+    "bill_id": "119s5315",
+    "score": 4,
+    "reason": "Tariff architecture with stated deficit-elimination mandate creates high risk for fiscal shell-game mechanics and market-access carve-outs. Lacks specificity on exemption thresholds, sectoral targets, or negotiation guardrails\u2014classic Prowler vector: broad authority language that enables selective enforcement and lobbyist-directed safe harbors.",
+    "vectors": [
+      "fiscal_bleed: tariff revenue accounting gimmicks and TGA reallocation risk under deficit-elimination framing",
+      "regulatory_capture: likely exemption carve-outs for positioned importers, domestic producers, or strategic sectors",
+      "market_access_exploit: tariff selectivity weaponized to force market concessions from foreign competitors or favor domestic incumbents",
+      "geographic_tells: trade-deficit language may mask sector-specific or regional protectionism disguised as macroeconomic policy"
+    ],
+    "title": "A bill to impose additional duties on goods imported into the United States to eliminate the deficit in trade in goods.",
+    "url": "https://www.congress.gov/bill/119th-congress/s-bill/5315"
+  }
+]
