@@ -1,0 +1,64 @@
+[
+  {
+    "bill_id": "119hr6500",
+    "score": 4,
+    "reason": "Continuing appropriations bills are routine vectors for fiscal smuggling and emergency-language exploits. Without summary text, the absence of public detail itself signals potential regulatory capture or TGA redirection buried in technical language.",
+    "vectors": [
+      "Fiscal bleed via continuing resolution mechanics (CR extending previous year baselines without scrutiny)",
+      "Potential defense/DHS smokescreen for supplemental authority",
+      "Likely contains carve-outs and exemptions in technical provisions",
+      "High-risk container for entitlement reconciliation riders"
+    ],
+    "title": "Continuing Appropriations and Extensions Act, 2027",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/6500"
+  },
+  {
+    "bill_id": "119s5377",
+    "score": 4,
+    "reason": "CBA amendment targeting appropriations procedure is classic vector for fiscal mechanics exploitation. 'Certain procedures' + 'other purposes' language signals potential debt-limit games, rescission fast-tracks, or defunding workarounds buried in process rules rather than substance.",
+    "vectors": [
+      "Fiscal bleed: procedural changes to appropriations can enable deficit masking or TGA flow manipulation",
+      "Regulatory capture: rules changes often carve exemptions or create safe harbors for specific spending classes",
+      "Budget mechanics exploit: CBA amendments are traditional vehicle for circumventing fiscal controls (cf. reconciliation expansions)"
+    ],
+    "title": "A bill to amend the Congressional Budget and Impoundment Control Act of 1974 to establish certain procedures for consideration of appropriation bills, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/s-bill/5377"
+  },
+  {
+    "bill_id": "119s5297",
+    "score": 4,
+    "reason": "Bill targets CMS reimbursement authority as a market-protection mechanism for pharma supply chains. 'Coverage and reimbursement authorities' language signals potential regulatory capture\u2014using Medicare pricing power to erect barriers against generic/biosimilar competition or foreign ingredient sourcing. The 'active pharmaceutical ingredients and key starting materials' focus suggests protecting domestic pharma monopoly rents under supply-chain security rhetoric.",
+    "vectors": [
+      "Regulatory capture: CMS authority weaponized to protect specific pharma actors via reimbursement leverage",
+      "Market-access exploit: potential carve-outs disguised as supply-chain resilience",
+      "Fiscal bleed: if report leads to higher Medicare reimbursement rates for protected ingredients"
+    ],
+    "title": "A bill to require the Administrator of the Centers for Medicare & Medicaid Services to submit a report regarding the use of coverage and reimbursement authorities to protect the markets for active pharmaceutical ingredients and key staring materials.",
+    "url": "https://www.congress.gov/bill/119th-congress/s-bill/5297"
+  },
+  {
+    "bill_id": "119s5315",
+    "score": 4,
+    "reason": "Tariff architecture bills are classic regulatory capture vectors\u2014the 'deficit elimination' framing masks sectoral carve-outs and protected-actor exemptions. Requires kernel audit to identify which industries get duty relief and which bear the fiscal load.",
+    "vectors": [
+      "Fiscal bleed: tariff revenue routing and deficit accounting gimmickry",
+      "Regulatory capture: exemption carve-outs for positioned importers/manufacturers",
+      "Market-access exploit: tariff tiering that forecloses competition for protected sectors",
+      "Geographic tells: investigate which states/districts anchor exemption language"
+    ],
+    "title": "A bill to impose additional duties on goods imported into the United States to eliminate the deficit in trade in goods.",
+    "url": "https://www.congress.gov/bill/119th-congress/s-bill/5315"
+  },
+  {
+    "bill_id": "119sres832",
+    "score": 4,
+    "reason": "High-signal entitlement-reform vehicle. Resolution mechanism for OASDI restructuring carries fiscal payload risk\u2014likely contains carve-outs or benefit-cut triggers masked in 'stability' language. Requires audit of proposed trust fund remedies and any exemptions for specific cohorts.",
+    "vectors": [
+      "Entitlement erosion: Social Security benefit cuts or eligibility narrowing hidden in 'fiscal stability' framework",
+      "Regulatory capture: potential safe harbors for private annuity/insurance products positioned as solvency solution",
+      "Fiscal bleed: trust fund accounting tricks or deficit-offset mechanics that expand general fund liability"
+    ],
+    "title": "A resolution establishing a process to assure the long-term fiscal stability of the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund.",
+    "url": "https://www.congress.gov/bill/119th-congress/sres-bill/832"
+  }
+]

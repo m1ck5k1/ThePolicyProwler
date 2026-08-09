@@ -1,0 +1,11 @@
+# HR6500
+**Ingested:** 260809
+**Source:** https://www.congress.gov/119/bills/hr6500/BILLS-119hr6500ih.xml
+
+## Version History
+| File | Version | Date | Notes |
+|---|---|---|---|
+| `introduced.xml` | introduced | 260809 | Auto-ingested |
+
+## Related Audits
+<!-- add audit IDs here after analysis -->
