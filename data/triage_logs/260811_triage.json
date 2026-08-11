@@ -1,0 +1,116 @@
+[
+  {
+    "bill_id": "119hr8007",
+    "score": 5,
+    "reason": "SILVER Act (H.R. 8007) is a known market-access exploit wrapped in systemic risk language, mandating vault requirements that force open controlled precious metals markets for positioned insiders while framing as financial stability measure.",
+    "vectors": [
+      "Market-access exploit: vault mandate carve-out favoring specific commodity traders",
+      "Regulatory capture: systemic risk framing masks industry-specific safe harbor",
+      "Financial infrastructure manipulation: forced market structure change benefiting positioned players"
+    ],
+    "title": "SILVER Act",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8007"
+  },
+  {
+    "bill_id": "119s5243",
+    "score": 5,
+    "reason": "Fiscal bleed + regulatory capture vector: automatic account establishment using SSA enumeration data creates new entitlement/savings vehicle without explicit appropriation mechanism; SSA data repurposing sets precedent for commercial account linkage using government ID infrastructure. Kernel: forced financial product enrollment bundled with birth registration.",
+    "vectors": [
+      "fiscal bleed via automatic account creation mechanism",
+      "regulatory capture: SSA data weaponized for undisclosed financial product",
+      "market-access exploit: captive population (all births) forced into account ecosystem",
+      "infrastructure repurposing: enumeration program data diverted from enumeration to commercial enrollment"
+    ],
+    "title": "A bill to provide for the automatic establishment of Trump accounts using information collected under the Enumeration at Birth Program of the Social Security Administration.",
+    "url": "https://www.congress.gov/bill/119th-congress/s-bill/5243"
+  },
+  {
+    "bill_id": "119hr7145",
+    "score": 4,
+    "reason": "Medicaid (Title XIX) definitional amendment with no summary is high-risk\u2014'essential health system' language historically serves as vector for coverage carve-outs, benefit reductions, or state flexibility clauses that erode entitlement scope. The vague 'related purposes' clause flags potential reconciliation-style rider mechanics.",
+    "vectors": [
+      "entitlement_erosion: Medicaid benefit redefinition without transparency on scope constraints",
+      "regulatory_capture: 'essential health system' definition likely creates safe harbor for managed care or state plan exemptions",
+      "hidden_payload: 'related purposes' suggests bundled fiscal or eligibility riders"
+    ],
+    "title": "To amend title XIX of the Social Security Act to establish a definition of essential health system in statute and for other related purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/7145"
+  },
+  {
+    "bill_id": "119hr8375",
+    "score": 4,
+    "reason": "Medicare Advantage represents a $300B+ annual regulatory capture zone where private insurers extract margin through network steering, prior auth friction, and supplemental benefits arbitrage. Title signals structural reform potential\u2014likely contains carve-outs, safe harbors, or payment methodologies that entrench incumbent MA operators against traditional Medicare competition.",
+    "vectors": [
+      "regulatory_capture: MA insurers' exemption from network adequacy enforcement",
+      "fiscal_bleed: Star ratings bonus pools and risk-adjustment gaming",
+      "market_access_exploit: supplemental benefits bundling that locks seniors into private plans",
+      "entitlement_erosion: potential traditional Medicare beneficiary migration pressure"
+    ],
+    "title": "Medicare Advantage Improvement Act of 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8375"
+  },
+  {
+    "bill_id": "119hr10078",
+    "score": 4,
+    "reason": "Debt-limit mechanics exploit wrapped in fiscal discipline framing. Creates procedural bottleneck that can be weaponized to force cuts to specific entitlements or mandatory spending while protecting defense/interest payments\u2014classic capture pattern.",
+    "vectors": [
+      "fiscal bleed: debt-limit proceduralism",
+      "entitlement erosion: spending-cut mandate likely targets mandatory programs",
+      "regulatory capture: creates protected carve-outs for debt-service and defense spending"
+    ],
+    "title": "To require that any debt limit increase or suspension be balanced by equal spending cuts over the next decade.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/10078"
+  },
+  {
+    "bill_id": "119hr10075",
+    "score": 4,
+    "reason": "Volume cap exemption for qualified mortgage bonds is a classic regulatory capture vector\u2014carves out preferred debt instrument class from aggregate state issuance limits, creating preferential access for positioned mortgage finance actors while shifting fiscal load onto general cap-constrained issuers. 'And for other purposes' language signals rider payload requiring full kernel audit.",
+    "vectors": [
+      "regulatory_capture: exemption from volume cap creates privileged class for mortgage bond issuers",
+      "fiscal_bleed: exemption expands tax-advantaged debt supply without corresponding revenue offset",
+      "market_access_exploit: preferential treatment for specific debt instrument shifts competitive advantage",
+      "undefined_scope: 'and for other purposes' indicates additional provisions requiring full bill text review"
+    ],
+    "title": "To amend the Internal Revenue Code of 1986 to exempt qualified mortgage bonds from the volume cap, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/10075"
+  },
+  {
+    "bill_id": "119sres832",
+    "score": 4,
+    "reason": "Resolution addresses OASDI trust fund solvency through undefined 'process'\u2014classic setup for entitlement erosion rider language. 'Long-term fiscal stability' is regulatory capture code for benefit cuts, payroll tax increases on labor (vs. capital), or age-creep without explicit legislative accountability.",
+    "vectors": [
+      "entitlement_erosion: OASDI benefit/eligibility changes hidden in process-establishment language",
+      "fiscal_misdirection: 'stability' framing obscures distributional consequences across income cohorts",
+      "regulatory_capture: undefined process likely pre-negotiated with actuarial/financial sector actors",
+      "hidden_vector: potential carve-out for high-earners or capital-income exemptions in payroll tax base"
+    ],
+    "title": "A resolution establishing a process to assure the long-term fiscal stability of the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund.",
+    "url": "https://www.congress.gov/bill/119th-congress/sres-bill/832"
+  },
+  {
+    "bill_id": "119hr6500",
+    "score": 4,
+    "reason": "Continuing resolution for fiscal 2027 is standard vector for fiscal-bleed and smokescreening. Without summary text, the kernel is opaque\u2014but CR mechanics themselves enable regulatory capture via rider attachment and emergency-funding laundering. Requires full audit of attached riders and account transfers.",
+    "vectors": [
+      "Fiscal bleed: CR structure enables indefinite deficit spending without reauthorization",
+      "Smokescreen potential: CRs historically used to embed unrelated appropriations and carve-outs",
+      "Rider attachment risk: regulatory capture exploits embedded in must-pass legislation",
+      "Account transfer vectors: TGA flow manipulation via continuing authority"
+    ],
+    "title": "Continuing Appropriations and Extensions Act, 2027",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/6500"
+  },
+  {
+    "bill_id": "119hr8595",
+    "score": 4,
+    "reason": "Omnibus national security/State appropriations bill for FY2027 \u2014 high-risk vector for defense/DHS smokescreens, fiscal redirection mechanisms, and embedded carve-outs. 'And for other purposes' language signals potential rider contamination.",
+    "vectors": [
+      "Defense/DHS smokescreen potential \u2014 emergency or supplemental framing masking fiscal commitments",
+      "Omnibus structure enables regulatory capture riders and market-access exploits buried in appropriations language",
+      "TGA redirection mechanics \u2014 State Department programs frequently contain foreign aid conduits and contractor set-asides",
+      "Deficit mechanics \u2014 multi-year appropriations can game debt-limit timing and CBO scoring"
+    ],
+    "title": "Making appropriations for national security, Department of State, and related programs for the fiscal year ending September 30, 2027, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8595"
+  }
+]
