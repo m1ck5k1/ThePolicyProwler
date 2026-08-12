@@ -1,0 +1,79 @@
+[
+  {
+    "bill_id": "119hr6500",
+    "score": 5,
+    "reason": "Continuing appropriations bills are Prowler critical vectors: they routinely embed policy riders, suspend statutory requirements, extend emergency authorities, and obscure fiscal redirects inside procedural convenience language. Without summary, the lack of transparency itself is the signal.",
+    "vectors": [
+      "Fiscal bleed: CR extensions routinely expand deficits by locking in prior-year baselines while circumventing budget reconciliation",
+      "Regulatory capture: CRs enable agencies to suspend enforcement and carve out specific sectors from compliance",
+      "Defense/DHS smokescreens: emergency extensions buried in appropriations riders",
+      "Procedural opacity: 'Extensions Act' language masks policy riders and debt-limit mechanics"
+    ],
+    "title": "Continuing Appropriations and Extensions Act, 2027",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/6500"
+  },
+  {
+    "bill_id": "119hr8007",
+    "score": 5,
+    "reason": "SILVER Act (H.R. 8007) is a canonical Prowler case study: vault-mandate language wrapped in systemic risk framing creates forced market-access for positioned precious-metals dealers while obscuring fiscal/regulatory capture mechanics. Immediate full audit required.",
+    "vectors": [
+      "Market-access exploit: mandatory vault operations create artificial demand/carve-out for specific commercial actors",
+      "Regulatory capture: systemic risk language used to justify exemptions from existing oversight frameworks",
+      "Fiscal bleed: potential TGA/reserve flow redirection through forced custody mandates",
+      "Lobbyist-ROI pattern: benefits narrowly concentrated industry segment while distributing costs across systemic risk surface"
+    ],
+    "title": "SILVER Act",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8007"
+  },
+  {
+    "bill_id": "119sjres12",
+    "score": 4,
+    "reason": "CRA targeting EPA waste emissions charge creates regulatory capture vector\u2014exemptions and netting provisions suggest carve-outs for positioned oil/gas operators. Disapproval kills compliance friction on high-revenue extraction activity, classic market-access exploit wrapped in procedural language.",
+    "vectors": [
+      "Regulatory capture: exemptions and netting procedures designed to reduce compliance burden for specific industry actors",
+      "Market-access exploit: CRA disapproval removes friction on extraction economics, protecting incumbent operators from new charge regime",
+      "Fossil fuel industry ROI: procedural rollback preserves extraction profitability by eliminating or weakening emissions accountability mechanism"
+    ],
+    "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"Waste Emissions Charge for Petroleum and Natural Gas Systems: Procedures for Facilitating Compliance, Including Netting and Exemptions\".",
+    "url": "https://www.congress.gov/bill/119th-congress/sjres-bill/12"
+  },
+  {
+    "bill_id": "119hr10075",
+    "score": 4,
+    "reason": "Exempting qualified mortgage bonds from volume caps is a classic regulatory carve-out that expands tax-advantaged debt issuance for positioned financial actors while appearing to serve housing policy. The 'and for other purposes' language signals likely riders worth auditing.",
+    "vectors": [
+      "regulatory_capture: volume cap exemption concentrates tax subsidy flow to specific bond issuers",
+      "fiscal_bleed: exemption expands forgone federal revenue without corresponding offset",
+      "market_access_exploit: carve-out advantages pre-positioned financial institutions in mortgage bond markets",
+      "vague_scope: 'for other purposes' suggests hidden payload riders"
+    ],
+    "title": "To amend the Internal Revenue Code of 1986 to exempt qualified mortgage bonds from the volume cap, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/10075"
+  },
+  {
+    "bill_id": "119hr10078",
+    "score": 4,
+    "reason": "High-signal fiscal mechanics bill. Debt-limit suspension paired with mandatory offset language creates a procedural wedge for either sequestration-style across-the-board cuts (hitting vulnerable programs) or targeted carve-outs that exempt defense/favored constituencies. Classic capture vehicle masked as fiscal discipline.",
+    "vectors": [
+      "debt-limit procedural manipulation",
+      "hidden entitlement targeting via mandatory offset mechanism",
+      "defense/DHS carve-out risk (exemptions buried in implementation)",
+      "deficit-reduction theater masking selective program elimination"
+    ],
+    "title": "To require that any debt limit increase or suspension be balanced by equal spending cuts over the next decade.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/10078"
+  },
+  {
+    "bill_id": "119hr8375",
+    "score": 4,
+    "reason": "Medicare Advantage legislation signals potential regulatory capture: MA plans operate under negotiated carve-outs from traditional Medicare payment rules. 'Improvement' framing typically masks benefit restrictions, network narrowing, or payment floor adjustments that externalize cost to beneficiaries while protecting insurer margins.",
+    "vectors": [
+      "Regulatory capture: MA plans lobby for payment stability guarantees and exemptions from traditional Medicare oversight",
+      "Fiscal bleed: potential beneficiary cost-shifting disguised as 'efficiency' language",
+      "Entitlement erosion: hidden SNAP/Medicaid intersection if dual-eligible populations affected",
+      "Market-access exploit: bill may entrench MA oligopoly by raising barriers to competing traditional Medicare enrollment"
+    ],
+    "title": "Medicare Advantage Improvement Act of 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8375"
+  }
+]
