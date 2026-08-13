@@ -1,0 +1,16 @@
+[
+  {
+    "bill_id": "119hr6500",
+    "score": 5,
+    "reason": "Continuing resolution for fiscal 2027 is high-probability vector for fiscal bleed, rider smuggling, and emergency-authority expansion. CR mechanisms are standard exploit channels for regulatory capture and entitlement erosion buried in must-pass language.",
+    "vectors": [
+      "Fiscal bleed via CR extensions and debt-limit mechanic gaming",
+      "Rider smuggling risk: entitlement cuts, regulatory carve-outs embedded in must-pass appropriations",
+      "Emergency-authority expansion hiding in suspension clauses",
+      "Defense/DHS supplemental obscuration potential",
+      "TGA flow redirection through extension provisions"
+    ],
+    "title": "Continuing Appropriations and Extensions Act, 2027",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/6500"
+  }
+]
