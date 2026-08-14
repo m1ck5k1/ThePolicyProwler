@@ -1,0 +1,79 @@
+[
+  {
+    "bill_id": "119hr6500",
+    "score": 5,
+    "reason": "Continuing Appropriations acts are canonical fiscal-bleed vectors: they lock spending at prior-year baselines, obscure new carve-outs via rider attachment, and bypass normal budget scrutiny. 2027 CA timing suggests debt-limit mechanics and emergency-funding bundling. Requires immediate kernel audit for hidden TGA redirects, exemptions, and supplemental payloads.",
+    "vectors": [
+      "fiscal_bleed: continuing appropriations lock spending without line-item debate",
+      "regulatory_capture: CAs historically carry exemption riders for positioned actors",
+      "budget_mechanics: potential debt-limit reset or TGA flow games embedded in extension language",
+      "smokesreen_risk: emergency or supplemental riders obscured in routine CA structure"
+    ],
+    "title": "Continuing Appropriations and Extensions Act, 2027",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/6500"
+  },
+  {
+    "bill_id": "119hr10102",
+    "score": 4,
+    "reason": "High-value Prowler signal: excise tax on data center electricity is a fiscal mechanism ripe for regulatory capture and industry carve-outs. The lack of summary suggests hidden exemptions or safe harbors for positioned players (e.g., in-house vs. third-party operators, regional grandfathering, or tech-giant preferencing).",
+    "vectors": [
+      "Regulatory capture: likely exemptions for specific data center classes, cloud providers, or geographic zones that reduce effective tax burden on incumbents",
+      "Fiscal mechanism design: excise tax structure could be gamed via definitional carve-outs or Treasury guidance leverage",
+      "Market-access exploit: tax targeting may reshape competitive surface between regulated utilities and tech-sector self-supply",
+      "Revenue artifice: bill framing may obscure TGA flow redirection or deficit-neutral scoring tricks"
+    ],
+    "title": "To amend the Internal Revenue Code of 1986 to establish the data center electricity excise tax.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/10102"
+  },
+  {
+    "bill_id": "119hr8375",
+    "score": 4,
+    "reason": "Medicare Advantage represents a $300B+ annual market controlled by UnitedHealth, Humana, CVS/Aetna\u2014regulatory capture vector on health insurance carve-outs. Title signals modernization language likely masking benefit cuts, network narrowing, or prior-auth expansion that shifts risk to enrollees while protecting MA insurer margins.",
+    "vectors": [
+      "regulatory_capture: MA insurers lobbying for exemptions from rate-setting or utilization review",
+      "entitlement_erosion: benefit redesign hidden in 'improvement' framing; cost-shifting to beneficiaries",
+      "fiscal_bleed: CMS payment mechanics exploited via risk-adjustment or bonus-payment riders",
+      "market_access_exploit: enforcement relief for MA operators or preferred-network lock-in"
+    ],
+    "title": "Medicare Advantage Improvement Act of 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8375"
+  },
+  {
+    "bill_id": "119hr8595",
+    "score": 4,
+    "reason": "Defense/DHS supplemental appropriations vehicle with opaque 'and for other purposes' language masking potential fiscal bleed and non-defense rider insertion. Multi-year appropriation (FY2027) creates budget authority diffusion risk.",
+    "vectors": [
+      "Emergency supplemental mechanics: 'and for other purposes' clause enables unrelated fiscal payloads",
+      "Multi-year appropriation structure obscures annual accountability",
+      "National security framing enables regulatory capture and market-access carve-outs",
+      "State Department funding can contain foreign aid earmarks and contractor safe harbors"
+    ],
+    "title": "Making appropriations for national security, Department of State, and related programs for the fiscal year ending September 30, 2027, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8595"
+  },
+  {
+    "bill_id": "119hr9770",
+    "score": 4,
+    "reason": "Continuing Appropriations Acts are high-risk vectors for fiscal bleed and emergency-authority scope creep. Without substantive summary, title-only assessment flags: (1) likely contains riders obscuring true spending vectors, (2) potential debt-limit mechanics or TGA workarounds embedded in continuing resolution language, (3) classic smokescreen for regulatory captures bundled into must-pass legislation.",
+    "vectors": [
+      "fiscal_bleed_via_CR_riders",
+      "debt_limit_mechanics_exploit",
+      "regulatory_capture_bundling",
+      "emergency_authority_scope_creep"
+    ],
+    "title": "Continuing Appropriations Act, 2027",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9770"
+  },
+  {
+    "bill_id": "119hr10078",
+    "score": 4,
+    "reason": "Title signals deficit-reduction theatre, but lacks summary detail. 'Dollar-for-Dollar' mechanics often encode spend-cut offsets that protect preferred constituencies while targeting entitlements or discretionary programs\u2014classic reconciliation camouflage. Requires kernel inspection.",
+    "vectors": [
+      "Fiscal bleed: offset mechanics that may preserve tax expenditures while cutting direct spending",
+      "Entitlement erosion: reconciliation-friendly language masking SNAP, Medicaid, or Social Security rider potential",
+      "Geographic tells: 'deficit reduction' bills often front-load savings from programs serving specific regional/demographic populations"
+    ],
+    "title": "Dollar-for-Dollar Deficit Reduction Act",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/10078"
+  }
+]
