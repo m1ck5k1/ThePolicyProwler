@@ -1,0 +1,53 @@
+[
+  {
+    "bill_id": "119hr7147",
+    "score": 4,
+    "reason": "Continuing appropriation instrument with DHS scope creates opacity vector for fiscal maneuvering and potential emergency supplemental mechanics. 'Further Additional' language suggests layered funding outside standard reconciliation, enabling regulatory capture and budget-line obfuscation.",
+    "vectors": [
+      "Defense/DHS smokescreens: emergency supplementals that obscure fiscal damage",
+      "Fiscal bleed: potential deficit expansion through continuing resolution stacking",
+      "Regulatory capture: DHS carve-outs and exemptions likely embedded in appropriations riders"
+    ],
+    "title": "Homeland Security and Further Additional Continuing Appropriations Act, 2026.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/7147"
+  },
+  {
+    "bill_id": "119hr7744",
+    "score": 4,
+    "reason": "DHS appropriations bills are historically used as vehicles for emergency supplementals, carve-outs, and regulatory capture (cf. CBP tech vendor lock-ins, ICE detention bed mandates). No summary provided\u2014high risk signal for hidden riders.",
+    "vectors": [
+      "Defense/DHS smokescreen potential",
+      "Fiscal bleed through emergency supplemental mechanics",
+      "Regulatory capture via CBP/ICE vendor exemptions",
+      "Entanglement with detention industrial complex ROI protection"
+    ],
+    "title": "Department of Homeland Security Appropriations Act, 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/7744"
+  },
+  {
+    "bill_id": "119hr4213",
+    "score": 4,
+    "reason": "DHS appropriations bills are structural vectors for emergency-spend escalation and agency mission creep. Without summary, high uncertainty, but DHS acts historically embed surveillance/border tech carve-outs, vendor lock-in, and supplemental-spend pathways that bypass normal discretionary caps.",
+    "vectors": [
+      "Defense/DHS smokescreens: emergency supplemental structures or discretionary-to-mandatory spend reclassification",
+      "Fiscal bleed: appropriations vehicles often contain carry-forward mechanisms, indefinite authorizations, or debt-limit workarounds",
+      "Regulatory capture: DHS tends to embed contractor safe harbors and technology exemptions",
+      "Agency mission creep: expanding scope language that justifies future supplementals"
+    ],
+    "title": "Department of Homeland Security Appropriations Act, 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/4213"
+  },
+  {
+    "bill_id": "119hr8375",
+    "score": 4,
+    "reason": "Medicare Advantage (MA) is a privatization vector with recurring regulatory capture signals. Bill title suggests MA expansion or exemption carve-outs without provided summary text\u2014classic obfuscation pattern. Likely contains payment floor guarantees, rebate-sharing loopholes, or star-rating gaming mechanics that redirect CMS funds to insurers while eroding traditional Medicare risk pools.",
+    "vectors": [
+      "Regulatory capture: MA insurers securing exemptions from utilization review or network adequacy standards",
+      "Fiscal bleed: Payment methodology changes that accelerate MA benchmark growth beyond FFS costs",
+      "Entitlement erosion: Indirect pressure on traditional Medicare solvency via MA preferencing",
+      "Market-access exploit: Forced integration of supplemental services (dental, vision) to lock beneficiaries into MA ecosystem"
+    ],
+    "title": "Medicare Advantage Improvement Act of 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8375"
+  }
+]
