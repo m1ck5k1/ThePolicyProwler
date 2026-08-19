@@ -1,0 +1,66 @@
+[
+  {
+    "bill_id": "119s5243",
+    "score": 5,
+    "reason": "Critical fiscal infrastructure exploit. Weaponizes SSA enumeration data to auto-enroll newborns into named accounts (likely Treasury Direct or custodial instruments), creating mass financial enrollment without consent\u2014pure regulatory capture dressed as administrative convenience. Classic kernel-UI split: UI is 'account automation,' kernel is forced market access for Treasury/financial intermediaries + SSA data-sharing precedent.",
+    "vectors": [
+      "Fiscal bleed: automated enrollment mechanics could reshape Treasury Direct positioning or create new debt-instrument distribution channel",
+      "Regulatory capture: SSA data-sharing carve-out + auto-enrollment safe harbor protects financial intermediaries from consent/privacy friction",
+      "Market-access exploit: forces newborn/parent cohorts into named account ecosystem, locking in user base for Treasury or designated custodians",
+      "Data architecture: establishes SSA enumeration-to-financial-enrollment pipeline\u2014precedent for future mandatory linkage"
+    ],
+    "title": "A bill to provide for the automatic establishment of Trump accounts using information collected under the Enumeration at Birth Program of the Social Security Administration.",
+    "url": "https://www.congress.gov/bill/119th-congress/s-bill/5243"
+  },
+  {
+    "bill_id": "119sres832",
+    "score": 4,
+    "reason": "High-priority Prowler lens: entitlement restructuring wrapped in 'fiscal stability' framing. Process resolution signals institutional move toward OASI/DI benefit cuts or payroll tax expansion; the abstraction ('process to assure') obscures the actual payload. Classic regulatory capture vector\u2014establishes procedural authority that insulates negotiation from public scrutiny.",
+    "vectors": [
+      "entitlement_erosion: Social Security benefit architecture under institutional reform process",
+      "procedural_capture: resolution establishes opaque trust-fund negotiation mechanism",
+      "fiscal_reframing: 'stability' language masks benefit cuts or regressive tax mechanics",
+      "stakeholder_exclusion: process design likely privileges actuarial/finance actors over beneficiary voice"
+    ],
+    "title": "A resolution establishing a process to assure the long-term fiscal stability of the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund.",
+    "url": "https://www.congress.gov/bill/119th-congress/sres-bill/832"
+  },
+  {
+    "bill_id": "119s5250",
+    "score": 4,
+    "reason": "Home health represents a $36B+ annual Medicare spend with historically opaque payment mechanics and high fraud vulnerability. 'Payment Integrity' framing often masks carve-outs for incumbent providers or introduces gating mechanisms that create barrier-to-entry for competitors. Requires kernel inspection.",
+    "vectors": [
+      "regulatory_capture",
+      "entitlement_erosion",
+      "market_access_exploit",
+      "fiscal_misdirection"
+    ],
+    "title": "Medicare Home Health Payment Integrity and Protection Act of 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/s-bill/5250"
+  },
+  {
+    "bill_id": "119hr9770",
+    "score": 4,
+    "reason": "Continuing resolution signals fiscal mechanics exploit opportunity. CR language typically embeds riders, carve-outs, and delay-and-repackage tactics that obscure true appropriations vectors. Without summary text, the CR structure itself\u2014forcing recurring votes, enabling last-minute poison pills, and deferring budget reconciliation\u2014warrants targeted kernel audit.",
+    "vectors": [
+      "Fiscal bleed via CR extension mechanics and debt-limit gamesmanship",
+      "Potential hidden riders and regulatory carve-outs bundled in must-pass legislation",
+      "Reconciliation defer tactics that obscure entitlement or defense supplemental payloads"
+    ],
+    "title": "Continuing Appropriations Act, 2027",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9770"
+  },
+  {
+    "bill_id": "119hr6500",
+    "score": 4,
+    "reason": "Continuing resolution mechanics are high-risk for hidden fiscal vectors\u2014CR language routinely embeds policy riders, exemptions, and spending redirects that bypass normal appropriations scrutiny. Without summary text, the title alone triggers Prowler protocol: CRs are structural vehicles for regulatory capture and fiscal damage.",
+    "vectors": [
+      "Fiscal bleed via CR riders\u2014policy provisions that would fail standalone audit",
+      "Regulatory capture\u2014exemptions/carve-outs commonly buried in CR language",
+      "Debt-limit gaming\u2014CRs used to obscure ceiling mechanics and TGA flows",
+      "Defense/DHS smokescreens\u2014emergency or extended authority claims in appropriations vehicles"
+    ],
+    "title": "Continuing Appropriations and Extensions Act, 2027",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/6500"
+  }
+]
