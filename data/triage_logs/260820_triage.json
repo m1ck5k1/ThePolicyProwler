@@ -1,0 +1,26 @@
+[
+  {
+    "bill_id": "119s4173",
+    "score": 5,
+    "reason": "Title signals debt-limit mechanics exploitation and potential fiscal gimmickry. 'Dollar-for-Dollar' language typically masks accounting shells, revenue-side exemptions, or TGA flow redirection masquerading as deficit reduction\u2014classic Prowler-lens fiscal bleed vector.",
+    "vectors": [
+      "fiscal bleed: debt-limit mechanics and accounting frameworks",
+      "regulatory capture: potential exemptions hidden in deficit-reduction language",
+      "entitlement erosion: reconciliation-style cuts likely buried in offset provisions"
+    ],
+    "title": "Dollar-for-Dollar Deficit Reduction Act",
+    "url": "https://www.congress.gov/bill/119th-congress/s-bill/4173"
+  },
+  {
+    "bill_id": "119hr10078",
+    "score": 4,
+    "reason": "Title signals deficit-reduction theater, but lacks substantive summary\u2014classic cover for hidden fiscal mechanics. 'Dollar-for-dollar' language often masks reconciliation riders, spending redirects, or offset gimmicks that create backdoor revenue plays.",
+    "vectors": [
+      "fiscal_gimmick: 'dollar-for-dollar' deficit language typically obscures offset mechanics, TGA flows, or pay-for shuffling",
+      "reconciliation_risk: deficit-reduction bills frequently carry entitlement erosion riders (SNAP, Medicaid, CHIP cuts)",
+      "missing_summary: absence of provided summary heightens Prowler red flag\u2014suggests controversial payload"
+    ],
+    "title": "Dollar-for-Dollar Deficit Reduction Act",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/10078"
+  }
+]
