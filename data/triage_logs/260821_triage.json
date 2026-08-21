@@ -1,0 +1,80 @@
+[
+  {
+    "bill_id": "119hres1438",
+    "score": 4,
+    "reason": "Rules Committee resolution bundling six distinct bills including massive defense authorization (H.R. 8800), Social Security disability pilot reauth (H.R. 8884), 10-year budget resolution (H.Con.Res.113), banking law amendments (H.R. 6955), and continuing appropriations (H.R. 9770). Classic omnibus compression tactic obscuring individual bill kernels; Social Security reauth + banking amendments + 10-year budget resolution signals entitlement-erosion and regulatory-capture vectors worth forensic decomposition.",
+    "vectors": [
+      "Omnibus bundling: six disparate bills in single Rules consideration = reduced amendment opportunity, compressed debate cycle",
+      "Entitlement signal: Social Security disability reauth language ('demonstration authority') may embed eligibility restrictions or cost-shift mechanics",
+      "Banking carve-out: H.R. 6955 'improvements' undefined in summary; typical capture language",
+      "10-year budget resolution: H.Con.Res.113 likely contains reconciliation pathway for future entitlement cuts or revenue-preference asymmetries",
+      "Defense + appropriations coupling: H.R. 8800 + H.R. 9770 continuing resolution = fiscal-year-end lockup preventing line-item scrutiny"
+    ],
+    "title": "Providing for consideration of the bill (H.R. 8800) to authorize appropriations for fiscal year 2027 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes; providing for consideration of the bill (H.R. 8884) to amend title II of the Social Security Act to reauthorize demonstration authority for the disability insurance program; providing for consideration of the concurrent resolution (H. Con. Res. 113) establishing the congressional budget for the United States Government for fiscal year 2027 and setting forth the appropriate budgetary levels for fiscal years 2028 through 2036; providing for consideration of the bill (H.R. 7008) to amend chapter 131 of title 5 to require certain restrictions on stocks for Members of Congress and their spouses and dependents, and for other purposes; providing for consideration of the bill (H.R. 6955) to make improvements to the Federal banking laws, and for other purposes; providing for consideration of the bill (H.R. 9770) making continuing appropriations for fiscal year 2027, and for other purposes; and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/1438"
+  },
+  {
+    "bill_id": "119hr9770",
+    "score": 4,
+    "reason": "Continuing appropriations are structural fiscal vehicles that frequently embed regulatory captures, carve-outs, and market-access exploits in rider language. Without summary text, the title alone signals high-priority audit territory\u2014CRs are known Prowler exploit vectors for hidden payload deployment.",
+    "vectors": [
+      "Fiscal bleed: CR mechanics obscure deficit impact and TGA flow redirects",
+      "Rider payload risk: historical CR pattern of embedding carve-outs and exemptions",
+      "Regulatory capture: likely contains agency-specific safe harbors or market-access language",
+      "Defense/DHS smokescreens: CRs frequently used for supplemental-style fiscal masking"
+    ],
+    "title": "Continuing Appropriations Act, 2027",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9770"
+  },
+  {
+    "bill_id": "119hr8595",
+    "score": 4,
+    "reason": "Defense/national security appropriations bill with undefined scope ('and for other purposes') creates high-probability vector for fiscal bleed and emergency supplemental mechanics. Lack of summary is itself a Prowler signal\u2014suggests complex rider landscape.",
+    "vectors": [
+      "Defense/DHS smokescreen: appropriations language structurally opaque",
+      "Fiscal bleed: 'for other purposes' clause enables off-budget creep",
+      "Entitlement erosion risk: reconciliation-adjacent timing (FY2027) may carry hidden cuts",
+      "Regulatory capture: State Dept carve-outs for contractor access likely"
+    ],
+    "title": "Making appropriations for national security, Department of State, and related programs for the fiscal year ending September 30, 2027, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8595"
+  },
+  {
+    "bill_id": "119hres1423",
+    "score": 4,
+    "reason": "This rule bundles four disparate bills including a $1.5T+ national-security appropriation (H.R. 8595) with policy riders (daylight savings, veteran benefits, firearms MCC restrictions). Classic smokescreen pattern: fiscal damage obscured by unrelated legislative payloads and procedural fast-track via rule.",
+    "vectors": [
+      "Defense/DHS smokescreen: FY2027 national-security appropriation bundled with non-fiscal riders to suppress line-item scrutiny",
+      "Procedural capture: rule mechanism bypasses committee review of linked bills, enabling collateral damage to escape audit",
+      "Market-access exploit (H.R. 1181): MCC restriction limits payment-network's ability to flag firearms retailers\u2014creates regulatory carve-out for specific merchant class",
+      "Fiscal opacity: appropriate magnitude (national-security spending) paired with low-salience policy riders (DST, veteran admin) to reduce stakeholder resistance"
+    ],
+    "title": "Providing for consideration of the bill (H.R. 139) to make daylight savings time permanent, and for other purposes; providing for consideration of the bill (H.R. 8595) making appropriations for national security, Department of State, and related programs for the fiscal year ending September 30, 2027, and for other purposes; providing for consideration of the bill (H.R. 9237) to amend titles 10 and 38, United States Code, and other Federal laws, to improve benefits for veterans and the administration of the Department of Veterans Affairs; providing for consideration of the bill (H.R. 1181) to prohibit payment card networks and covered entities from requiring the use of or assigning merchant category codes that distinguish a firearms retailer from general-merchandise retailer or sporting-goods retailer, and for other purposes; and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/1423"
+  },
+  {
+    "bill_id": "119hres1398",
+    "score": 4,
+    "reason": "Rules committee packaging multiple high-exposure bills in single procedural vehicle: defense appropriations (H.R. 8800), State/NSC appropriations (H.R. 8595), and Social Security disability reauth (H.R. 8884). Classic smokescreen bundling that obscures entitlement mechanics and defense fiscal flows. The Social Security rider buried in procedural rule is the tell.",
+    "vectors": [
+      "Defense/DHS smokescreen: emergency-class appropriations bundled with non-defense fiscal measures",
+      "Entitlement erosion: Social Security disability reauth rider obfuscated in rules resolution",
+      "Fiscal bleed: multi-bill appropriations vehicle prevents granular audit of individual payment flows",
+      "Procedural capture: rules committee structuring debate to prevent amendment/isolation of disability program changes"
+    ],
+    "title": "Providing for consideration of the bill (H.R. 8800) to authorize appropriations for fiscal year 2027 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes; providing for consideration of the bill (H.R. 8595) making appropriations for national security, Department of State, and related programs for the fiscal year ending September 30, 2027, and for other purposes; providing for consideration of the bill (H.R. 8884) to amend title II of the Social Security Act to reauthorize demonstration authority for the disability insurance program; providing for consideration of the resolution (H. Res. 1383) commemorating the one-year anniversary of the enactment of the Working Families Tax Cuts; and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/1398"
+  },
+  {
+    "bill_id": "119hres1377",
+    "score": 4,
+    "reason": "H.R. 1377 is a procedural rule bundling four distinct bills, two of which trigger Prowler alerts: H.R. 1181 (firearms merchant code prohibition) represents regulatory capture masquerading as anti-discrimination, while H.R. 9022 and H.R. 9027 are defense/DHS appropriations vehicles where fiscal damage often hides in riders and carve-outs. Bundling obscures individual bill scrutiny.",
+    "vectors": [
+      "Regulatory capture: H.R. 1181 forces payment networks to eliminate merchant category specificity for firearms retailers\u2014this neutralizes anti-laundering/risk-assessment infrastructure under guise of commerce equity, benefiting positioned industry actors",
+      "Defense smokescreen: H.R. 9022 (energy/water) and H.R. 8595 (national security) are appropriations bills where fiscal bleed, DHS carve-outs, and emergency-powers language historically embed unexposed cost shifts",
+      "Procedural bundling: Rule package prevents granular vote accountability\u2014flags typical Prowler pattern of obscuring individual bill damage via omnibus packaging"
+    ],
+    "title": "Providing for consideration of the bill (H.R. 1181) to prohibit payment card networks and covered entities from requiring the use of or assigning merchant category codes that distinguish a firearms retailer from general-merchandise retailer or sporting-goods retailer, and for other purposes; providing for consideration of the bill (H.R. 9022) making appropriations for energy and water development and related agencies for the fiscal year ending September 30, 2027, and for other purposes; providing for consideration of the bill (H.R. 8595) making appropriations for national security, Department of State, and related programs for the fiscal year ending September 30, 2027, and for other purposes; and providing for consideration of the bill (H.R. 9237) to amend titles 10 and 38, United States Code, and other Federal laws, to improve benefits for veterans and the administration of the Department of Veterans Affairs.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/1377"
+  }
+]
