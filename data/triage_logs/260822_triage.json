@@ -1,0 +1,14 @@
+[
+  {
+    "bill_id": "119hr8380",
+    "score": 4,
+    "reason": "Procedural amendment to 1974 Budget Act is classic capture vector: appears routine but procedural changes to appropriations flow can redirect fiscal discipline mechanisms, create carve-outs, or enable fast-track spending without standard veto/reconciliation friction. Title's 'and for other purposes' is red flag for hidden riders.",
+    "vectors": [
+      "Fiscal bleed: procedural manipulation of Congressional Budget Act can weaken deficit controls or enable TGA flow redirection",
+      "Regulatory capture: 'certain procedures' language suggests selective exemptions from spending scrutiny for targeted actors",
+      "Entitlement erosion: procedural changes often precursor to reconciliation rule manipulation that enables cuts to mandatory spending"
+    ],
+    "title": "To amend the Congressional Budget and Impoundment Control Act of 1974 to establish certain procedures for consideration of annual appropriation bills, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8380"
+  }
+]
