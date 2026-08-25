@@ -1,0 +1,26 @@
+[
+  {
+    "bill_id": "119s5315",
+    "score": 4,
+    "reason": "Trade policy bills frequently contain market-access exploits disguised as deficit-reduction mechanics. Without summary text, the title's deficit-elimination framing suggests potential tariff carve-outs, industry-specific safe harbors, or preferential treatment for positioned actors buried in implementation language.",
+    "vectors": [
+      "market-access exploits",
+      "regulatory capture via tariff/exemption mechanics",
+      "fiscal bleed through trade revenue redirection"
+    ],
+    "title": "Trade Deficit Elimination Act of 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/s-bill/5315"
+  },
+  {
+    "bill_id": "119hr10078",
+    "score": 4,
+    "reason": "Title signals fiscal mechanism engineering\u2014'dollar-for-dollar' deficit language often masks asymmetric cuts or accounting gimmicks that shift rather than reduce actual fiscal burden. Requires kernel audit to distinguish genuine deficit reduction from accounting arbitrage or entitlement erosion riders.",
+    "vectors": [
+      "Fiscal bleed: potential debt-limit mechanics or TGA flow redirection disguised as deficit reduction",
+      "Entitlement erosion: reconciliation-style language commonly used to bury SNAP/Medicaid cuts in deficit-neutral scaffolding",
+      "Accounting exploit: 'dollar-for-dollar' phrasing historically used to justify asymmetric revenue/spending trades"
+    ],
+    "title": "Dollar-for-Dollar Deficit Reduction Act",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/10078"
+  }
+]
