@@ -1,0 +1,15 @@
+[
+  {
+    "bill_id": "119s1109",
+    "score": 4,
+    "reason": "Title signals potential entitlement erosion via tax mechanics\u2014'check tax cut' suggests revenue-side Social Security restructuring that could obscure benefit cuts or threshold shifts. Requires kernel audit to identify whether this is progressive taxation on benefits or a fiscal bleed mechanic.",
+    "vectors": [
+      "entitlement_erosion",
+      "fiscal_bleed_mechanics",
+      "tax_code_carve_out",
+      "benefit_restructuring_via_tax_side"
+    ],
+    "title": "Social Security Check Tax Cut Act",
+    "url": "https://www.congress.gov/bill/119th-congress/s-bill/1109"
+  }
+]
