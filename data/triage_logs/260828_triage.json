@@ -1,0 +1,15 @@
+[
+  {
+    "bill_id": "119hr3990",
+    "score": 4,
+    "reason": "Disaster Relief + Medicaid coupling is classic smokescreen vector: emergency language masks entitlement restructuring. High probability of FMAP waivers, time-limited eligibility carve-outs, or fiscal cliff triggers buried in disaster authority.",
+    "vectors": [
+      "entitlement_erosion",
+      "emergency_smokescreen",
+      "regulatory_capture",
+      "fiscal_bleed"
+    ],
+    "title": "Disaster Relief Medicaid Act",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/3990"
+  }
+]
