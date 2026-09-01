@@ -1,0 +1,27 @@
+[
+  {
+    "bill_id": "119hres1499",
+    "score": 4,
+    "reason": "Rules package bundling four distinct bills with clear regulatory capture and market-access patterns: mineral FAST Act carve-out (H.R. 1501), regulatory timeline suspension for whale protections (H.R. 9436), ideological boycott enforcement tied to education funding (H.R. 4795), plus rhetorical cover (H. Res. 1490). Multiple vectors warrant targeted audit.",
+    "vectors": [
+      "Regulatory capture: FAST Act amendment creates covered project carve-out for mineral extraction, likely lowering environmental review thresholds for positioned extractors",
+      "Market-access exploit: H.R. 4795 weaponizes higher ed funding to force institutional compliance with Israel trade/investment participation, creating de facto market access mandate",
+      "Regulatory suspension: H.R. 9436 extends timeline for whale protections\u2014likely stalling-mechanism to allow offshore energy/maritime operations to continue unrestricted",
+      "Rhetorical smokescreen: H. Res. 1490 socialism denunciation used as bundling cover to obscure three substantive carve-outs in single rules vote"
+    ],
+    "title": "Providing for consideration of the bill (H.R. 1501) to amend the FAST Act to include certain mineral production activities as a covered project, and for other purposes; providing for consideration of the bill (H.R. 9436) to amend the Consolidated Appropriations Act, 2023 to extend the time period for which certain regulations concerning the North Atlantic right whale are effective; providing for consideration of the resolution (H. Res. 1490) providing for the condemnation and denouncement of socialism in all its forms, and for other purposes; providing for consideration of the bill (H.R. 4795) to amend the Higher Education Act of 1965 to prohibit an institution that participates in a nonexpressive commercial boycott of Israel from being eligible for certain funds under that Act, to require an institution that participates in certain programs under that Act to certify that students are not unreasonably obstructed from participating in academic programs in Israel, and for other purposes; and relating to consideration of motions to suspend the rules.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/1499"
+  },
+  {
+    "bill_id": "119hr4734",
+    "score": 4,
+    "reason": "Title language ('Hands Off') signals defensive positioning, but requires kernel audit. Bill ID timing (119th Congress) and Social Security focus suggest either genuine protection statute OR Trojan rider disguising entitlement erosion via reconciliation mechanics, carve-outs for specific cohorts, or trust-fund accounting tricks.",
+    "vectors": [
+      "entitlement_erosion: Social Security language may mask benefit cuts, age-creep, means-testing carve-outs, or COL adjustment freezes",
+      "reconciliation_rider_risk: Title-only positioning suggests possible attachment to larger fiscal bill with hidden payroll-tax or trust-fund mechanics",
+      "regulatory_capture: Potential exemptions for specific benefit classes or managed-account mandates favoring fintech/asset managers"
+    ],
+    "title": "Hands Off Our Social Security Act",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/4734"
+  }
+]
