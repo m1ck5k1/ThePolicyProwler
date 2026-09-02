@@ -1,0 +1,28 @@
+[
+  {
+    "bill_id": "119hr6500",
+    "score": 5,
+    "reason": "Continuing resolution mechanics are prime fiscal-bleed vectors: stopgap funding preserves prior-year carve-outs, blocks budget reconciliation scrutiny, and enables debt-limit gamesmanship. Without summary text, the absence of line-item detail itself signals potential regulatory capture via obscurity.",
+    "vectors": [
+      "Fiscal bleed: CR mechanism freezes baseline spending and defers reconciliation opportunities",
+      "Debt-limit mechanics: CRs commonly paired with creative accounting to extend borrowing authority",
+      "Regulatory capture via darkness: lack of summary suggests complex riders buried in appropriations text",
+      "Market-access protection: CRs preserve prior exemptions and carve-outs without re-evaluation"
+    ],
+    "title": "Continuing Appropriations and Extensions Act, 2027",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/6500"
+  },
+  {
+    "bill_id": "119hres1499",
+    "score": 4,
+    "reason": "H.R. 1501 (mineral production FAST Act carve-out) signals regulatory capture via project streamlining for extractive industries; H.R. 9436 (whale regulation extension) likely contains temporal/jurisdictional gaming; H.R. 4795 (Israel BDS restrictions) weaponizes Title IV funding access as market-control mechanism. Multiple vectors warrant targeted audit.",
+    "vectors": [
+      "Regulatory capture: FAST Act amendment creates covered-project status for mineral extraction, potentially exempting environmental review or permitting timelines for positioned operators",
+      "Market-access exploit: H.R. 4795 conditions federal student aid (Title IV leverage) on institutional boycott-certification, forcing compliance with specific foreign-policy posture as funding prerequisite",
+      "Temporal/jurisdictional arbitrage: H.R. 9436 extends whale-regulation effectiveness period, possible mechanism to delay or reset rulemaking clocks",
+      "Bundled obfuscation: Rule package mixes extractive deregulation, environmental rule-gaming, and geopolitical funding conditions\u2014classic smokescreen structure"
+    ],
+    "title": "Providing for consideration of the bill (H.R. 1501) to amend the FAST Act to include certain mineral production activities as a covered project, and for other purposes; providing for consideration of the bill (H.R. 9436) to amend the Consolidated Appropriations Act, 2023 to extend the time period for which certain regulations concerning the North Atlantic right whale are effective; providing for consideration of the resolution (H. Res. 1490) providing for the condemnation and denouncement of socialism in all its forms, and for other purposes; providing for consideration of the bill (H.R. 4795) to amend the Higher Education Act of 1965 to prohibit an institution that participates in a nonexpressive commercial boycott of Israel from being eligible for certain funds under that Act, to require an institution that participates in certain programs under that Act to certify that students are not unreasonably obstructed from participating in academic programs in Israel, and for other purposes; and relating to consideration of motions to suspend the rules.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/1499"
+  }
+]
