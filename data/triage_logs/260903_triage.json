@@ -1,0 +1,54 @@
+[
+  {
+    "bill_id": "119hr6500",
+    "score": 4,
+    "reason": "Continuing resolution mechanics are standard Prowler vectors: lack of substantive legislative review creates ideal conditions for buried riders, fiscal gimmicks (timing shifts, phantom offsets), and regulatory capture amendments. CR framework obscures kernel payloads.",
+    "vectors": [
+      "fiscal_gimmick_potential: CR mechanics enable deficit neutrality theater via timing shifts and accounting maneuvers",
+      "rider_opacity: continuing appropriations historically used to embed unrelated policy and carve-outs without committee scrutiny",
+      "regulatory_capture_vector: agencies defunded or exempted mid-year create negotiating leverage for specific actors",
+      "entitlement_rider_risk: healthcare, nutrition, or benefit cuts commonly buried in CR extensions"
+    ],
+    "title": "Continuing Appropriations and Extensions Act, 2027",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/6500"
+  },
+  {
+    "bill_id": "119hres1499",
+    "score": 4,
+    "reason": "Multiple regulatory capture and market-access vectors embedded in a procedural rule: mineral extraction carve-out via FAST Act amendment (expedited permitting for positioned operators), right whale regulation suspension (industry relief), and education funding conditionality tied to Israel boycott compliance (market-access lock-in masquerading as foreign policy).",
+    "vectors": [
+      "Regulatory capture: FAST Act amendment to classify mineral production as 'covered project' \u2014 accelerates permitting for specific extractive interests while obscuring systemic environmental cost-shifting",
+      "Deregulatory relief: North Atlantic right whale regulation suspension extends industry exemption window \u2014 temporal mechanics of rollback buried in procedural rule",
+      "Market-access exploit: Higher Ed Act conditioning creates compliance mandate for institutional participation in commercial boycott sanctions \u2014 forces ideological alignment as price of federal funding access",
+      "Procedural obscuration: rule bundles four unrelated bills to suppress individual floor debate and amendment opportunity"
+    ],
+    "title": "Providing for consideration of the bill (H.R. 1501) to amend the FAST Act to include certain mineral production activities as a covered project, and for other purposes; providing for consideration of the bill (H.R. 9436) to amend the Consolidated Appropriations Act, 2023 to extend the time period for which certain regulations concerning the North Atlantic right whale are effective; providing for consideration of the resolution (H. Res. 1490) providing for the condemnation and denouncement of socialism in all its forms, and for other purposes; providing for consideration of the bill (H.R. 4795) to amend the Higher Education Act of 1965 to prohibit an institution that participates in a nonexpressive commercial boycott of Israel from being eligible for certain funds under that Act, to require an institution that participates in certain programs under that Act to certify that students are not unreasonably obstructed from participating in academic programs in Israel, and for other purposes; and relating to consideration of motions to suspend the rules.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/1499"
+  },
+  {
+    "bill_id": "119hr793",
+    "score": 4,
+    "reason": "SNAP Benefits Fairness Act signals entitlement erosion via euphemistic framing; 'fairness' rhetoric historically masks benefit-reduction mechanics or eligibility tightening. Requires immediate kernel audit to identify whether bill narrows recipient pools, reduces benefit floors, or redirects TGA flows.",
+    "vectors": [
+      "entitlement_erosion",
+      "euphemistic_framing",
+      "eligibility_tightening_risk",
+      "fiscal_redirection_potential"
+    ],
+    "title": "SNAP Benefits Fairness Act of 2025",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/793"
+  },
+  {
+    "bill_id": "119hr10219",
+    "score": 4,
+    "reason": "Title signals entitlement erosion via fraud-framing narrative. Without summary, high-risk pattern: 'accountability' language historically precedes SNAP benefit cuts, state-discretion expansions, or compliance cost-shifting that reduces effective program access.",
+    "vectors": [
+      "Entitlement erosion: SNAP benefit reduction or eligibility tightening disguised as fraud prevention",
+      "Regulatory capture: carve-outs for state agencies or contractors to monetize compliance/enforcement",
+      "Fiscal bleed: unfunded compliance mandates that force state budget reallocation away from benefits",
+      "Market-access exploit: potential vendor lock-in for fraud-detection software or background-check contractors"
+    ],
+    "title": "SNAP Fraud Accountability Act",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/10219"
+  }
+]
