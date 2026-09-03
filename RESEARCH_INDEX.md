@@ -28,6 +28,7 @@ Format: `| Audit ID / Filename | Subject | Severity | Status | Date |`
 | File | Subject | Angle | Date |
 |---|---|---|---|
 | 260222_OBBBA_The_12000_ROI.md | OBBBA Lobbyist ROI | How $2.7M bought 5 votes and a 12,245% return | 260222 |
+| 260507_The_What_and_the_Why.md | Methodology / OBBBA | Why the 1,116-page bill gap is a feature, not a bug — the tool that closes it | 260507 |
 
 ---
 
@@ -36,6 +37,7 @@ Format: `| Audit ID / Filename | Subject | Severity | Status | Date |`
 | File | Type | Subject |
 |---|---|---|
 | data/cbo_reports/260211_CBO_Budget_Outlook.md | CBO Report | FY2026 Budget & Economic Outlook (Feb 11, 2026) |
+| data/bills/HR8007/ | Bill Text | H.R.8007 SILVER Act (119th) — vault expansion (source for AUD-260507-SILVER-ACT) |
 | data/bills/OBBBA_HR1/key_sections.md | Bill Reference | H.R.1 OBBBA — key sections cited in audits |
 | data/bills/OBBBA_HR1/house_v1_excerpt.md | Bill Text (stub) | H.R.1 House version — $2.4T target, RHTP, Medicaid |
 | data/bills/OBBBA_HR1/senate_amendments.md | Bill Text (stub) | H.R.1 Senate Vote-a-Rama — midnight riders, +$1T delta |
@@ -43,4 +45,4 @@ Format: `| Audit ID / Filename | Subject | Severity | Status | Date |`
 
 ---
 
-*Last updated: 260507*
+*Last updated: 260903*

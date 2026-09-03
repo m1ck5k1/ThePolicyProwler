@@ -15,7 +15,11 @@
 - **Step 2: Scan.** Identify "Bugs" (Midnight Riders, Arithmetic Leaks).
 - **Step 3: Diff.** Compare House vs. Senate versions of text.
 - **Step 4: Audit.** Generate the 'Bug Report' in research/audits.
-- **Step 5: Sync.** Push the audit to institutional memory via nlm source add.
+- **Step 5: Sync.** Push the audit to institutional memory (Airtable) via
+  `tools/sync_audit.py <audit_file>`. Requires `AIRTABLE_API_KEY` in `.env`.
+- **Step 6: Converge.** If the audit touches silver/CFTC/COMEX vault mechanics,
+  check `VaultWatcher_Alerts` and, on a match, write a `convergence_events`
+  record per the Cross-Desk Convergence Protocol in CLAUDE.md.
 
 ## 3.0 DATA VISUALIZATION
 - **LaTeX Tables:** Use for all budget comparisons to ensure 3-decimal precision and Substack compatibility.
