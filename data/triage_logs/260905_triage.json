@@ -1,0 +1,15 @@
+[
+  {
+    "bill_id": "119hr1",
+    "score": 5,
+    "reason": "Reconciliation vehicle with zero summary disclosure\u2014classic Prowler red flag. H. Con. Res. 14 reconciliation bills historically contain entitlement erosion, tax expenditure reallocation, and deficit-gaming mechanics buried across 1000+ pages. Requires immediate full audit of kernel payload.",
+    "vectors": [
+      "Entitlement erosion: SNAP, Medicaid, CHIP, Social Security cuts in reconciliation riders",
+      "Fiscal bleed: deficit math gaming via reconciliation spending limits and TGA redirects",
+      "Regulatory capture: carve-outs and safe harbors embedded in tax/entitlement sections",
+      "Summary opacity: no legislative description provided\u2014suggests complex, obscured payload"
+    ],
+    "title": "An act to provide for reconciliation pursuant to title II of H. Con. Res. 14.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/1"
+  }
+]
