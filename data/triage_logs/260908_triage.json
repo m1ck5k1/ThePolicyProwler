@@ -1,0 +1,28 @@
+[
+  {
+    "bill_id": "119hres1499",
+    "score": 4,
+    "reason": "Multiple embedded vectors: H.R. 1501 expands FAST Act mineral exemptions (regulatory capture + market-access exploit for mining interests); H.R. 9436 delays right whale protections (regulatory rollback disguised as technical fix); H.R. 4795 weaponizes funding eligibility to suppress speech/BDS movements (mission creep of Title IV leverage). Rule package bundling disparate bills obscures fiscal and regulatory damage.",
+    "vectors": [
+      "Regulatory capture: mineral production carve-out via FAST Act amendment expands exemptions for specific extractive industries",
+      "Market-access exploit: right whale regulation delay removes enforcement friction for maritime/energy operators",
+      "Entanglement governance: H.R. 4795 repurposes Higher Education Act funding as foreign policy/speech control mechanism",
+      "Rule packaging opacity: four unrelated bills in single rule bundle reduces amendment visibility and floor debate friction"
+    ],
+    "title": "Providing for consideration of the bill (H.R. 1501) to amend the FAST Act to include certain mineral production activities as a covered project, and for other purposes; providing for consideration of the bill (H.R. 9436) to amend the Consolidated Appropriations Act, 2023 to extend the time period for which certain regulations concerning the North Atlantic right whale are effective; providing for consideration of the resolution (H. Res. 1490) providing for the condemnation and denouncement of socialism in all its forms, and for other purposes; providing for consideration of the bill (H.R. 4795) to amend the Higher Education Act of 1965 to prohibit an institution that participates in a nonexpressive commercial boycott of Israel from being eligible for certain funds under that Act, to require an institution that participates in certain programs under that Act to certify that students are not unreasonably obstructed from participating in academic programs in Israel, and for other purposes; and relating to consideration of motions to suspend the rules.",
+    "url": "https://www.congress.gov/bill/119th-congress/hres-bill/1499"
+  },
+  {
+    "bill_id": "119hr6500",
+    "score": 4,
+    "reason": "Continuing appropriations bills are structural mechanisms for fiscal bleed and regulatory capture\u2014they lock in baseline spending, defer budget reconciliation, and typically contain rider provisions that carve out exemptions. The 2027 timing suggests post-election reconciliation vulnerability and potential emergency-language layering.",
+    "vectors": [
+      "fiscal bleed: CR extension mechanics enable debt-limit gamesmanship and TGA reallocation",
+      "regulatory capture: riders commonly attach exemptions and safe harbors to CR vehicles to bypass committee scrutiny",
+      "baseline lock-in: CRs perpetuate prior-year spending patterns, obscuring new allocations to positioned contractors",
+      "geopolitical smokescreen: emergency supplementals often bundled into CR language to bypass reconciliation rules"
+    ],
+    "title": "Continuing Appropriations and Extensions Act, 2027",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/6500"
+  }
+]
