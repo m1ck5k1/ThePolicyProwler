@@ -1,0 +1,28 @@
+[
+  {
+    "bill_id": "119s5042",
+    "score": 5,
+    "reason": "Title signals entitlement reform in major safety-net program. Without summary, high Prowler priority due to historical pattern: Social Security legislative vehicles frequently contain hidden fiscal mechanics, benefit-cut riders, or privatization vectors masked by sustainability rhetoric.",
+    "vectors": [
+      "Entitlement erosion: potential COLA cuts, FRA increases, or means-testing buried in reform language",
+      "Fiscal bleed: trust fund depletion mechanics or payroll-tax restructuring affecting deficit baseline",
+      "Regulatory capture: possible carve-outs for financial-services actors (annuitization, private accounts)",
+      "Summary absent: legislative opacity itself signals Prowler-priority investigation needed"
+    ],
+    "title": "Social Security 2100 Act",
+    "url": "https://www.congress.gov/bill/119th-congress/s-bill/5042"
+  },
+  {
+    "bill_id": "119hr9296",
+    "score": 4,
+    "reason": "Bill title signals potential entitlement restructuring\u2014a core Prowler priority. 'Strengthening' language is classic UI for baseline reductions, benefit reforms, or contribution threshold shifts. Without summary text, the kernel remains opaque, but Social Security reform bills are high-probability carriers for fiscal damage wrapped in solvency rhetoric.",
+    "vectors": [
+      "entitlement_erosion: Social Security baseline reductions or benefit formula changes",
+      "fiscal_bleed: payroll tax cap raises or revenue redirects disguised as 'strengthening'",
+      "regulatory_capture: carve-outs or protected demographics masking universal cuts",
+      "deficit_mechanics: Trust Fund accounting gimmicks or inter-fund transfers"
+    ],
+    "title": "Strengthening Social Security Act of 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9296"
+  }
+]
