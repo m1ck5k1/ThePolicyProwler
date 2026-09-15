@@ -1,0 +1,27 @@
+[
+  {
+    "bill_id": "119s4176",
+    "score": 4,
+    "reason": "Title invokes fraud-fighting but Medicaid bills frequently contain carve-outs, safe harbors, or eligibility tightening disguised as administrative efficiency. Without summary text, the 'STOP FRAUD' framing is a classic regulatory capture tell\u2014accusatory language often masks provider exemptions or beneficiary-access restrictions.",
+    "vectors": [
+      "Entitlement erosion: potential Medicaid eligibility narrowing or benefit cuts hidden under anti-fraud rhetoric",
+      "Regulatory capture: likely safe harbors or exemptions for specific provider classes (managed care, pharmaceutical, hospice)",
+      "Fiscal bleed: possible DSH/GME carve-outs or payment-reform mechanics that redirect federal flows"
+    ],
+    "title": "STOP FRAUD in Medicaid Act",
+    "url": "https://www.congress.gov/bill/119th-congress/s-bill/4176"
+  },
+  {
+    "bill_id": "119hr10369",
+    "score": 4,
+    "reason": "Pharmacy benefit manager (PBM) regulation is a classic regulatory capture audit vector: PBMs operate as opacity-enforcement intermediaries between payers, pharmacies, and patients. Any 'requirements' language without explicit price-transparency or margin-ceiling mandates likely creates safe harbors or carve-outs that entrench PBM market power while appearing pro-competitive.",
+    "vectors": [
+      "regulatory_capture: PBM exemptions or 'safe harbor' definitions that protect spread pricing or formulary control",
+      "market_access_exploit: rules that consolidate PBM gatekeeping (e.g., credentialing, network access standards that favor large PBMs)",
+      "fiscal_bleed: Medicare/ERISA 'administrative cost' pass-throughs that shift cost burden to beneficiaries while protecting PBM revenue",
+      "entitlement_erosion: formulary restrictions or step-therapy mandates that reduce drug access for Medicare/Medicaid enrollees under guise of 'requirement'"
+    ],
+    "title": "To amend title XVIII of the Social Security Act, and the Employee Retirement Income Security Act of 1974, to create certain requirements with respect to pharmacy benefit managers.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/10369"
+  }
+]
