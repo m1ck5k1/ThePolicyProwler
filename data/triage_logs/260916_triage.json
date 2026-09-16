@@ -1,0 +1,64 @@
+[
+  {
+    "bill_id": "119hr5454",
+    "score": 4,
+    "reason": "MA payment acceleration creates fiscal bleed (front-loaded spending) and regulatory capture (favors MA insurers over traditional Medicare). Classic Prowler pattern: hidden transfer velocity disguised as efficiency.",
+    "vectors": [
+      "fiscal_bleed: accelerated MA claim payments increase TGA draw velocity",
+      "regulatory_capture: preferential payment terms entrench MA market advantage vs. FFS",
+      "entitlement_mechanics: reshapes Medicare payment flow to benefit private intermediaries"
+    ],
+    "title": "Medicare Advantage Prompt Pay Act",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/5454"
+  },
+  {
+    "bill_id": "119hr9187",
+    "score": 4,
+    "reason": "Commission framework for Social Security reform signals high-risk entitlement restructuring vector. 'Bipartisan' framing historically precedes consensus-laundered benefit cuts or payroll tax hikes; commission delays obscure immediate fiscal payload while locking negotiating terms.",
+    "vectors": [
+      "entitlement_erosion: Social Security benefit/eligibility/COLA restructuring potential",
+      "fiscal_bleed: payroll tax increase or cap expansion disguised as 'solvency fix'",
+      "regulatory_capture: commission composition determines whose interests dominate 'reform' outcome",
+      "narrative_inversion: 'crisis' framing justifies cuts to earned benefits as responsible governance"
+    ],
+    "title": "Bipartisan Social Security Commission Act of 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9187"
+  },
+  {
+    "bill_id": "119hr10369",
+    "score": 4,
+    "reason": "PBM regulation bill targeting Medicare/ERISA intersection\u2014high capture-risk zone where pharmacy benefit managers have historically extracted rents through opaque rebate structures, spread pricing, and formulary exclusions. Absent explicit language on transparency mandates and rebate pass-through, likely contains carve-outs protecting incumbent PBM margins.",
+    "vectors": [
+      "regulatory_capture: PBM exemptions or safe harbors disguised as reform",
+      "fiscal_bleed: Medicare cost-shifting if bill protects PBM spread pricing while reducing beneficiary protections",
+      "market_access_exploit: potential lock-in clauses favoring vertically integrated PBM-insurers",
+      "entitlement_erosion: formulary/access restrictions masked as 'requirements'"
+    ],
+    "title": "To amend title XVIII of the Social Security Act, and the Employee Retirement Income Security Act of 1974, to create certain requirements with respect to pharmacy benefit managers.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/10369"
+  },
+  {
+    "bill_id": "119s5250",
+    "score": 4,
+    "reason": "Title signals entitlement erosion mechanics (Medicare payment reduction framing). 'Integrity and Protection' is classic regulatory capture language masking fiscal extraction from home health providers\u2014likely a vector for concentrated payer benefits or margin preservation for dominant operators.",
+    "vectors": [
+      "Entitlement erosion: Medicare payment cuts hidden in 'integrity' framing",
+      "Regulatory capture: 'Protection' language may carve exemptions for consolidators",
+      "Market-access exploit: Payment reductions could eliminate small providers, concentrating market"
+    ],
+    "title": "Medicare Home Health Payment Integrity and Protection Act of 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/s-bill/5250"
+  },
+  {
+    "bill_id": "119s4176",
+    "score": 4,
+    "reason": "Title signals anti-fraud posture (routine UI), but 'STOP FRAUD' framing in Medicaid context historically precedes eligibility tightening, claims denials, or provider network restrictions that erode coverage. Without summary text, kernel likely contains carve-outs or enforcement mechanisms that reduce access while naming it fraud prevention.",
+    "vectors": [
+      "entitlement_erosion: Medicaid access restrictions disguised as fraud control",
+      "regulatory_capture: potential safe harbors for specific payers or providers",
+      "administrative_burden: new compliance costs that shift risk to beneficiaries or rural providers"
+    ],
+    "title": "STOP FRAUD in Medicaid Act",
+    "url": "https://www.congress.gov/bill/119th-congress/s-bill/4176"
+  }
+]
