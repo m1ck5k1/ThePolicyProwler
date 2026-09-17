@@ -1,0 +1,27 @@
+[
+  {
+    "bill_id": "119hr10471",
+    "score": 4,
+    "reason": "Classic regulatory capture play: carve-out creates federal safe harbor for insurance underwriters to serve cannabis operators while broader cannabis remains Schedule I, locking market access for positioned first-movers and creating asymmetric advantage over future competitors.",
+    "vectors": [
+      "regulatory_capture: safe harbor exemption protects specific actor class (insurers serving cannabis) without full legalization framework",
+      "market_access_exploit: enables insurance products for cannabis businesses while cannabis federally illegal, creating moat for early entrants",
+      "geographic_tells: 'legitimate business' language likely targets states with legal cannabis markets, concentrating benefit in specific jurisdictions"
+    ],
+    "title": "To create a safe harbor for insurers engaging in the business of insurance in connection with a cannabis-related legitimate business, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/10471"
+  },
+  {
+    "bill_id": "119hr5371",
+    "score": 4,
+    "reason": "Continuing appropriations bill covering military construction, veterans affairs, and legislative branch\u2014classic vector for buried riders, emergency supplemental mechanics, and debt-limit workarounds. No summary provided, but title structure suggests potential fiscal bleed and defense-budget smokescreen patterns.",
+    "vectors": [
+      "Defense/DHS smokescreens: military construction + veterans affairs + legislative branch combined in single CR suggests potential bundling of unrelated fiscal obligations",
+      "Fiscal bleed: continuing appropriations mechanism often contains riders that bypass normal reconciliation scrutiny; 2026 date suggests post-election fiscal pressure",
+      "Entitlement erosion: veterans benefits riders commonly buried in military construction CRs",
+      "Regulatory capture: agricultural component may contain commodity-subsidy carve-outs or loan-forgiveness provisions benefiting specific agribusiness actors"
+    ],
+    "title": "Continuing Appropriations, Agriculture, Legislative Branch, Military Construction and Veterans Affairs, and Extensions Act, 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/5371"
+  }
+]
