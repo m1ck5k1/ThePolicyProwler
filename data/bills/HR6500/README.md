@@ -3,6 +3,7 @@
 **Source:** https://www.congress.gov/119/bills/hr6500/BILLS-119hr6500ih.xml
 
 ## Version History
+| `introduced.xml` | introduced | 260918 | Auto-ingested |
 | `introduced.xml` | introduced | 260909 | Auto-ingested |
 | `introduced.xml` | introduced | 260908 | Auto-ingested |
 | `introduced.xml` | introduced | 260904 | Auto-ingested |

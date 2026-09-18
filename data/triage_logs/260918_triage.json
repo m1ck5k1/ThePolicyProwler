@@ -1,0 +1,41 @@
+[
+  {
+    "bill_id": "119hr6500",
+    "score": 5,
+    "reason": "Continuing appropriations bills are structural fiscal gatekeeping instruments; without summary text, the lack of transparency itself signals high risk for buried carve-outs, emergency supplementals, or debt-limit mechanical gaming. CR vehicles historically obscure regulatory captures and entitlement riders.",
+    "vectors": [
+      "Fiscal bleed: CR mechanics allow TGA flow redirection and deficit expansion without explicit authorization votes",
+      "Hidden riders: CRs notoriously shelter exemptions, safe harbors, and market-access carve-outs in must-pass legislation",
+      "Regulatory capture: Absence of public summary suggests potential DHS/Defense smokescreens or agency-specific exemptions",
+      "Entitlement erosion risk: CR language may contain SNAP, Medicaid, or Social Security modification riders buried in extensions clause"
+    ],
+    "title": "Continuing Appropriations and Extensions Act, 2027",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/6500"
+  },
+  {
+    "bill_id": "119hr10494",
+    "score": 4,
+    "reason": "Tariff rebate mechanics in tax code typically function as hidden fiscal transfers or market-access carve-outs. 'For other purposes' flag suggests buried riders. Requires kernel extraction to identify whether rebates create delta between stated tariff policy and actual tax-code payouts to specific industries.",
+    "vectors": [
+      "fiscal bleed: tariff rebates as IRC amendments may redirect revenue flows without appropriations transparency",
+      "regulatory capture: rebate eligibility criteria likely contain sector-specific exemptions or safe harbors",
+      "market-access exploit: rebate structure may advantage positioned domestic producers vs. competitors",
+      "vague scope: 'other purposes' language signals potential rider burial"
+    ],
+    "title": "To amend the Internal Revenue Code of 1986 to provide American tariff rebates, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/10494"
+  },
+  {
+    "bill_id": "119hr3716",
+    "score": 4,
+    "reason": "Title signals regulatory authority expansion with opacity concerns. 'Systemic Risk Authority' framing historically precedes regulatory capture via delegated rulemaking and exemption carve-outs; requires kernel audit to identify which actors gain safe harbors or market-access vectors under new 'transparency' apparatus.",
+    "vectors": [
+      "regulatory_capture",
+      "delegated_authority_scope",
+      "exemption_mechanics",
+      "market_definition_exploits"
+    ],
+    "title": "Systemic Risk Authority Transparency Act",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/3716"
+  }
+]
