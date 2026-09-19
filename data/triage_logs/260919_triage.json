@@ -1,0 +1,15 @@
+[
+  {
+    "bill_id": "119hr10494",
+    "score": 4,
+    "reason": "Tariff rebate mechanism likely functions as fiscal transfer disguised as tax relief; 'and for other purposes' signals potential riders affecting revenue baseline or market-access carve-outs for positioned sectors.",
+    "vectors": [
+      "Fiscal bleed via tariff rebate structure (direct budget hit vs. claimed offset)",
+      "Hidden riders in 'other purposes' clause",
+      "Potential market-access exploit favoring specific industries through selective rebate architecture",
+      "Revenue baseline manipulation in reconciliation context"
+    ],
+    "title": "To amend the Internal Revenue Code of 1986 to provide American tariff rebates, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/10494"
+  }
+]
