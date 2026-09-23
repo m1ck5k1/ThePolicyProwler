@@ -1,0 +1,27 @@
+[
+  {
+    "bill_id": "119hr10219",
+    "score": 4,
+    "reason": "Title signals entitlement restriction mechanics; 'fraud accountability' language is classic regulatory-capture framing that historically precedes benefit eligibility tightening, asset-test increases, or work-requirement riders that reduce TGA expenditure without substantive fraud remediation.",
+    "vectors": [
+      "Entitlement erosion: potential SNAP benefit cuts or eligibility restrictions disguised as anti-fraud",
+      "Regulatory capture: 'accountability' framing may enable state-level carve-outs favoring specific processors",
+      "Fiscal bleed reversal: bill may reduce mandatory spending to improve deficit optics"
+    ],
+    "title": "SNAP Fraud Accountability Act",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/10219"
+  },
+  {
+    "bill_id": "119hr10471",
+    "score": 4,
+    "reason": "Clear regulatory capture signal: carve-out safe harbor for insurers in federally-illegal cannabis market creates protected market access for positioned financial intermediaries while obscuring federal/state legal conflict. Typical Prowler pattern\u2014risk externalization wrapped in 'safety' language.",
+    "vectors": [
+      "regulatory_capture: explicit safe harbor exemption for specific industry actor",
+      "market_access_exploit: creates protected insurance market in gray-zone commerce",
+      "legal_arbitrage: exploits cannabis Schedule I status to lock out competitors via insurance cartel",
+      "federal_preemption_play: likely shields insurers from liability exposure that normally constrains market entry"
+    ],
+    "title": "To create a safe harbor for insurers engaging in the business of insurance in connection with a cannabis-related legitimate business, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/10471"
+  }
+]
