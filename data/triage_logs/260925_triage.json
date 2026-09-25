@@ -1,0 +1,14 @@
+[
+  {
+    "bill_id": "119hr10547",
+    "score": 4,
+    "reason": "Classic regulatory capture pattern: PACE deregulation bill targets managed care carve-out with opaque 'administrative burden' language. 'For other purposes' is a vector flag\u2014likely contains Medicaid/Medicare reimbursement exploits or liability shields for PACE operators.",
+    "vectors": [
+      "regulatory_capture: PACE provider exemptions wrapped in burden-reduction framing",
+      "entitlement_erosion: potential Medicaid/Medicare rate manipulation or accountability gutting",
+      "linguistic_tell: 'for other purposes' suggests hidden riders beyond stated intent"
+    ],
+    "title": "To amend titles XVIII and XIX of the Social Security Act to improve access to the Program of All-Inclusive Care for the Elderly (PACE), to reduce regulatory burdens on PACE providers, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/10547"
+  }
+]
