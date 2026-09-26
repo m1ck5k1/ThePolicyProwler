@@ -1,0 +1,15 @@
+[
+  {
+    "bill_id": "119hr10547",
+    "score": 4,
+    "reason": "Regulatory capture signal: bill explicitly targets PACE provider burden reduction without specifying which regulations are lifted. PACE operates at Medicare-Medicaid intersection\u2014classic zone for carve-outs that shift cost to federal programs while consolidating market access for established operators.",
+    "vectors": [
+      "regulatory_capture: undefined 'burden reduction' on integrated care model serving dual-eligible population",
+      "fiscal_bleed: potential expansion of PACE reimbursement without offsetting constraints",
+      "entitlement_erosion: Medicaid/Medicare payment mechanics may be restructured to favor managed enrollment models",
+      "market_access_exploit: PACE already has high barriers to entry; lighter regulation could entrench incumbents while excluding new competitors"
+    ],
+    "title": "To amend titles XVIII and XIX of the Social Security Act to improve access to the Program of All-Inclusive Care for the Elderly (PACE), to reduce regulatory burdens on PACE providers, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/10547"
+  }
+]
