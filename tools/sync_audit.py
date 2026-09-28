@@ -167,11 +167,14 @@ def main():
         sys.exit(f"File not found: {audit_path}")
 
     load_dotenv()
-    api_key = os.environ.get("AIRTABLE_API_KEY")
+    # Canonical Airtable var is AIRTABLE_PAT (matches vault-watcher + GH secret);
+    # AIRTABLE_API_KEY kept as backward-compat fallback during the single-token
+    # consolidation. One token, one name, one location.
+    api_key = os.environ.get("AIRTABLE_PAT") or os.environ.get("AIRTABLE_API_KEY")
     if not api_key:
-        sys.exit("Error: AIRTABLE_API_KEY not found.\n"
+        sys.exit("Error: AIRTABLE_PAT not found.\n"
                  "Add it to .env in the project root:\n"
-                 "  echo 'AIRTABLE_API_KEY=your_token' > .env")
+                 "  echo 'AIRTABLE_PAT=your_token' > .env")
 
     fm = extract_frontmatter(audit_path)
     record = build_record(fm, audit_path)
