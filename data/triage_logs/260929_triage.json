@@ -1,0 +1,53 @@
+[
+  {
+    "bill_id": "119hr8007",
+    "score": 5,
+    "reason": "SILVER Act (H.R.8007) is the canonical market-access exploit case: vault mandate dressed in systemic-risk language, forcing open controlled precious metals markets for positioned insiders while reframing as financial stability measure.",
+    "vectors": [
+      "market-access_exploit",
+      "regulatory_capture",
+      "commodity_futures_exemption",
+      "insider_positioning"
+    ],
+    "title": "SILVER Act",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8007"
+  },
+  {
+    "bill_id": "119s5571",
+    "score": 4,
+    "reason": "Biosimilar price negotiation eligibility gates are classic regulatory capture vectors\u2014delaying negotiation windows protects incumbent biologics manufacturers (Amgen, Regeneron, Janssen) from competition, directly inflating Medicare drug spend and shifting costs to beneficiaries. The 'alter when' framing suggests narrowing negotiation scope or extending exclusivity periods.",
+    "vectors": [
+      "regulatory_capture: biosimilar market-access delays benefit brand manufacturers",
+      "fiscal_bleed: Medicare drug inflation via negotiation bottlenecks",
+      "entitlement_erosion: hidden OPPS/Part B cost shifts to beneficiary out-of-pocket",
+      "lobbist_roi: pharma-sized carve-out for high-margin biologics class"
+    ],
+    "title": "A bill to amend title XI of the Social Security Act to alter when biosimilar biological products are eligible for price negotiations under the Medicare program.",
+    "url": "https://www.congress.gov/bill/119th-congress/s-bill/5571"
+  },
+  {
+    "bill_id": "119hr10628",
+    "score": 4,
+    "reason": "High-signal regulatory capture play. Bill restricts Medicare's biosimilar price-negotiation window (likely extending exclusivity period or narrowing negotiation scope), protecting branded biotech margins at systemic taxpayer cost. Classic pharma carve-out wrapped in technical SSA language.",
+    "vectors": [
+      "regulatory_capture: biosimilar exclusivity extension benefits specific pharma actors",
+      "fiscal_bleed: delayed Medicare price negotiation increases long-term entitlement spending",
+      "market_access_exploit: narrows negotiation eligibility to preserve pricing power",
+      "entitlement_erosion: indirect Medicare cost elevation via price-protection mechanism"
+    ],
+    "title": "To amend title XI of the Social Security Act to alter when biosimilar biological products are eligible for price negotiations under the Medicare program.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/10628"
+  },
+  {
+    "bill_id": "119hr10621",
+    "score": 4,
+    "reason": "Shifts Medicaid fraud recovery burden from federal to state treasuries\u2014classic fiscal engineering that launders deficit impact into distributed state fiscal crises. States forced to absorb enforcement costs while federal baseline appears improved; potential regulatory capture if enforcement exemptions track to specific provider networks.",
+    "vectors": [
+      "Entitlement erosion: Medicaid cost-shift to states reduces federal liability on books",
+      "Fiscal bleed: Reallocation of recovery streams between sovereigns without net fraud reduction",
+      "Regulatory capture: Likely carve-outs for credentialed providers or managed-care entities embedded in 'state share' definition"
+    ],
+    "title": "To amend title XIX of the Social Security Act to increase the State share of recovery under laws relating to false or fraudulent claims under the Medicaid program.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/10621"
+  }
+]
