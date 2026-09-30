@@ -1,0 +1,39 @@
+[
+  {
+    "bill_id": "119s4176",
+    "score": 4,
+    "reason": "Title signals entitlement-erosion lens (Medicaid targeting), but absence of summary prevents kernel extraction. 'STOP FRAUD' framing is classic regulatory pretext for eligibility/coverage carve-outs. Requires full text audit to confirm whether this tightens enforcement (neutral) or creates safe harbors for payers while restricting beneficiary access.",
+    "vectors": [
+      "entitlement_erosion",
+      "regulatory_pretext_language",
+      "medicaid_carve_out_risk",
+      "payer_capture_potential"
+    ],
+    "title": "STOP FRAUD in Medicaid Act",
+    "url": "https://www.congress.gov/bill/119th-congress/s-bill/4176"
+  },
+  {
+    "bill_id": "119hr10628",
+    "score": 4,
+    "reason": "High-priority regulatory capture signal. Bill targets biosimilar price-negotiation eligibility windows\u2014a known pharma defensive position to delay IRA negotiation authority. Likely extends market-access exclusivity for branded biologics by narrowing or deferring competitive pricing mechanisms.",
+    "vectors": [
+      "Regulatory capture: biosimilar eligibility carve-out protects pharma margin windows",
+      "Entitlement erosion: narrowing negotiation scope inflates Medicare drug spend",
+      "Market-access exploit: timing gating creates de facto exclusivity extension"
+    ],
+    "title": "To amend title XI of the Social Security Act to alter when biosimilar biological products are eligible for price negotiations under the Medicare program.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/10628"
+  },
+  {
+    "bill_id": "119s5571",
+    "score": 4,
+    "reason": "Biosimilar pricing negotiation timing is a direct fiscal valve on Medicare drug costs. Delaying eligibility creates a market-access window for biologics manufacturers\u2014classic regulatory capture using procedural language to shield high-price biologics from negotiation pressure.",
+    "vectors": [
+      "Fiscal bleed: delays on Medicare negotiation create extended high-price revenue streams",
+      "Regulatory capture: exemption mechanism protecting biologics sector from price competition",
+      "Market-access exploit: timing carve-out functions as de facto price-protection for positioned pharma actors"
+    ],
+    "title": "A bill to amend title XI of the Social Security Act to alter when biosimilar biological products are eligible for price negotiations under the Medicare program.",
+    "url": "https://www.congress.gov/bill/119th-congress/s-bill/5571"
+  }
+]
