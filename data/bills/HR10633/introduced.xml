@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H838F3306856F4572B808F68AC165CAA9" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 10633 IH: Medicaid Integrity and Fiscal Accountability Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2026-09-28</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">119th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 10633</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20260928">September 28, 2026</action-date><action-desc><sponsor name-id="P000048">Mr. Pfluger</sponsor> (for himself, <cosponsor name-id="J000302">Mr. Joyce of Pennsylvania</cosponsor>, and <cosponsor name-id="B001306">Mr. Balderson</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title XIX of the Social Security Act to require each State to designate a single agent responsible for certain fiscal duties under the Medicaid program.</official-title></form><legis-body id="H6541202678DF4CBBB2D557427A4A8043" style="OLC"> 
+<section id="HD08F84FADEA34539AA97B9F504B1167E" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Medicaid Integrity and Fiscal Accountability Act</short-title></quote>.</text></section> <section id="H7274045711D146F3A19F1D6A74B44C7C"><enum>2.</enum><header>Requiring single fiscal agents under Medicaid</header> <text display-inline="no-display-inline">Section 1902 of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1396a">42 U.S.C. 1396a</external-xref>) is amended—</text> 
+<paragraph id="H0AD88A79A48440D68CF8B11DCC86B05B"><enum>(1)</enum><text>in subsection (a)—</text> <subparagraph id="H55B05A9FB46B4D76BA33BA36BC59E7EE"><enum>(A)</enum><text>in paragraph (89), by striking <quote>and</quote> at the end;</text></subparagraph> 
+<subparagraph id="HE24FD2DAB2054E20BD85814DE95FFCF6"><enum>(B)</enum><text>in paragraph (90), by striking the period at the end and inserting <quote>; and</quote>; and</text></subparagraph> <subparagraph id="H9C3BA788DDD44319A83E0C5480A8CF9B"><enum>(C)</enum><text>by inserting after paragraph (90) the following new paragraph:</text> 
+<quoted-block style="OLC" id="H553D0AD2FB934CAFB6DA33F828494C0B" display-inline="no-display-inline"> 
+<paragraph id="HC11CC479295E483495C3D24EBF56D787"><enum>(91)</enum><text display-inline="yes-display-inline">provide that, beginning January 1, 2028, the State shall designate an individual as the individual primarily responsible for ensuring, through the establishment of appropriate policies, procedures, monitoring systems, and corrective actions, the following with respect to the State plan (or waiver of such plan):</text> <subparagraph id="H02C3A91079AA45B7B0EF114AEB76A00E"><enum>(A)</enum><text>The processing and adjudication of claims in an accurate and timely manner.</text></subparagraph> 
+<subparagraph id="HC7CF406A5F9F414AA7B7A2CDA95DF1B3"><enum>(B)</enum><text>Payment integrity, including by—</text> <clause id="H37DA8989D4BB4641829F5421965A5FD1"><enum>(i)</enum><text>identifying and preventing fraud, waste, abuse, and improper payments;</text></clause> 
+<clause id="H4036A191AC7040B2909B73D03B05231D"><enum>(ii)</enum><text>overseeing program integrity activities; and</text></clause> <clause id="HC459FD8896EE4BCBA20F8F8C91E89310"><enum>(iii)</enum><text>in the case that deficiencies are identified, implementing corrective actions.</text></clause></subparagraph> 
+<subparagraph id="HA37CBBBBC9D24B42897261A04130D7CA"><enum>(C)</enum><text>Appropriate financial reporting, including by ensuring the accuracy, completeness, and timeliness of—</text> <clause id="HC364DB455ABD46B291A4840A2E9E1C66"><enum>(i)</enum><text>reporting of State expenditures under such plan or waiver;</text></clause> 
+<clause id="H71B4736A71E440749DC590EA6CAC2A63"><enum>(ii)</enum><text>reporting of such expenditures that are eligible for Federal financial participation; and</text></clause> <clause id="HC387B40D25EE420FAEE9CD38294DF3FF"><enum>(iii)</enum><text>any other financial information submitted to the Secretary.</text></clause></subparagraph> 
+<subparagraph id="HAD2861B9A490450D8A58E2AE7D3CF11A"><enum>(D)</enum><text>The establishment and maintenance of controls to ensure that expenditures under such plan or waiver comply with all applicable Federal requirements.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></subparagraph></paragraph> </section> </legis-body></bill>
+

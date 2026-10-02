@@ -1,0 +1,40 @@
+[
+  {
+    "bill_id": "119hr8007",
+    "score": 5,
+    "reason": "SILVER Act (H.R.8007) is a canonical Prowler case study: mandates vault storage for precious metals under systemic-risk framing, creating forced market access for positioned bullion dealers and custodians while expanding Federal Reserve operational scope. Clear regulatory capture wrapped in financial-stability language.",
+    "vectors": [
+      "market-access exploit: vault mandate concentrates bullion custody in cartelized operators",
+      "regulatory capture: creates safe harbor for precious metals dealers under systemic-risk exemption",
+      "Federal Reserve scope creep: expands central bank operational authority into non-traditional asset classes",
+      "hidden commercial payload: benefits specific custodian firms at retail investor cost"
+    ],
+    "title": "SILVER Act",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8007"
+  },
+  {
+    "bill_id": "119hr10268",
+    "score": 4,
+    "reason": "High-signal entitlement erosion play. Restricts SNAP vendor universe under retail-access framing\u2014classic regulatory capture mechanics that shrink benefit utility while protecting incumbent food infrastructure. Kernel likely masks fiscal damage as 'program integrity.'",
+    "vectors": [
+      "entitlement_erosion: SNAP benefit restriction via vendor exclusion",
+      "regulatory_capture: protects specific food retail classes by narrowing eligibility",
+      "fiscal_reframing: presents benefit contraction as cost-control measure",
+      "market_access_exploit: locks out prepared-food sector from SNAP flows to advantage grocery/conventional channels"
+    ],
+    "title": "Ending Restaurant Purchases with SNAP Act of 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/10268"
+  },
+  {
+    "bill_id": "119hr10633",
+    "score": 4,
+    "reason": "Title signals entitlement erosion pathway (Medicaid + 'fiscal accountability' frame). Without summary text, the framing itself\u2014'integrity' + 'accountability' as justification lexicon for benefit cuts or enrollment tightening\u2014is a classic Policy Prowler red flag. Requires full audit to map the kernel.",
+    "vectors": [
+      "entitlement_erosion_medicaid",
+      "regulatory_reframing_as_fiscal_discipline",
+      "missing_summary_concealment_pattern"
+    ],
+    "title": "Medicaid Integrity and Fiscal Accountability Act",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/10633"
+  }
+]
