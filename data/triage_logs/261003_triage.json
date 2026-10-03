@@ -1,0 +1,15 @@
+[
+  {
+    "bill_id": "119hr9422",
+    "score": 4,
+    "reason": "RAC (Recovery Audit Contractor) expansion bills historically function as regulatory capture vectors\u2014outsourcing collection enforcement to private firms with contingency-fee incentives, creating perverse incentives to deny/claw back legitimate claims. Medicaid RAC authority is a known fiscal-bleed mechanism that increases administrative burden on providers while protecting contractor margins.",
+    "vectors": [
+      "regulatory_capture: private contractor safe harbors and fee-sharing structures",
+      "fiscal_bleed: contingency-model RACs incentivized to maximize clawbacks regardless of legitimate claim status",
+      "entitlement_erosion: RAC operations historically reduce net Medicaid reimbursement through aggressive recoupment",
+      "provider_market_access: carve-out for specific RAC firms or contract holders"
+    ],
+    "title": "Medicaid RAC Improvement Act of 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/9422"
+  }
+]
