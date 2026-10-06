@@ -1,0 +1,27 @@
+[
+  {
+    "bill_id": "119hr10728",
+    "score": 4,
+    "reason": "Carve-out language structurally exempts specific service categories from Medicaid payment caps, classic regulatory capture pattern. 'Certain limits do not apply' is vector for cost-shifting or directed subsidy to positioned providers.",
+    "vectors": [
+      "regulatory_capture: state-level Medicaid exemption creates safe harbor for maternity services providers",
+      "fiscal_bleed: caps removal on defined service class expands open-ended federal Medicaid liability",
+      "geographic_tell: 'state-directed payments' suggests targeted benefit to specific state constituencies",
+      "entitlement_erosion_inverse: may signal pressure on other Medicaid categories to offset carve-out costs"
+    ],
+    "title": "To provide that certain limits on State-directed payments under the Medicaid program not apply to certain maternity, labor, and delivery services.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/10728"
+  },
+  {
+    "bill_id": "119hr10729",
+    "score": 4,
+    "reason": "Targets Medicaid payment mechanics and provider tax provisions\u2014classic regulatory capture vectors. Adjusting 'limitations' on state-directed payments suggests carve-outs for specific provider classes; repealing provider tax provisions redirects fiscal burden. High probability of hidden market-access exploit favoring positioned healthcare entities.",
+    "vectors": [
+      "Regulatory capture: state-directed payment carve-outs benefiting specific provider cohorts",
+      "Fiscal bleed: provider tax repeal reduces revenue offsets, expands Medicaid deficit exposure",
+      "Entitlement erosion: modification of payment limitations may compress reimbursement to non-positioned providers while protecting insiders"
+    ],
+    "title": "To amend Public Law 119-21 to adjust limitations on State directed payments under the Medicaid program, and to repeal certain provisions related to provider taxes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/10729"
+  }
+]
