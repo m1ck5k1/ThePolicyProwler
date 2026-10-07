@@ -1,0 +1,27 @@
+[
+  {
+    "bill_id": "119hr8375",
+    "score": 4,
+    "reason": "Medicare Advantage is a high-ROI regulatory capture vector: private insurers already extract ~$88B annually via risk-score gaming and bid-down mechanics. 'Improvement' framing typically masks expansion of carve-outs or payment floors that lock in insurer margins while shifting cost burden to traditional Medicare or beneficiaries.",
+    "vectors": [
+      "regulatory capture: MA insurers vs. CMS payment mechanics",
+      "fiscal bleed: MA overpayment dynamics into federal budget",
+      "entitlement erosion: potential traditional Medicare cross-subsidy",
+      "lobbyist-ROI: healthcare insurance industry standard playbook"
+    ],
+    "title": "Medicare Advantage Improvement Act of 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8375"
+  },
+  {
+    "bill_id": "119hr10706",
+    "score": 4,
+    "reason": "Title signals regulatory carve-out or market-access play targeting CMS authority. 'Innovation' framing in Medicare/Medicaid context historically precedes safe harbors for private equity, PBM consolidation, or provider network exclusions that externalize risk to beneficiaries.",
+    "vectors": [
+      "Regulatory capture: potential CMS exemptions or alternative-payment-model safe harbors favoring positioned intermediaries",
+      "Market-access exploit: 'innovation' language may mask forced provider/payor competition favoring integrated platforms",
+      "Entitlement erosion: risk of beneficiary cost-shift buried in 'efficiency' or 'pilot' mechanics"
+    ],
+    "title": "Strengthening Innovation in Medicare and Medicaid Act",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/10706"
+  }
+]
