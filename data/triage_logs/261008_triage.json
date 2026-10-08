@@ -1,0 +1,15 @@
+[
+  {
+    "bill_id": "119hr10747",
+    "score": 4,
+    "reason": "Medicare Advantage reimbursement carve-out for Puerto Rico signals potential regulatory capture and fiscal bleed. Geographic targeting without explicit constraint language typically masks subsidy vector or competitive advantage for positioned insurers operating in PR market.",
+    "vectors": [
+      "Regulatory capture: MA insurer exemption or preferential rate structure specific to PR jurisdiction",
+      "Fiscal bleed: Medicare reimbursement rate modification outside standard adjustment mechanism",
+      "Geographic tell: PR-specific language suggests constituency protection without systemic justification",
+      "Market-access exploit: potential forced entry or competitive shield in controlled MA market segment"
+    ],
+    "title": "Puerto Rico Medicare Advantage Fairness Act of 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/10747"
+  }
+]
