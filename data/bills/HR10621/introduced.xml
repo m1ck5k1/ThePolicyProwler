@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="A1" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 10621 IH: Medicaid Fraud Fighting and Taxpayer Protection Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2026-09-28</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">119th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 10621</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20260928">September 28, 2026</action-date><action-desc><sponsor name-id="G000568">Mr. Griffith</sponsor> (for himself, <cosponsor name-id="R000619">Mr. Rulli</cosponsor>, <cosponsor name-id="B000668">Mr. Bentz</cosponsor>, and <cosponsor name-id="B001257">Mr. Bilirakis</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title XIX of the Social Security Act to increase the State share of recovery under laws relating to false or fraudulent claims under the Medicaid program.</official-title></form><legis-body id="H6DC383BA2BD447569B159EE3C4224061" style="OLC" display-enacting-clause="yes-display-enacting-clause"> 
+<section id="H0E729719D9234971A289354650F29DCF" section-type="section-one" commented="no"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Medicaid Fraud Fighting and Taxpayer Protection Act</short-title></quote>.</text></section> <section id="HC8808302347C"><enum>2.</enum><header>Increasing State share of recovery under law relating to false or fraudulent claims</header> <subsection id="HB4A7E43F31B44B3A99EC033B5779F867"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 1909(a) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1396h">42 U.S.C. 1396h(a)</external-xref>) is amended by striking <quote>10 percentage points</quote> and inserting <quote>25 percentage points</quote>.</text></subsection> 
+<subsection id="H6C8FD631E4DD4B08BF358148D6214117"><enum>(b)</enum><header>Effective date</header><text>The amendment made by this section shall apply with respect to amounts recovered under a State action brought on or after the date of the enactment of this section.</text> </subsection></section> </legis-body></bill>
+

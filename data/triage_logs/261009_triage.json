@@ -1,0 +1,39 @@
+[
+  {
+    "bill_id": "119hr10621",
+    "score": 4,
+    "reason": "Title signals entitlement policing, but 'fraud fighting' is classic cover language for eligibility tightening and benefit erosion. Without summary text, the kernel payload is opaque\u2014but Medicaid bills with this nomenclature historically bundle administrative restriction riders with fiscal clawback provisions.",
+    "vectors": [
+      "entitlement_erosion: Medicaid eligibility/enrollment mechanics likely tightened under fraud pretense",
+      "regulatory_capture: potential carve-outs for state administrators or managed-care operators",
+      "fiscal_bleed: reductions in TGA Medicaid flows masked as anti-fraud efficiency"
+    ],
+    "title": "Medicaid Fraud Fighting and Taxpayer Protection Act",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/10621"
+  },
+  {
+    "bill_id": "119hr10633",
+    "score": 4,
+    "reason": "Title pattern flags entitlement erosion via 'integrity' framing\u2014classic regulatory capture language. 'Fiscal Accountability' often codes for benefit reductions, eligibility tightening, or provider payment cuts buried in compliance mechanics.",
+    "vectors": [
+      "Entitlement erosion: potential Medicaid benefit/eligibility restrictions masked as 'integrity'",
+      "Regulatory capture: 'accountability' frameworks often create carve-outs for managed care/pharmacy benefit managers",
+      "Fiscal bleed: cuts to state Medicaid rolls reduce federal matching obligations"
+    ],
+    "title": "Medicaid Integrity and Fiscal Accountability Act",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/10633"
+  },
+  {
+    "bill_id": "119hr6031",
+    "score": 4,
+    "reason": "Medicare Advantage (MA) represents ~$400B annual federal spend with documented regulatory gaps. 'Integrity' framing typically masks either (a) carve-outs protecting MA insurers from compliance costs or (b) market-access expansion disguised as enforcement.",
+    "vectors": [
+      "regulatory_capture",
+      "entitlement_structure_manipulation",
+      "insurance_industry_ROI_protection",
+      "deficit_neutral_false_savings_claims"
+    ],
+    "title": "Medicare Advantage Integrity Act of 2025",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/6031"
+  }
+]
