@@ -1,0 +1,28 @@
+[
+  {
+    "bill_id": "119hr10787",
+    "score": 4,
+    "reason": "Regulatory carve-out extracting specific medical supply categories from competitive bidding\u2014classic capture pattern protecting incumbent suppliers (likely durable medical equipment (DME) oligopolists) from price pressure. The 5-year exclusion window signals a designed lobbying renewal cycle.",
+    "vectors": [
+      "regulatory_capture: DME supplier exemption from competitive acquisition creates protected pricing zone",
+      "fiscal_bleed: removes cost-containment mechanism, increasing Medicare outlays on urological/ostomy supplies",
+      "lobbyist_renewal_cycle: 5-year sunset invites re-lobbying before expiration",
+      "geographic_tell: 'for other purposes' language suggests rider vehicles for additional carve-outs"
+    ],
+    "title": "To amend title XVIII of the Social Security Act to exclude urological and ostomy supplies from competitive acquisition programs under the Medicare program for 5 years, and for other purposes.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/10787"
+  },
+  {
+    "bill_id": "119hr10747",
+    "score": 4,
+    "reason": "Medicare Advantage carve-out for Puerto Rico signals regulatory capture and potential fiscal arbitrage. Likely exploits CMS reimbursement asymmetries or creates safe harbor for MA insurers in low-cost jurisdiction, with hidden entitlement cost vectors.",
+    "vectors": [
+      "regulatory_capture: MA insurer exemption or preferential treatment via geographic carve-out",
+      "fiscal_bleed: CMS reimbursement formula manipulation or entitlement cost shifting",
+      "market_access_exploit: insurers gaining privileged position in controlled PR healthcare market",
+      "geographic_tell: Puerto Rico-specific language masking broader MA policy restructure"
+    ],
+    "title": "Puerto Rico Medicare Advantage Fairness Act of 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/10747"
+  }
+]
