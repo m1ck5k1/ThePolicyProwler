@@ -1,0 +1,27 @@
+[
+  {
+    "bill_id": "119hr7147",
+    "score": 5,
+    "reason": "DHS continuing appropriations with placeholder summary\u2014classic smoke-screen vector for fiscal bleed and emergency-supplemental exploitation. Missing summary itself is forensic red flag: suggests rushed rider-loading or obfuscated payload. Requires immediate kernel audit.",
+    "vectors": [
+      "Defense/DHS smokescreens: emergency supplementals that obscure fiscal damage",
+      "Fiscal bleed: bills that expand deficits via TGA/appropriations redirection",
+      "Continuing appropriations as vector for buried carve-outs and regulatory capture"
+    ],
+    "title": "Homeland Security and Further Additional Continuing Appropriations Act, 2026.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/7147"
+  },
+  {
+    "bill_id": "119hr3271",
+    "score": 4,
+    "reason": "Title signals potential entitlement restructuring via 'Fair Share' framing\u2014classic rhetorical cover for benefit-formula recalibration or payroll-tax exemption carve-outs favoring high-income cohorts. Without full text, the kernel likely contains either progressive-rate mechanics that exploit the Greenspan Commission's taxable-wage-base architecture or exemptions for specific income streams.",
+    "vectors": [
+      "Entitlement erosion: potential Social Security/Medicare benefit-formula manipulation masked as equity measure",
+      "Regulatory capture: payroll-tax exemption or carve-out for capital-gains or investment-income flows",
+      "Fiscal bleed: reframing of trust-fund solvency timeline to justify benefit cuts or revenue-base narrowing",
+      "Geographic tell: 'Fair Share' language often precedes means-testing that concentrates cuts in specific demographic cohorts"
+    ],
+    "title": "Medicare and Social Security Fair Share Act",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/3271"
+  }
+]
