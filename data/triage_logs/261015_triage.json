@@ -1,0 +1,28 @@
+[
+  {
+    "bill_id": "119hr7147",
+    "score": 5,
+    "reason": "Continuing appropriations bill operating under ambiguous scope ('Further Additional') creates fiscal-mechanics exploit vector; DHS title signals potential emergency-supplemental smokescreen for unvetted TGA redirects and regulatory carve-outs buried in appropriations language.",
+    "vectors": [
+      "Fiscal bleed: continuing appropriations omnibus structure obscures line-item funding flows and deficit impact",
+      "Defense/DHS smokescreen: emergency-class appropriations language may mask unrelated riders and regulatory captures",
+      "Budget-mechanics exploit: 'Further Additional' phrasing suggests CR extension gaming or debt-limit workaround",
+      "Regulatory capture risk: appropriations bills commonly embed carve-outs and exemptions in funding conditions"
+    ],
+    "title": "Homeland Security and Further Additional Continuing Appropriations Act, 2026.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/7147"
+  },
+  {
+    "bill_id": "119hr2811",
+    "score": 4,
+    "reason": "SNAP administration bill with high capture risk\u2014'staffing flexibility' language typically masks regulatory easing, exemptions for state agencies, or outsourcing carve-outs that concentrate eligibility gatekeeping power. Without summary text, title alone signals potential entitlement erosion vector via administrative degradation.",
+    "vectors": [
+      "entitlement_erosion_via_admin_capture",
+      "state_agency_exemption_carve_outs",
+      "eligibility_gatekeeping_privatization",
+      "fiscal_bleed_through_reduced_benefit_processing"
+    ],
+    "title": "SNAP Staffing Flexibility Act of 2025",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/2811"
+  }
+]
