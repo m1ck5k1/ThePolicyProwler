@@ -1,0 +1,15 @@
+[
+  {
+    "bill_id": "119hr10806",
+    "score": 4,
+    "reason": "Home health payment integrity language typically masks payment rate cuts or audit intensification targeting mid-size providers. Without summary text, the title's 'protection' framing is classic regulatory-capture tell: protects payers/large consolidators while eliminating smaller competitors through compliance burden.",
+    "vectors": [
+      "Entitlement erosion: Medicare payment methodology changes bundled as 'integrity'",
+      "Regulatory capture: audit/compliance requirements that favor consolidated operators",
+      "Fiscal bleed: potential rate reductions disguised as fraud prevention",
+      "Market-access exploit: elimination of independent home health providers through regulatory friction"
+    ],
+    "title": "Medicare Home Health Payment Integrity and Protection Act of 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/10806"
+  }
+]
