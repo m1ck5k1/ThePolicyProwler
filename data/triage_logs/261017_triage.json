@@ -1,0 +1,41 @@
+[
+  {
+    "bill_id": "119hr2811",
+    "score": 4,
+    "reason": "SNAP legislation in 2025 legislative cycle signals high-probability entitlement erosion vector. 'Staffing Flexibility' framing typically masks state-side disinvestment, benefit-processing delays, or eligibility-verification tightening that reduces recipient access without explicit cuts.",
+    "vectors": [
+      "entitlement_erosion: SNAP benefit access degradation through administrative mechanism",
+      "regulatory_capture: potential state-level carve-out enabling reduced federal oversight",
+      "fiscal_displacement: shifting SNAP admin burden to states while centralizing cost-save",
+      "eligibility_friction: 'flexibility' language may encode stricter verification or reduced staffing for claims processing"
+    ],
+    "title": "SNAP Staffing Flexibility Act of 2025",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/2811"
+  },
+  {
+    "bill_id": "119hr6500",
+    "score": 4,
+    "reason": "Continuing resolution (CR) mechanics are classic fiscal-bleed vectors. CRs freeze spending at prior-year levels, create agency dysfunction that favors emergency supplementals, and enable riders that bypass normal committee scrutiny. Without summary text, title alone signals high-probability hidden payload.",
+    "vectors": [
+      "Fiscal bleed: CR structure incentivizes emergency supplementals and debt-limit gaming",
+      "Regulatory capture: CRs enable policy riders that bypass authorization committees",
+      "Budget dysfunction: Frozen spending levels create pressure for carve-outs favoring positioned contractors",
+      "Hidden payload: Continuation bills routinely contain unrelated policy extensions (defense, homeland security, entitlements)"
+    ],
+    "title": "Continuing Appropriations and Extensions Act, 2027",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/6500"
+  },
+  {
+    "bill_id": "119hr10806",
+    "score": 4,
+    "reason": "Home health reimbursement bills are high-signal for regulatory capture and fiscal bleed; title signals 'integrity' framing that often masks carve-outs favoring consolidated providers or payment model shifts that externalize costs to beneficiaries or state Medicaid programs.",
+    "vectors": [
+      "Regulatory capture: potential exemptions or safe harbors for specific home health operators or DSOs",
+      "Fiscal bleed: reimbursement rate changes or payment mechanism shifts that redirect Medicare trust fund flows",
+      "Entitlement erosion: hidden cost-shifting to beneficiaries or Medicaid through tightened coverage definitions",
+      "Market-access exploit: consolidation-friendly rules that favor large aggregators over independent providers"
+    ],
+    "title": "Medicare Home Health Payment Integrity and Protection Act of 2026",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/10806"
+  }
+]
