@@ -1,0 +1,15 @@
+[
+  {
+    "bill_id": "119hr8007",
+    "score": 5,
+    "reason": "SILVER Act (H.R. 8007) is a canonical Prowler case study: vault-mandate language wrapped in systemic-risk framing creates forced market access for positioned financial actors while disguising fiscal and regulatory capture mechanics.",
+    "vectors": [
+      "Market-access exploit: vault mandate forces open controlled precious-metals markets",
+      "Regulatory capture: systemic-risk language provides safe harbor for specific industry players",
+      "Fiscal bleed: mandate mechanics shift costs to public balance sheet",
+      "Lobbyist-ROI pattern: industry-positioned exemptions embedded in crisis-response language"
+    ],
+    "title": "SILVER Act",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8007"
+  }
+]
