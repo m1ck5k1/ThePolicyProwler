@@ -1,0 +1,27 @@
+[
+  {
+    "bill_id": "119hr8007",
+    "score": 5,
+    "reason": "CRITICAL. The SILVER Act (H.R.8007) is a known market-access exploit wrapped in systemic risk language\u2014forces open controlled precious metals vaults under regulatory pressure, creating arbitrage vectors for positioned financial actors while disguising itself as risk management.",
+    "vectors": [
+      "market_access_exploit",
+      "regulatory_capture",
+      "forced_market_opening",
+      "systemic_risk_smokescreen"
+    ],
+    "title": "SILVER Act",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8007"
+  },
+  {
+    "bill_id": "119hr258",
+    "score": 4,
+    "reason": "Bill blocks GSE pricing adjustments (Fannie Mae/Freddie Mac loan-level price adjustments and credit fees), a classic regulatory capture vector: protects specific borrower cohorts from risk-based pricing while socializing losses to taxpayers and preserving GSE quasi-public subsidy architecture.",
+    "vectors": [
+      "regulatory_capture: GSE carve-out protecting favored borrower classes from actuarial pricing",
+      "fiscal_bleed: prevents risk-based fee collection, redirects credit costs to general taxpayer via GSE implicit guarantee",
+      "market_access_exploit: locks pricing mechanisms that benefit positioned mortgage originators over competitive risk adjustment"
+    ],
+    "title": "To cancel certain proposed changes to loan level price adjustments by the Federal National Mortgage Association and credit fees charged by the Federal Home Loan Mortgage Corporation.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/258"
+  }
+]
