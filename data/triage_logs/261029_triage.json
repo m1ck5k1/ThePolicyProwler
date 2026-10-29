@@ -1,0 +1,28 @@
+[
+  {
+    "bill_id": "119hr8007",
+    "score": 5,
+    "reason": "SILVER Act (H.R.8007) is a canonical Prowler case study: market-access exploit disguised as systemic risk mitigation. The vault mandate forces open controlled precious metals markets for positioned financial actors while wrapping the payload in prudential language.",
+    "vectors": [
+      "market-access exploit",
+      "regulatory capture",
+      "vault mandate mechanics obscuring commercial beneficiaries",
+      "systemic risk framing as UI for vault-market opening",
+      "financial sector positioning"
+    ],
+    "title": "SILVER Act",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8007"
+  },
+  {
+    "bill_id": "119hr10876",
+    "score": 4,
+    "reason": "Title signals regulatory capture play targeting behavioral health sector. 'Deregulation' framing without summary suggests carve-outs or exemptions for specific operators; behavioral health is high-margin, state-fragmented market ripe for consolidation exploits.",
+    "vectors": [
+      "Regulatory capture: behavioral health exemptions or safe harbors",
+      "Market-access exploit: consolidation-enabling deregulation benefiting positioned insurers/providers",
+      "Potential Medicaid/mental health services redefinition affecting entitlement eligibility"
+    ],
+    "title": "Behavioral Healthcare Deregulation Act",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/10876"
+  }
+]
