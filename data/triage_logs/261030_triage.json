@@ -1,0 +1,27 @@
+[
+  {
+    "bill_id": "119hr10945",
+    "score": 4,
+    "reason": "Regulatory capture signal: carve-out from anti-kickback statute for nutrition services creates exemption vector for payments that would normally trigger fraud sanctions. Classic Prowler pattern\u2014exception language obscures which actors benefit and under what remuneration structures.",
+    "vectors": [
+      "Regulatory capture: anti-kickback statute exemption",
+      "Undefined remuneration scope: 'certain remunerations' lacks specificity\u2014ripe for expansion by rule",
+      "Healthcare vendor positioning: likely benefits food/nutrition contractors or integrated care providers",
+      "Sanction erosion: reduces enforcement risk for targeted actors in nutrition services supply chain"
+    ],
+    "title": "To amend title XI of the Social Security Act to exclude from the anti-kickback statute and other sanctions certain remunerations for providing food or nutrition services to individuals.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/10945"
+  },
+  {
+    "bill_id": "119hr3271",
+    "score": 4,
+    "reason": "Title signals entitlement reform targeting Medicare/Social Security fiscal structure. 'Fair Share' framing typical of revenue-side restructuring or benefit-cut justification wrapped in equity language. Requires immediate kernel audit to distinguish genuine progressive taxation from hidden benefit erosion or means-testing expansion.",
+    "vectors": [
+      "Entitlement erosion: potential Social Security/Medicare benefit reductions disguised as fairness reform",
+      "Fiscal reframing: 'Fair Share' language may mask deficit-reduction mechanics targeting social insurance",
+      "Means-testing vectors: common stealth mechanism for benefit cuts in Social Security/Medicare riders"
+    ],
+    "title": "Medicare and Social Security Fair Share Act",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/3271"
+  }
+]
