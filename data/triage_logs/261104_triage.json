@@ -1,0 +1,15 @@
+[
+  {
+    "bill_id": "119s1197",
+    "score": 4,
+    "reason": "Title signals entitlement erosion via 'reform' framing. 'Upward Mobility' language typically masks work requirements, asset tests, or benefit clawbacks\u2014classic regulatory capture of anti-poverty apparatus. No summary provided, but Prowler priority #4 (entitlement erosion) is high-probability trigger.",
+    "vectors": [
+      "entitlement_erosion_hidden_in_reform_language",
+      "likely_work_requirement_or_asset_test_carveout",
+      "SNAP_benefit_reduction_mechanism",
+      "reconciliation_rider_candidate"
+    ],
+    "title": "SNAP Reform and Upward Mobility Act of 2025",
+    "url": "https://www.congress.gov/bill/119th-congress/s-bill/1197"
+  }
+]
