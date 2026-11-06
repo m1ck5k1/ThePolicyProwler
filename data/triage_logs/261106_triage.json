@@ -1,0 +1,15 @@
+[
+  {
+    "bill_id": "119hr8495",
+    "score": 4,
+    "reason": "Appropriations bills are vector-rich for regulatory capture, agency budget redirects, and carve-outs embedded in line-item language. Without summary text, fiscal bleed patterns are opaque\u2014but this is precisely where Prowler deep-dive audits find laundered transfers, exempted agency enforcement budgets, and market-access favoritism disguised as administrative allocation.",
+    "vectors": [
+      "fiscal_bleed: agency budget redirects and TGA flow mechanics",
+      "regulatory_capture: enforcement budget starvation or carve-outs for specific actors",
+      "market_access_exploits: agency rule-writing capacity constraints benefiting deregulation agendas",
+      "defense_dhs_smokescreen: potential emergency or security language burying fiscal transfers"
+    ],
+    "title": "Financial Services and General Government Appropriations Act, 2027",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8495"
+  }
+]
