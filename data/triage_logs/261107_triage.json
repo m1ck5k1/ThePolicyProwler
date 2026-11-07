@@ -1,0 +1,14 @@
+[
+  {
+    "bill_id": "119hr10078",
+    "score": 4,
+    "reason": "Title signals fiscal constraint theater, but 'dollar-for-dollar' mechanics are classic Trojan horse for backdoor spending authority or debt-limit gimmickry. Requires kernel audit of offsetting language and definitional scope.",
+    "vectors": [
+      "fiscal_bleed: potential debt-limit workaround or TGA flow redirection masked as deficit reduction",
+      "regulatory_capture: 'dollar-for-dollar' offset language may contain carve-outs or agency exemptions",
+      "entitlement_erosion: offset mechanism could target mandatory spending (SNAP, Medicaid, Social Security) via reconciliation rider"
+    ],
+    "title": "Dollar-for-Dollar Deficit Reduction Act",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/10078"
+  }
+]
