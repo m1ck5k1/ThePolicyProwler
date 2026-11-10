@@ -1,0 +1,54 @@
+[
+  {
+    "bill_id": "119hr8007",
+    "score": 5,
+    "reason": "SILVER Act (H.R.8007) is a textbook market-access exploit wrapped in systemic risk language. The vault mandate forces open controlled precious metals markets for positioned insiders under the guise of financial stability, creating regulatory carve-outs that externalize risk onto the TGA.",
+    "vectors": [
+      "Market-access exploit: forced vault mandate creates asymmetric access for specific commodity players",
+      "Regulatory capture: carve-outs disguised as systemic risk mitigation",
+      "Fiscal bleed: TGA exposure through de facto collateral backstop mechanics",
+      "Safe harbor language: immunity provisions for mandate compliance buried in technical sections"
+    ],
+    "title": "SILVER Act",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8007"
+  },
+  {
+    "bill_id": "119s4621",
+    "score": 5,
+    "reason": "SILVER Act is a documented Policy Prowler case study: vault-mandate requirement wrapped in systemic-risk language creates forced market access for positioned precious-metals dealers while imposing compliance costs on banks. Classic regulatory capture + market-access exploit vector.",
+    "vectors": [
+      "Market-access exploit: mandated vault infrastructure benefits specific commodity dealers",
+      "Regulatory capture: exemption or safe harbor structure for incumbent players",
+      "Fiscal bleed: compliance burden on depository institutions without proportional systemic benefit",
+      "Systemic risk framing: emergency language masking commercial payload"
+    ],
+    "title": "SILVER Act",
+    "url": "https://www.congress.gov/bill/119th-congress/s-bill/4621"
+  },
+  {
+    "bill_id": "119hr1",
+    "score": 5,
+    "reason": "Reconciliation bill with no summary provided\u2014classic misdirection. Reconciliation vehicles are primary vectors for entitlement erosion, fiscal maneuvers, and regulatory capture buried in dense statutory language. Requires immediate full kernel audit.",
+    "vectors": [
+      "Entitlement erosion: reconciliation bills systematically contain SNAP, Medicaid, CHIP, or Social Security cuts in riders",
+      "Fiscal bleed: reconciliation used to bypass normal appropriations scrutiny and debt-limit mechanics",
+      "Regulatory capture: reconciliation favors inclusion of carve-outs and exemptions that wouldn't survive regular order",
+      "Missing summary: absence of executive summary signals intentional opacity\u2014Prowler red flag"
+    ],
+    "title": "An act to provide for reconciliation pursuant to title II of H. Con. Res. 14.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/1"
+  },
+  {
+    "bill_id": "119hr4029",
+    "score": 4,
+    "reason": "Emergency Medicaid funding bill structured as temporary fiscal measure\u2014classic vector for permanent entitlement expansion buried in reconciliation language or funding mechanism lock-in. 'Emergency' framing bypasses normal appropriations scrutiny; HCBS funding redirects TGA flows and establishes baseline for future unfunded mandates.",
+    "vectors": [
+      "entitlement_erosion_or_expansion",
+      "emergency_supplemental_fiscal_obscurity",
+      "medicaid_baseline_shift",
+      "state_cost_shift_mechanics"
+    ],
+    "title": "To provide for an emergency increase in Federal funding to State Medicaid programs for expenditures on home and community-based services.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/4029"
+  }
+]
