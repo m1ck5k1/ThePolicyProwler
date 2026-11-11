@@ -1,0 +1,53 @@
+[
+  {
+    "bill_id": "119hr8007",
+    "score": 5,
+    "reason": "SILVER Act (H.R.8007) is a canonical Prowler case study: vault-mandate language wrapped in systemic-risk framing creates forced market access for positioned financial actors while obscuring fiscal transfer mechanisms through regulatory reconfiguration.",
+    "vectors": [
+      "market-access exploit: vault mandate forces open controlled markets",
+      "regulatory capture: systemic risk language as cover for carve-out",
+      "fiscal bleed: hidden transfer mechanisms via regulatory reconfiguration",
+      "lobbyist-ROI pattern: benefits specific financial constituencies at systemic cost"
+    ],
+    "title": "SILVER Act",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/8007"
+  },
+  {
+    "bill_id": "119hr793",
+    "score": 4,
+    "reason": "Title signals entitlement erosion targeting SNAP (priority lens #4). 'Fairness' framing is classic regulatory capture language masking benefit reduction. Requires immediate audit of eligibility restrictions, work requirements, or asset-test tightening buried in operative sections.",
+    "vectors": [
+      "Entitlement erosion via eligibility/work-requirement tightening",
+      "Fiscal narrative inversion ('fairness' = austerity rebranding)",
+      "Likely reconciliation rider candidate or standalone deficit-offset mechanism"
+    ],
+    "title": "SNAP Benefits Fairness Act of 2025",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/793"
+  },
+  {
+    "bill_id": "119hr6951",
+    "score": 4,
+    "reason": "Title signals Medicaid estate recovery policy modification\u2014high Prowler relevance as entitlement erosion vector. 'Unfair' framing suggests regulatory carve-out or exemption restructure; without summary, likely contains means-test exemption or recovery-waiver for specific demographic/geographic cohort, reducing federal clawback and shifting fiscal burden.",
+    "vectors": [
+      "entitlement_erosion: Medicaid recovery mechanics modification",
+      "regulatory_capture: potential exemption carve-out for positioned states/providers",
+      "fiscal_bleed: estate recovery policy change may redirect TGA flows or reduce federal asset recovery",
+      "geographic_tells: 'unfair' framing without definition suggests targeted constituency protection"
+    ],
+    "title": "Stop Unfair Medicaid Recoveries Act",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/6951"
+  },
+  {
+    "bill_id": "119hr4029",
+    "score": 4,
+    "reason": "Emergency Medicaid funding increase presents classic fiscal bleed vector: emergency supplemental language bypasses regular appropriations scrutiny, and 'home and community-based services' carve-out may disproportionately benefit specific provider networks or states without transparent allocation formulas. Requires audit of funding distribution mechanism and beneficiary capture.",
+    "vectors": [
+      "fiscal bleed via emergency supplemental",
+      "potential regulatory capture through provider network carve-outs",
+      "opaque allocation formula risk",
+      "entitlement expansion timing relative to deficit mechanics"
+    ],
+    "title": "To provide for an emergency increase in Federal funding to State Medicaid programs for expenditures on home and community-based services.",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/4029"
+  }
+]
