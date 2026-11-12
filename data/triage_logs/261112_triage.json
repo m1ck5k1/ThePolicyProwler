@@ -1,0 +1,14 @@
+[
+  {
+    "bill_id": "119hr10983",
+    "score": 4,
+    "reason": "Title signals entitlement erosion targeting Medicaid beneficiaries. 'No Gambling' framing likely obscures eligibility restrictions, asset tests, or benefit conditionality disguised as behavioral paternalism\u2014classic regulatory capture pattern that privatizes risk onto vulnerable populations.",
+    "vectors": [
+      "Entitlement erosion: Medicaid benefit cuts or eligibility restrictions hidden in behavioral/paternalist language",
+      "Regulatory capture: potential carve-outs protecting insurance/fintech actors while restricting beneficiary autonomy",
+      "Fiscal bleed: downward pressure on Medicaid spending through administrative friction or benefit denial mechanisms"
+    ],
+    "title": "No Gambling for Medicaid Act",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/10983"
+  }
+]

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H80803937E39C4F71A022BBB1ACA67977" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 10983 IH: No Gambling for Medicaid Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2026-11-10</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">119th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 10983</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20261110">November 10, 2026</action-date><action-desc><sponsor name-id="H001101">Mr. Harrigan</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title XIX of the Social Security Act to exclude certain gambling winnings from monthly income under the community engagement requirement under the Medicaid program.</official-title></form><legis-body id="HF914F29FD490454380600EDBB99BD202" style="OLC"> 
+<section id="H86E00EFE0F1844F391E25FFDFAA54E41" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>No Gambling for Medicaid Act</short-title></quote>.</text></section> 
+<section id="H7A6285DB92994005AB05797E57A602BE"><enum>2.</enum><header>Exclusion of certain gambling winnings from monthly income under community engagement requirement for applicable individuals</header> <text display-inline="no-display-inline">Section 1902(xx) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1396a">42 U.S.C. 1396a(xx)</external-xref>) is amended—</text> <paragraph id="H6D500A77CC8F44DF89BEB52774D993F6"><enum>(1)</enum><text>in paragraph (2)(F), by inserting <quote>, excluding covered gambling winnings,</quote> after <quote>monthly income</quote>;</text></paragraph> 
+<paragraph id="H4E7ED0912FB34A48911A709647BC3383" commented="no"><enum>(2)</enum><text>in paragraph (2)(G), by inserting <quote>, excluding covered gambling winnings,</quote> after <quote>monthly income</quote>; and</text></paragraph> <paragraph id="HEB02647231C74FD3A2FE6A00DFBEE449"><enum>(3)</enum><text>in paragraph (9), by adding at the end the following new subparagraph:</text> 
+<quoted-block style="OLC" id="HFB6512DDC3FE47C7AD3EE55630AEF10B" display-inline="no-display-inline"> 
+<subparagraph id="H2EE355E506754514A08EDBCDE67609A2"><enum>(E)</enum><header>Covered gambling winnings</header> 
+<clause id="H19649F03362140FC87D62E753F2EB54F"><enum>(i)</enum><header>In general</header><text display-inline="yes-display-inline">The term <quote>covered gambling winnings</quote> means any prize, award, or income derived from a bet or wager, except a bet or wager that is engaged in as a trade or business activity.</text></clause> <clause id="H5436879841CF484E8133C4F00D2A6C13"><enum>(ii)</enum><header>Bet or wager</header><text display-inline="yes-display-inline">For purposes of clause (i), the term <quote>bet or wager</quote> has the meaning given such term in section 5362 of title 31, United States Code.</text></clause> 
+<clause id="HD40334C44F624735824EFFAC1A609021"><enum>(iii)</enum><header>Trade or business activity</header><text display-inline="yes-display-inline">For purposes of clause (i), the term <quote>trade or business activity</quote> means an activity that an individual engages in—</text> <subclause id="H8D958E2D7D8D4974863A4C4298013AB6"><enum>(I)</enum><text>for the primary purpose of income or profit; and</text></subclause> 
+<subclause id="HFFDBAD99D86F4C08978C673788D7D134"><enum>(II)</enum><text>with continuity and regularity.</text></subclause></clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block> </paragraph></section> </legis-body></bill>
+
