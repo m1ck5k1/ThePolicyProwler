@@ -1,0 +1,28 @@
+[
+  {
+    "bill_id": "119s1841",
+    "score": 4,
+    "reason": "Deregulation bill targeting fuel markets signals potential regulatory capture and market-access exploit. Title pattern matches Prowler-priority sectors (energy carve-outs, fuel-standard erosion) that typically obscure fiscal transfers to incumbent operators.",
+    "vectors": [
+      "Regulatory capture: fuel-standard rollbacks or safe harbors for specific refiners/producers",
+      "Market-access exploit: elimination of barriers protecting competing fuel types or infrastructure",
+      "Fiscal bleed: tax expenditures or TGA redirects embedded in deregulation mechanics",
+      "Geographic tells: regional fuel monopoly protection masked as choice/competition language"
+    ],
+    "title": "Fuel Choice and Deregulation Act of 2025",
+    "url": "https://www.congress.gov/bill/119th-congress/s-bill/1841"
+  },
+  {
+    "bill_id": "119hr10983",
+    "score": 4,
+    "reason": "Title suggests entitlement erosion mechanism targeting Medicaid beneficiaries; 'gambling' framing likely masks policy vector for benefit restrictions, asset tests, or work requirements. Requires immediate kernel audit to identify hidden fiscal bleed or behavioral control architecture.",
+    "vectors": [
+      "entitlement_erosion",
+      "medicaid_restriction_mechanics",
+      "behavioral_control_framing",
+      "asset_test_expansion_signal"
+    ],
+    "title": "No Gambling for Medicaid Act",
+    "url": "https://www.congress.gov/bill/119th-congress/hr-bill/10983"
+  }
+]
